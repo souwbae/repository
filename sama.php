@@ -1,0 +1,2900 @@
+<html lang="en-us">
+   <head profile="http://a9.com/-/spec/opensearch/1.1/">
+      <script src="https://cdn.cookielaw.org/scripttemplates/202501.2.0/otBannerSdk.js" nonce="BPjCF1P9gfPdkZX" async="" type="text/javascript"></script>
+    </head>
+      <script type="text/javascript" async="" src="https://s.yimg.jp/images/listing/tool/cv/ytag.js" nonce="BPjCF1P9gfPdkZX"></script>
+      <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5Q664QZ"></script>
+      <script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="BPjCF1P9gfPdkZX"></script>
+      <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-988382855&amp;cx=c&amp;gtm=4e5bj0h2" nonce="BPjCF1P9gfPdkZX"></script>
+      <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=DC-4228414&amp;cx=c&amp;gtm=4e5bj0h2" nonce="BPjCF1P9gfPdkZX"></script>
+      <script type="text/javascript" async="" src="https://s.yimg.jp/images/listing/tool/cv/ytag.js" nonce="BPjCF1P9gfPdkZX"></script>
+      <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-A12345&amp;cx=c&amp;gtm=4e5bj0h2" nonce="BPjCF1P9gfPdkZX"></script>
+      <script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js" nonce="BPjCF1P9gfPdkZX"></script>
+      <link href="https://cf.bstatic.com" rel="dns-prefetch" crossorigin="">
+      <link href="https://cf.bstatic.com" rel="dns-prefetch" crossorigin="">
+      <meta name="referrer" content="strict-origin-when-cross-origin">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+      <script nonce="BPjCF1P9gfPdkZX">
+         (function () {
+             window.b_early_errors = window.b_early_errors || [];
+             window.onerror = function () {
+                 window.b_early_errors.push(arguments);
+             };
+         })();
+      </script>
+      <link rel="stylesheet" id="main-css-preload" href="https://cf.bstatic.com/static/css/main_cloudfront_sd.iq_ltr/233f35c3a41645fa689bc3bdb38defb918ba3612.css" data-main-css="1">
+      <script nonce="BPjCF1P9gfPdkZX">
+         document.querySelector("#main-css-preload").addEventListener("load", function () {
+             window.mainCssWasLoaded = 1;
+         });
+      </script>
+      <link rel="stylesheet" href="https://cf.bstatic.com/static/css/main_exps_cloudfront_sd.iq_ltr/f3f7bce74850e3086e63c198d858b6528c5be8be.css">
+      <link rel="stylesheet" href="https://cf.bstatic.com/static/css/gprof_icons_cloudfront_sd.iq_ltr/f4fa450a0fd6a6ad8cafc28c74bf19a153e53191.css">
+      <link rel="stylesheet" type="text/css" href="https://cf.bstatic.com/static/css/hotel_base_cloudfront_sd.iq_ltr/63c5609b67ba65ae7df1a46c1fd5da9aa900c4b5.css" media="screen">
+      <link rel="stylesheet" type="text/css" href="https://cf.bstatic.com/static/css/hotel_experiments_cloudfront_sd.iq_ltr/be7c521dbe49453340f3540e0e3681914beb0d63.css" media="screen">
+      <link rel="stylesheet" type="text/css" href="https://cf.bstatic.com/static/css/hotel_experiments_rtrw_cloudfront_sd.iq_ltr/e568bdedfe29904777e8a619431817c5dabf389c.css" media="screen">
+      <link rel="prefetch" data-defer-prefetch="" href="https://cf.bstatic.com/static/css/searchresults_cloudfront_sd.iq_ltr/65f9ba6ce6834595643d1946decf599bdfb92021.css">
+      <link rel="prefetch" data-defer-prefetch="" href="https://cf.bstatic.com/static/css/book_cloudfront_sd.iq_ltr/ddad1a724ada14d59162038f1adbccf34f9fe77d.css">
+      <link rel="stylesheet" type="text/css" href="https://cf.bstatic.com/static/css/xp-isolated-sb_cloudfront_sd.iq_ltr/f872fbfecf0fa83c3ec5ab40244bad20af3058d9.css" media="screen, print">
+      <link rel="stylesheet" type="text/css" href="https://cf.bstatic.com/static/css/incentives_cloudfront_sd.iq_ltr/f1558a6e9832a4eb8cfe1d3d14db176bd3564335.css" media="screen">
+      <link rel="stylesheet" href="https://cf.bstatic.com/static/css/mlt_cloudfront_sd.iq_ltr.css">
+      <style nonce="BPjCF1P9gfPdkZX">
+         #basiclayout,
+         .basiclayout {
+         margin: 0;
+         }
+         #special_actions {
+         margin: 3px 15px 3px 0;
+         }
+         .ticker_space {
+         margin-top: 3px !important;
+         }
+         #logo_no_globe_new_logo {
+         top: 14px;
+         }
+         .b_msie_6 #top,
+         .b_msie_6 body.header_reshuffle #top {
+         height: 61px !important;
+         }
+         .b_msie_6 #special_actions {
+         margin: 3px 15px 3px 0;
+         overflow: visible;
+         }
+         body.header_reshuffle #top {
+         min-height: 50px !important;
+         height: auto !important;
+         }
+         .nobg {
+         background: #fff
+         url("https://cf.bstatic.com/static/img/nobg_all_blue_iq/b700d9e3067c1186a3364012df4fe1c48ae6da44.png")
+         repeat-x;
+         background-position: 0 -50px;
+         }
+      </style>
+      <link rel="preload" as="script" href="https://cf.bstatic.com/static/js/core-deps-inlinedet_cloudfront_sd/f62025e692b596dd53ecd1bd082dfd3197944c50.js" crossorigin="" nonce="BPjCF1P9gfPdkZX">
+      <link rel="preload" as="script" href="https://cf.bstatic.com/static/js/jquery_cloudfront_sd/e1e8c0e862309cb4caf3c0d5fbea48bfb8eaad42.js" crossorigin="" nonce="BPjCF1P9gfPdkZX">
+      <link rel="preload" as="script" href="https://cf.bstatic.com/static/js/main_min_cloudfront_sd/ca54577c11339c045d159fa48a3d5e351e1cc9a3.js" crossorigin="" nonce="BPjCF1P9gfPdkZX">
+      <link rel="preload" as="script" href="https://cf.bstatic.com/static/js/main_cloudfront_sd/1921274636141c5a0229109237d9ebede01d8037.js" crossorigin="" nonce="BPjCF1P9gfPdkZX">
+      <link rel="preload" as="script" href="https://cf.bstatic.com/static/js/searchbox_cloudfront_sd/d3fff906438c5bdb62638654d2628b6d49d15aa1.js" crossorigin="" nonce="BPjCF1P9gfPdkZX">
+      <link rel="preload" as="script" href="https://cf.bstatic.com/static/js/hotel_cloudfront_sd/f02f2e714723e05788086a35d5a8fbe9c6abc226.js" crossorigin="" nonce="BPjCF1P9gfPdkZX">
+      <link rel="preload" as="script" href="https://cf.bstatic.com/static/js/hotel_experiments_rtrw_cloudfront_sd/ad9fe4280fa372fe0a5c28568d19a7d7eb1a3244.js" crossorigin="" nonce="BPjCF1P9gfPdkZX">
+      <link rel="preload" as="script" href="https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/c40c55637440286271899bb4294fd743b387ac07.js" crossorigin="" nonce="BPjCF1P9gfPdkZX">
+      <script nonce="BPjCF1P9gfPdkZX">
+         if (window.performance && performance.measure && "b-stylesheets") {
+             performance.measure("b-stylesheets");
+         }
+      </script>
+      <title>KENCANG77 | SUGESTI SLOT GACOR TERPERCAYA GAMPANG MAXWIN MALAM INI</title>
+      <meta name="description" content="KENCANG77 hadir sebagai sugesti slot gacor terpercaya dengan peluang maxwin yang mudah. Dapatkan rekomendasi permainan terbaik malam ini dan nikmati pengalaman bermain yang lebih menguntungkan.">
+      <meta name="keywords" content="">
+      <meta name="robots" content="index,follow">
+      <link rel="canonical" href="https://samagestion.net/">
+      <link rel="amphtml" href="https://slot-gacor-kencang77.pages.dev/">
+      <link rel="alternate" href="android-app://com.booking/booking/hotel/430697?affiliate_id=375119">
+      <meta name="twitter:app:id:iphone" content="367003839">
+      <meta name="twitter:app:name:ipad" content="Kencang77 Slot Gacor Worldwide &amp; Hotel Deals">
+      <meta name="twitter:app:id:ipad" content="367003839">
+      <meta name="twitter:app:name:googleplay" content="Kencang77 Slot Gacor">
+      <meta name="twitter:app:id:googleplay" content="com.booking">
+      <meta property="al:ios:app_store_id" content="367003839">
+      <meta property="al:ios:app_name" content="Kencang77 Slot Gacor">
+      <meta property="al:android:app_name" content="Kencang77 Hotel Reservation">
+      <meta property="al:android:package" content="com.booking">
+      <meta name="twitter:title" content="">
+      <meta name="twitter:description" content="KENCANG77 hadir sebagai sugesti slot gacor terpercaya dengan peluang maxwin yang mudah. Dapatkan rekomendasi permainan terbaik malam ini dan nikmati pengalaman bermain yang lebih menguntungkan.">
+      <meta name="twitter:image" content="https://cdn.linktraffic.site/images/2025/11/27/single_cropped134ebdff9e7c9990ff.jpg">
+      <meta name="twitter:app:url:iphone" content="https://samagestion.net/">
+      <meta name="twitter:app:url:ipad" content="https://samagestion.net/">
+      <meta name="twitter:app:url:googleplay" content="https://samagestion.net/">
+      <meta property="al:ios:url" content="https://samagestion.net/">
+      <meta property="al:android:url" content="https://samagestion.net/">
+      <meta name="p:domain_verify" content="ff7f0b90ebb93e5bf7c7cafe77640ec1">
+      <meta http-equiv="content-language" content="en-us">
+      <meta http-equiv="content-script-type" content="text/javascript">
+      <meta http-equiv="content-style-type" content="text/css">
+      <meta http-equiv="window-target" content="_top">
+      <meta property="fb:pages" content="131840030178250, 1425349334428496, 117615518393985, 1565844503706287, 517612321758712, 1668799180037291, 265097377176252, 1643712662515912, 303492549842824, 1638321783047271, 809709019119342, 959185470826086, 217466488652137, 641365839348517, 203741606405114">
+      <meta property="wb:webmaster" content="48970bbca45d28c2">
+      <meta property="og:type" content="website">
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:site" content="@bookingcom">
+      <meta name="twitter:creator" content="@bookingcom">
+      <meta property="og:title" content="KENCANG77 | SUGESTI SLOT GACOR TERPERCAYA GAMPANG MAXWIN MALAM INI">
+      <meta property="og:description" content="KENCANG77 hadir sebagai sugesti slot gacor terpercaya dengan peluang maxwin yang mudah. Dapatkan rekomendasi permainan terbaik malam ini dan nikmati pengalaman bermain yang lebih menguntungkan.">
+      <meta property="og:image" content="https://cdn.linktraffic.site/images/2025/11/27/single_cropped134ebdff9e7c9990ff.jpg">
+      <meta property="og:image:width" content="1024">
+      <meta property="og:image:height" content="576">
+      <meta property="booking_com:location:latitude" content="">
+      <meta property="booking_com:location:longitude" content="">
+      <meta property="og:locale" content="en_US">
+      <meta property="og:url" content="https://samagestion.net/">
+      <meta property="og:site_name" content="Kencang77">
+      <meta property="fb:app_id" content="145362478954725">
+      <link rel="icon" href="https://cdn.linktraffic.site/images/2025/11/27/kencangf52736592e89e711.png" type="image/svg+xml">
+      <link rel="icon" href="https://cdn.linktraffic.site/images/2025/11/27/kencangf52736592e89e711.png" type="image/png" sizes="192x192">
+      <link rel="icon" href="https://cdn.linktraffic.site/images/2025/11/27/kencangf52736592e89e711.png" sizes="32x32">
+      <link rel="apple-touch-icon" href="https://cdn.linktraffic.site/images/2025/11/27/kencangf52736592e89e711.png">
+      <script type="application/ld+json" nonce="BPjCF1P9gfPdkZX">
+         {
+             "@type": "Hotel",
+             "url": "https://samagestion.net/",
+             "priceRange": null,
+             "address": {
+                 "postalCode": "",
+                 "addressRegion": "Website",
+                 "streetAddress": "Kencang77, Slot Gacor, Indonesia",
+                 "addressLocality": "Kencang77",
+                 "@type": "PostalAddress",
+                 "addressCountry": "Indonesia"
+             },
+             "description": "KENCANG77 hadir sebagai sugesti slot gacor terpercaya dengan peluang maxwin yang mudah. Dapatkan rekomendasi permainan terbaik malam ini dan nikmati pengalaman bermain yang lebih menguntungkan.",
+             "name": "KENCANG77 | SUGESTI SLOT GACOR TERPERCAYA GAMPANG MAXWIN MALAM INI",
+             "image": "https://cdn.linktraffic.site/images/2025/11/27/kencang7726b0c758fe19302f.png",
+             "@context": "http://schema.org",
+             "aggregateRating": {
+                 "@type": "AggregateRating",
+                 "bestRating": 10,
+                 "ratingValue": 8.3,
+                 "reviewCount": 247
+             }
+         }
+      </script>
+      <script type="text/javascript" nonce="BPjCF1P9gfPdkZX">
+         var _gaq = _gaq || [];
+      </script>
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/client.49e06c2b.css" data-chunk="client" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/client.49e06c2b.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/9ac9834f.a349576a.chunk.css" data-chunk="bPropertyWebPropertyPage-components-Map-MapDesktop-Map" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/9ac9834f.a349576a.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/9e5951df.b8d76509.chunk.css" data-chunk="bPropertyWebPropertyPage-components-MapEntryPointDesktop" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/9e5951df.b8d76509.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/fbca8bad.b79ae330.chunk.css" data-chunk="bPropertyWebPropertyPage-components-PropertyDescription-PropertyDescriptionDesktop-PropertyDescriptionDesktop" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/fbca8bad.b79ae330.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/d5790b7c.857f8901.chunk.css" data-chunk="bPropertyWebPropertyPage-components-Gallery-PropertyGallery360Viewer" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/d5790b7c.857f8901.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/79b5a146.5cc84a17.chunk.css" data-chunk="bPropertyWebPropertyPage-components-PropertyGallerySidebarReviewsDesktop-PropertyGallerySidebarReviewsDesktop" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/79b5a146.5cc84a17.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/8ca37a5f.57d521d1.chunk.css" data-chunk="bPropertyWebPropertyPage-PropertyFacilitiesBlock-MostPopularFacilitiesSectionDesktop" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/8ca37a5f.57d521d1.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/2a4877b2.d2d5e800.chunk.css" data-chunk="bPropertyWebPropertyPage-Mvrex-carousels-SimilarPropertiesCarousel-SimilarPropertiesCarouselAvailable" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/2a4877b2.d2d5e800.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/ac8c03a1.cea3ef83.chunk.css" data-chunk="bPropertyWebPropertyPage-HouseRules-HouseRules" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/ac8c03a1.cea3ef83.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/2cea9793.13d7217b.chunk.css" data-chunk="bPropertyWebPropertyPage-PropertyFinePrint-PropertyFinePrint" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/2cea9793.13d7217b.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/9248d82a.9d6c8cbf.chunk.css" data-chunk="bPropertyWebPropertyPage-TraderInformation" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/9248d82a.9d6c8cbf.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/538e3f03.88595ae7.chunk.css" data-chunk="bPropertyWebPropertyPage-components-PropertyShare-PropertyShareDesktop-PropertyShareDesktop" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/538e3f03.88595ae7.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/00f0620c.917a140f.chunk.css" data-chunk="bPropertyWebPropertyPage-components-PropertyWriteReview-PropertyWriteReview" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/00f0620c.917a140f.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/35f723e7.09b2d1e5.chunk.css" data-chunk="bPropertyWebPropertyPage-components-RoomTable-RoomPage-RoomPageBase" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/35f723e7.09b2d1e5.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/532cdb87.5973d17b.chunk.css" data-chunk="bPropertyWebPropertyPage-components-RoomTable-Desktop-RoomTableBase" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/532cdb87.5973d17b.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/f0477014.cee350a1.chunk.css" data-chunk="bPropertyWebPropertyPage-bookingcom-search-web-searchresults-components-SearchBoxDesktopHorizontal-SearchBoxDesktopHorizontal" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/f0477014.cee350a1.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/44d0a763.b885ce74.chunk.css" data-chunk="bPropertyWebPropertyPage-bookingcom-search-web-searchresults-components-SearchBoxDesktopChangeDates-SearchBoxDesktopChangeDates" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/44d0a763.b885ce74.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/1fd362a4.d2d5e800.chunk.css" data-chunk="bPropertyWebPropertyPage-components-Mvrex-carousels-SimilarPropertiesCarousel-SimilarPropertiesCarouselNotAvailable" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/1fd362a4.d2d5e800.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/43032106.de80c974.chunk.css" data-chunk="bPropertyWebPropertyPage-components-SustainabilityBadge-SustainabilityBadge" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/43032106.de80c974.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/42ba0fc1.0de88cd6.chunk.css" data-chunk="bPropertyWebPropertyPage-components-SustainabilityBanner-SustainabilityBannerDesktop-SustainabilityBannerDesktop" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/42ba0fc1.0de88cd6.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/8094fb6a.b4a158f4.chunk.css" data-chunk="bPropertyWebPropertyPage-components-UkraineWarningBanner-UkraineWarningBanner" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/8094fb6a.b4a158f4.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/f58fab51.540a8636.chunk.css" data-chunk="bPropertyWebPropertyPage-QualityRating" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/f58fab51.540a8636.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/c9417943.5350c91c.chunk.css" data-chunk="bPropertyWebPropertyPage-PropertyReviewsRegion" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/c9417943.5350c91c.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/ee58a99f.d222b7e7.chunk.css" data-chunk="bPropertyWebPropertyPage-PropertyQuestionsAnswers-PropertyQuestionsAnswersDesktop" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/ee58a99f.d222b7e7.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/6bba6211.069a8cf3.chunk.css" data-chunk="bPropertyWebPropertyPage-PropertyMatchmakingQuestionsAnswersDesktop" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/6bba6211.069a8cf3.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/dfaa54be.1f37bb00.chunk.css" data-chunk="bPropertyWebPropertyPage-PropertyRestaurantsBlock" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/dfaa54be.1f37bb00.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/f1b2f4ad.a9c8a57c.chunk.css" data-chunk="bPropertyWebPropertyPage-bookingcom-alpaca-patterns-PropertyPage-patterns-PropertySectionDesktop-PropertySectionDesktop" rel="stylesheet" href="https://cf.bstatic.com/psb/capla/static/css/f1b2f4ad.a9c8a57c.chunk.css">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/b9a82cb8.df2bad89.chunk.css" data-chunk="bWebShellComponents-bWebShellComponents-GlobalAlerts" href="https://cf.bstatic.com/psb/capla/static/css/b9a82cb8.df2bad89.chunk.css" type="text/css" rel="stylesheet">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/81da5f32.1ef743a5.chunk.css" data-chunk="bWebShellComponents-bWebShellComponents-AccommodationFooter" href="https://cf.bstatic.com/psb/capla/static/css/81da5f32.1ef743a5.chunk.css" type="text/css" rel="stylesheet">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/dc32f6b7.8bf4a13a.chunk.css" data-chunk="bWebShellComponents-bWebShellComponents-AccommodationHeader" href="https://cf.bstatic.com/psb/capla/static/css/dc32f6b7.8bf4a13a.chunk.css" type="text/css" rel="stylesheet">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/be127943.f77efbc8.chunk.css" data-chunk="bWishlistWishlistCs-bWishlistWishlistCs-WishlistWidgetPpHighlights" href="https://cf.bstatic.com/psb/capla/static/css/be127943.f77efbc8.chunk.css" type="text/css" rel="stylesheet">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/6b97af9b.f77efbc8.chunk.css" data-chunk="bWishlistWishlistCs-bWishlistWishlistCs-WishlistWidgetPp" href="https://cf.bstatic.com/psb/capla/static/css/6b97af9b.f77efbc8.chunk.css" type="text/css" rel="stylesheet">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/c26a6947.80c171a1.chunk.css" data-chunk="bGeniusVipWebComponentService-bGeniusVipWebComponentService-GeniusPlusProgramModeWelcomeSheet" href="https://cf.bstatic.com/psb/capla/static/css/c26a6947.80c171a1.chunk.css" type="text/css" rel="stylesheet">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/7819cdf7.80c171a1.chunk.css" data-chunk="bGeniusVipWebComponentService-bGeniusVipWebComponentService-GeniusPlusSheetsPP" href="https://cf.bstatic.com/psb/capla/static/css/7819cdf7.80c171a1.chunk.css" type="text/css" rel="stylesheet">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/09fb2abd.80c171a1.chunk.css" data-chunk="bGeniusVipWebComponentService-bGeniusVipWebComponentService-GeniusVipVoucherSheet" href="https://cf.bstatic.com/psb/capla/static/css/09fb2abd.80c171a1.chunk.css" type="text/css" rel="stylesheet">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/dd79016c.956ae31e.chunk.css" data-chunk="bSurveyTrackerComponentService-bSurveyTrackerComponentService-SurveyTrackerV3" href="https://cf.bstatic.com/psb/capla/static/css/dd79016c.956ae31e.chunk.css" type="text/css" rel="stylesheet">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/7e8161ba.77bbb250.chunk.css" data-chunk="bMarketingRewardsUiWebComponentService-bMarketingRewardsUiWebComponentService-RewardsFunnelBannerAndLandSheet" href="https://cf.bstatic.com/psb/capla/static/css/7e8161ba.77bbb250.chunk.css" type="text/css" rel="stylesheet">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/0232f70e.0a2e8637.chunk.css" data-chunk="bSeoCoreComponents-bSeoCoreComponents-PropertyPageFAQ" href="https://cf.bstatic.com/psb/capla/static/css/0232f70e.0a2e8637.chunk.css" type="text/css" rel="stylesheet">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/c7d35f92.527bde91.chunk.css" data-chunk="bSeoCoreComponents-bSeoCoreComponents-PropertyPageInterlinking" href="https://cf.bstatic.com/psb/capla/static/css/c7d35f92.527bde91.chunk.css" type="text/css" rel="stylesheet">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/8f3c8312.22f4968d.chunk.css" data-chunk="bSeoMetaComponentService-bSeoMetaComponentService-PropertyPageBreadcrumbs" href="https://cf.bstatic.com/psb/capla/static/css/8f3c8312.22f4968d.chunk.css" type="text/css" rel="stylesheet">
+      <link nonce="BPjCF1P9gfPdkZX" data-href="static/css/a9a49e9c.de7f818a.chunk.css" data-chunk="bIamFeComponents-bIamFeComponents-GeniusSignInBannerRoomsTable" href="https://cf.bstatic.com/psb/capla/static/css/a9a49e9c.de7f818a.chunk.css" type="text/css" rel="stylesheet">
+      <script type="text/javascript" async="true" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" charset="UTF-8" data-document-language="true" data-domain-script="3ea94870-d4b1-483a-b1d2-faf1d982bb31" nonce="BPjCF1P9gfPdkZX"></script>
+      <link rel="stylesheet" type="text/css" href="https://cf.bstatic.com/psb/capla/static/js/../../static/css/node_modules_bookingcom_bui-react_themes_rentalcars_js.fe465c92.css">
+      <link rel="stylesheet" type="text/css" href="https://cf.bstatic.com/psb/capla/static/js/../../static/css/node_modules_bookingcom_bui-react_themes_traveller_ex_js.23327ff0.css">
+      <link rel="stylesheet" type="text/css" href="https://cf.bstatic.com/psb/capla/static/js/../../static/css/node_modules_bookingcom_bui-react_themes_legacy_js.32c054fb.css">
+      <link rel="stylesheet" type="text/css" href="https://cf.bstatic.com/psb/capla/static/js/../../static/css/d65aeb72.d077cd3c.chunk.css">
+      <link rel="stylesheet" type="text/css" href="https://cf.bstatic.com/psb/capla/static/js/../../static/css/b447f20e.114680dc.chunk.css">
+      <link rel="stylesheet" type="text/css" href="https://cf.bstatic.com/psb/capla/static/js/../../static/css/c0d7ec73.b21d0322.chunk.css">
+      <link rel="stylesheet" type="text/css" href="https://cf.bstatic.com/psb/capla/static/js/../../static/css/779316e2.dfeb4e63.chunk.css">
+      <link rel="stylesheet" type="text/css" href="https://cf.bstatic.com/static/css/print/0cc4ce4b7108d42a9f293fc9b654f749d84ba4eb.css" media="print">
+      <script src="https://cdn.cookielaw.org/scripttemplates/202501.2.0/otBannerSdk.js" nonce="BPjCF1P9gfPdkZX" async="" type="text/javascript"></script>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <script src="https://gum.criteo.com/sync?c=740&amp;a=1&amp;r=2&amp;j=sgumid"></script>
+      <script async="" defer="" src="https://accounts.google.com/gsi/client"></script>
+      <link type="text/css" rel="stylesheet" href="//cf.bstatic.com/static/css/fonticons_clean/base64/woff/5d61b8a7156073e5e3e9741f65dda44ae3eef7d2.css">
+      <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/988382855/?random=1763815758414&amp;cv=11&amp;fst=1763815758414&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5bj0h2v875529256z879615461za200zb79615461zd79615461xea&amp;gcd=13v3v3v3v5l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527907~104528500~104684208~104684211~105322302~115583767~115938465~115938469~116184927~116184929~116217636~116217638&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fkh%2Fnature-lodge.html%3Faid%3D304142%26label%3Dgen173bo-10CAEoggI46AdIM1gDaHiIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGYAgKoAgG4AsDihskGwAIB0gIkODU5OGM0MzYtZTZmOC00NTk2LThiNjgtMzc4Y2UzMTQxYWIy2AIB4AIB%26sid%3D69a531678c92530bd936b4d82e71bffc%26dest_id%3D430697%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1763815755%26srpvid%3Df0df5a24c34e052e%26type%3Dtotal%26ucfs%3D1%26&amp;label=zmfoCMGC14EDEIeNptcD&amp;frm=0&amp;tiba=Nature%20Lodge%2C%20Slot Gacor%20(updated%20prices%202025)&amp;did=dYWJhMj&amp;gdid=dYWJhMj&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1626510796.1763809749&amp;_tu=KA&amp;data=id%3D430697%3Bbook_window%3D%3Bgoogle_business_vertical%3Dhotel_rental&amp;rfmt=3&amp;fmt=4" nonce="BPjCF1P9gfPdkZX"></script>
+      <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/988382855/?random=1763815758420&amp;cv=11&amp;fst=1763815758420&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5bj0h2v875529256z879615461za200zb79615461zd79615461xea&amp;gcd=13v3v3v3v5l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527907~104528500~104684208~104684211~105322302~115583767~115938465~115938469~116184927~116184929~116217636~116217638&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fkh%2Fnature-lodge.html%3Faid%3D304142%26label%3Dgen173bo-10CAEoggI46AdIM1gDaHiIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGYAgKoAgG4AsDihskGwAIB0gIkODU5OGM0MzYtZTZmOC00NTk2LThiNjgtMzc4Y2UzMTQxYWIy2AIB4AIB%26sid%3D69a531678c92530bd936b4d82e71bffc%26dest_id%3D430697%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1763815755%26srpvid%3Df0df5a24c34e052e%26type%3Dtotal%26ucfs%3D1%26&amp;label=qxb_CKLbrYADEIeNptcD&amp;frm=0&amp;tiba=Nature%20Lodge%2C%20Slot Gacor%20(updated%20prices%202025)&amp;did=dYWJhMj&amp;gdid=dYWJhMj&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1626510796.1763809749&amp;_tu=CA&amp;rfmt=3&amp;fmt=4" nonce="BPjCF1P9gfPdkZX"></script>
+      <style id="googleidentityservice_button_styles">
+      .f1152bae71 {
+        white-space: pre-wrap !important;
+        }
+         .c6d08b4c3c:only-child, .ae5dbab14d:only-child {
+         --bui_stack_height:70px;
+         }
+         .qJTHM {
+         -moz-user-select: none;
+         -webkit-user-select: none;
+         -ms-user-select: none;
+         color: #202124;
+         direction: ltr;
+         -webkit-touch-callout: none;
+         font-family: "Roboto-Regular", arial, sans-serif;
+         -webkit-font-smoothing: antialiased;
+         font-weight: 400;
+         margin: 0;
+         overflow: hidden;
+         -webkit-text-size-adjust: 100%;
+         }
+         .ynRLnc {
+         left: -9999px;
+         position: absolute;
+         top: -9999px;
+         }
+         .L6cTce {
+         display: none;
+         }
+         .bltWBb {
+         overflow-wrap: break-word;
+         word-break: break-word;
+         }
+         .hSRGPd {
+         color: #1a73e8;
+         cursor: pointer;
+         font-weight: 500;
+         text-decoration: none;
+         }
+         .Bz112c-W3lGp {
+         height: 16px;
+         width: 16px;
+         }
+         .Bz112c-E3DyYd {
+         height: 20px;
+         width: 20px;
+         }
+         .Bz112c-r9oPif {
+         height: 24px;
+         width: 24px;
+         }
+         .Bz112c-u2z5K {
+         height: 36px;
+         width: 36px;
+         }
+         .Bz112c-uaxL4e {
+         border-radius: 10px;
+         }
+         .LgbsSe-Bz112c {
+         display: block;
+         }
+         .S9gUrf-YoZ4jf {
+         border: none;
+         margin: 0;
+         padding: 0;
+         }
+         .S9gUrf-YoZ4jf * {
+         border: none;
+         margin: 0;
+         padding: 0;
+         }
+         .fFW7wc-ibnC6b > .aZ2wEe > div {
+         border-color: #4285f4;
+         }
+         .P1ekSe-ZMv3u {
+         transition: height linear 0.2s;
+         }
+         .P1ekSe-ZMv3u > div:nth-child(1) {
+         background-color: #1a73e8 !important;
+         transition: width linear 0.3s;
+         }
+         .P1ekSe-ZMv3u > div:nth-child(2) {
+         background-image: linear-gradient(to right, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
+         linear-gradient(to right, #1a73e8, #1a73e8) !important;
+         }
+         .P1ekSe-ZMv3u > div:nth-child(3) {
+         background-image: linear-gradient(to right, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
+         linear-gradient(to right, #1a73e8, #1a73e8) !important;
+         }
+         .haAclf {
+         display: inline-block;
+         }
+         .nsm7Bb-HzV7m-LgbsSe {
+         border-radius: 4px;
+         -moz-box-sizing: border-box;
+         box-sizing: border-box;
+         transition:
+         background-color 0.218s,
+         border-color 0.218s;
+         -moz-user-select: none;
+         -webkit-user-select: none;
+         -ms-user-select: none;
+         -webkit-appearance: none;
+         background-color: #fff;
+         background-image: none;
+         border: 1px solid #dadce0;
+         color: #3c4043;
+         cursor: pointer;
+         font-family: "Google Sans", arial, sans-serif;
+         font-size: 14px;
+         height: 40px;
+         letter-spacing: 0.25px;
+         outline: none;
+         overflow: hidden;
+         padding: 0 12px;
+         position: relative;
+         text-align: center;
+         vertical-align: middle;
+         white-space: nowrap;
+         width: auto;
+         }
+         @media screen and (-ms-high-contrast: active) {
+         .nsm7Bb-HzV7m-LgbsSe {
+         border: 2px solid windowText;
+         color: windowText;
+         }
+         }
+         @media screen and (preferes-contrast: more) {
+         .nsm7Bb-HzV7m-LgbsSe {
+         color: #000;
+         }
+         }
+         .nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe {
+         font-size: 14px;
+         height: 32px;
+         letter-spacing: 0.25px;
+         padding: 0 10px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe {
+         font-size: 11px;
+         height: 20px;
+         letter-spacing: 0.3px;
+         padding: 0 8px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe {
+         padding: 0;
+         width: 40px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.pSzOP-SxQuSe {
+         width: 32px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.purZT-SxQuSe {
+         width: 20px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK {
+         border-radius: 20px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK.pSzOP-SxQuSe {
+         border-radius: 16px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK.purZT-SxQuSe {
+         border-radius: 10px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc {
+         border: none;
+         color: #fff;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.MFS4be-v3pZbf-Ia7Qfc {
+         background-color: #1a73e8;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.MFS4be-JaPV2b-Ia7Qfc {
+         background-color: #202124;
+         color: #e8eaed;
+         }
+         @media screen and (prefers-contrast: more) {
+         .nsm7Bb-HzV7m-LgbsSe.MFS4be-JaPV2b-Ia7Qfc {
+         color: #fff;
+         }
+         }
+         .nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c {
+         height: 18px;
+         margin-right: 8px;
+         min-width: 18px;
+         width: 18px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c {
+         height: 14px;
+         min-width: 14px;
+         width: 14px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c {
+         height: 10px;
+         min-width: 10px;
+         width: 10px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-Bz112c {
+         margin-left: 8px;
+         margin-right: -4px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c {
+         margin: 0;
+         padding: 10px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.pSzOP-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c {
+         padding: 8px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c {
+         padding: 4px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf {
+         border-top-left-radius: 3px;
+         border-bottom-left-radius: 3px;
+         display: -moz-box;
+         display: flex;
+         -moz-box-pack: center;
+         justify-content: center;
+         -moz-box-align: center;
+         align-items: center;
+         background-color: #fff;
+         height: 36px;
+         margin-left: -10px;
+         margin-right: 12px;
+         min-width: 36px;
+         width: 36px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf .nsm7Bb-HzV7m-LgbsSe-Bz112c,
+         .nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf .nsm7Bb-HzV7m-LgbsSe-Bz112c {
+         margin: 0;
+         padding: 0;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf {
+         height: 28px;
+         margin-left: -8px;
+         margin-right: 10px;
+         min-width: 28px;
+         width: 28px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf {
+         height: 16px;
+         margin-left: -6px;
+         margin-right: 8px;
+         min-width: 16px;
+         width: 16px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf {
+         border-radius: 3px;
+         margin-left: 2px;
+         margin-right: 0;
+         padding: 0;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf {
+         border-radius: 18px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf {
+         border-radius: 14px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf {
+         border-radius: 8px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb {
+         display: -moz-box;
+         display: flex;
+         -moz-box-align: center;
+         align-items: center;
+         -moz-box-orient: horizontal;
+         -moz-box-direction: normal;
+         flex-direction: row;
+         -moz-box-pack: justify;
+         justify-content: space-between;
+         flex-wrap: nowrap;
+         height: 100%;
+         position: relative;
+         width: 100%;
+         }
+         .nsm7Bb-HzV7m-LgbsSe .oXtfBe-l4eHX {
+         -moz-box-pack: center;
+         justify-content: center;
+         }
+         .nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-BPrWId {
+         -moz-box-flex: 1;
+         flex-grow: 1;
+         font-family: "Google Sans", arial, sans-serif;
+         font-weight: 500;
+         overflow: hidden;
+         text-overflow: ellipsis;
+         vertical-align: top;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-BPrWId {
+         font-weight: 300;
+         }
+         .nsm7Bb-HzV7m-LgbsSe .oXtfBe-l4eHX .nsm7Bb-HzV7m-LgbsSe-BPrWId {
+         -moz-box-flex: 0;
+         flex-grow: 0;
+         }
+         .nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-MJoBVe {
+         transition: background-color 0.218s;
+         bottom: 0;
+         left: 0;
+         position: absolute;
+         right: 0;
+         top: 0;
+         }
+         .nsm7Bb-HzV7m-LgbsSe:hover,
+         .nsm7Bb-HzV7m-LgbsSe:focus {
+         box-shadow: none;
+         border-color: rgb(210, 227, 252);
+         outline: none;
+         }
+         .nsm7Bb-HzV7m-LgbsSe:focus-within {
+         outline: 2px solid #00639b;
+         border-color: transparent;
+         }
+         .nsm7Bb-HzV7m-LgbsSe:hover .nsm7Bb-HzV7m-LgbsSe-MJoBVe {
+         background: rgba(66, 133, 244, 0.08);
+         }
+         .nsm7Bb-HzV7m-LgbsSe:active .nsm7Bb-HzV7m-LgbsSe-MJoBVe,
+         .nsm7Bb-HzV7m-LgbsSe:focus .nsm7Bb-HzV7m-LgbsSe-MJoBVe {
+         background: rgba(66, 133, 244, 0.1);
+         }
+         .nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc:hover .nsm7Bb-HzV7m-LgbsSe-MJoBVe {
+         background: rgba(255, 255, 255, 0.24);
+         }
+         .nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc:active .nsm7Bb-HzV7m-LgbsSe-MJoBVe,
+         .nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc:focus .nsm7Bb-HzV7m-LgbsSe-MJoBVe {
+         background: rgba(255, 255, 255, 0.32);
+         }
+         .nsm7Bb-HzV7m-LgbsSe .n1UuX-DkfjY {
+         border-radius: 50%;
+         display: -moz-box;
+         display: flex;
+         height: 20px;
+         margin-left: -4px;
+         margin-right: 8px;
+         min-width: 20px;
+         width: 20px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId {
+         font-family: "Roboto";
+         font-size: 12px;
+         text-align: left;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .ssJRIf,
+         .nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff .fmcmS {
+         overflow: hidden;
+         text-overflow: ellipsis;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff {
+         display: -moz-box;
+         display: flex;
+         -moz-box-align: center;
+         align-items: center;
+         color: #5f6368;
+         fill: #5f6368;
+         font-size: 11px;
+         font-weight: 400;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.jVeSEe.MFS4be-Ia7Qfc .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff {
+         color: #e8eaed;
+         fill: #e8eaed;
+         }
+         @media screen and (prefers-contrast: more) {
+         .nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff,
+         .nsm7Bb-HzV7m-LgbsSe.jVeSEe.MFS4be-Ia7Qfc .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff {
+         color: #000;
+         fill: #000;
+         }
+         }
+         .nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff .Bz112c {
+         height: 18px;
+         margin: -3px -3px -3px 2px;
+         min-width: 18px;
+         width: 18px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf {
+         border-top-left-radius: 0;
+         border-bottom-left-radius: 0;
+         border-top-right-radius: 3px;
+         border-bottom-right-radius: 3px;
+         margin-left: 12px;
+         margin-right: -10px;
+         }
+         .nsm7Bb-HzV7m-LgbsSe.jVeSEe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf {
+         border-radius: 18px;
+         }
+         .L5Fo6c-sM5MNb {
+         border: 0;
+         display: block;
+         left: 0;
+         position: relative;
+         top: 0;
+         }
+         .L5Fo6c-bF1uUb {
+         border-radius: 4px;
+         bottom: 0;
+         cursor: pointer;
+         left: 0;
+         position: absolute;
+         right: 0;
+         top: 0;
+         }
+         .L5Fo6c-bF1uUb:focus {
+         border: none;
+         outline: none;
+         }
+         sentinel {
+         }
+      </style>
+      <script src="https://bat.bing.com/p/action/15005356.js" type="text/javascript" async="" data-ueto="ueto_abfd517bf4"></script>
+      <link id="googleidentityservice" type="text/css" media="all" href="https://accounts.google.com/gsi/style" rel="stylesheet">
+      <meta http-equiv="origin-trial" content="A8o5T4MyEkRZqLA9WeG2XTFdV5tsX2Prg85xyQ+RL1btVuybB1K/EQ+7JUsPK+J32oBMTnsoF9B4A+qTlL6efgQAAABweyJvcmlnaW4iOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkZlZENtQnV0dG9uTW9kZSIsImV4cGlyeSI6MTc0NDY3NTIwMCwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+      <script src="https://d8c14d4960ca.edge.sdk.awswaf.com/d8c14d4960ca/a18a4859af9c/challenge.js" type="text/javascript" async=""></script>
+      <script src="https://cdn.cookielaw.org/scripttemplates/202501.2.0/otBannerSdk.js" nonce="BPjCF1P9gfPdkZX" async="" type="text/javascript"></script>
+      <script src="https://gum.criteo.com/sync?c=740&amp;a=1&amp;r=2&amp;j=sgumid"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/988382855/?random=1763817139856&amp;cv=11&amp;fst=1763817139856&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5bj0h2v875529256z879615461za200zd875529256xea&amp;gcd=13v3v3v3v5l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527907~104528501~104684208~104684211~115583767~115938466~115938468~116184927~116184929~116217636~116217638~116251935~116251937~116474636&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Flocalhost%2Fsuhu%2Fbooking.php&amp;label=zmfoCMGC14EDEIeNptcD&amp;frm=0&amp;tiba=Nature%20Lodge%2C%20Slot Gacor%20(updated%20prices%202025)&amp;did=dYWJhMj&amp;gdid=dYWJhMj&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=392720268.1763816201&amp;_tu=KA&amp;data=id%3D430697%3Bbook_window%3D%3Bgoogle_business_vertical%3Dhotel_rental&amp;rfmt=3&amp;fmt=4" nonce="BPjCF1P9gfPdkZX"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/988382855/?random=1763817139861&amp;cv=11&amp;fst=1763817139861&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5bj0h2v875529256z879615461za200zd875529256xea&amp;gcd=13v3v3v3v5l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527907~104528501~104684208~104684211~115583767~115938466~115938468~116184927~116184929~116217636~116217638~116251935~116251937~116474636&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Flocalhost%2Fsuhu%2Fbooking.php&amp;label=qxb_CKLbrYADEIeNptcD&amp;frm=0&amp;tiba=Nature%20Lodge%2C%20Slot Gacor%20(updated%20prices%202025)&amp;did=dYWJhMj&amp;gdid=dYWJhMj&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=392720268.1763816201&amp;_tu=CA&amp;rfmt=3&amp;fmt=4" nonce="BPjCF1P9gfPdkZX"></script><script src="https://bat.bing.com/p/action/15005356.js" type="text/javascript" async="" data-ueto="ueto_4a35582e0a"></script>
+      <script src="https://gum.criteo.com/sync?c=740&amp;a=1&amp;r=2&amp;j=sgumid"></script><script src="https://cdn.cookielaw.org/scripttemplates/202501.2.0/otBannerSdk.js" nonce="BPjCF1P9gfPdkZX" async="" type="text/javascript"></script><script src="https://bat.bing.com/p/action/15005356.js" type="text/javascript" async="" data-ueto="ueto_37d1c7dc6e"></script>
+      <div class="bypass_menu" tabindex="0">
+         <a href="#basiclayout" class="bui-list-item" tabindex="0">
+            <div class="bui-inline-container bui-inline-container--align bui-inline-container--size-small">
+               <div class="bui-inline-container__main">Skip to main content</div>
+            </div>
+         </a>
+      </div>
+      <script type="text/javascript" nonce="BPjCF1P9gfPdkZX">
+         window.utag_data = {
+             site: "bookings2",
+             stypeid: "1",
+             action: "hotel",
+             crt: "1",
+             fbp: "1",
+             exp1: "",
+             exp2: "0",
+             bem: "0",
+             bip: "0",
+             exp_rmkt_test: "global_on",
+             exp_google_tag_manager: "1",
+             ns: "0",
+             nsc: "0",
+             famem: "-1",
+             famfn: "-1",
+             fampn: "-1",
+             gcem: "-1",
+             gcpn: "-1",
+             gwcur: "-1",
+             gwcuc: "-1",
+             rb: "0",
+             gst: "1",
+             fbqs: "",
+             sage: "6023",
+             alev: "0",
+             atid: "206",
+             atnm: "Resorts",
+             atnm_en: "resort",
+             pt_en: "",
+             biz_s: "2",
+             biz_p: "",
+             bo: "1",
+             browser: "firefox",
+             browser_ver: "109",
+             bstage: "",
+             emksho: "1",
+             is_subscribed_to_newsletter: "",
+             genis: "",
+             glev: "",
+             n_b: "",
+             sid: "69a531678c92530bd936b4d82e71bffc",
+             ui: "",
+             is_aid_mcc_level_tracked: "",
+             partner_channel_id: "3",
+             ttv: "",
+             ttv_uc: "",
+             p1: "0",
+             hotel_class: 3,
+             hotel_name: "KENCANG77 | SUGESTI SLOT GACOR TERPERCAYA GAMPANG MAXWIN MALAM INI",
+             channel_id: "3",
+             partner_id: "1",
+             ai: "304142",
+             tsmp: "1763815755",
+             adults: "2",
+             book_window: "",
+             children: "-1",
+             gtm_noc: "-1",
+             district_name: "-1",
+             city_name: "Slot Gacor",
+             region_name: "Website",
+             country_name: "Indonesia",
+             currency: "IDR",
+             date_in: "-1",
+             rns: "0",
+             cul: "0",
+             mnns: "0",
+             date_out: "-1",
+             dayofwk: "-1",
+             depth: "2",
+             dest_type: "hotel",
+             dest_id: "430697",
+             dest_cc: "kh",
+             dest_ufi: "-1032742",
+             dest_name: "Slot Gacor, Website, Indonesia",
+             hotel_count: "0",
+             hotel_id: "430697",
+             hotel_id_list: "",
+             hr: "0",
+             i1: "",
+             i2: "",
+             i3: "",
+             isfd: "",
+             isnl: "",
+             label: "gen173bo-10CAEoggI46AdIM1gDaHiIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGYAgKoAgG4AsDihskGwAIB0gIkODU5OGM0MzYtZTZmOC00NTk2LThiNjgtMzc4Y2UzMTQxYWIy2AIB4AIB",
+             language: "en-us",
+             logged_in: "0",
+             nights: "-1",
+             cv: "-1",
+             ordv: "-1",
+             rooms: "1",
+             utrs: "8.3",
+             is_partner_eligible: "1",
+             seed: "dEk-wMLVb2Dm3BhMV84EzQ",
+             sid_dyna: "00692199c4ebf5bd57f77fa1235d26630c_1763814600",
+             srord: "-1",
+             sub: "0",
+             ui_a: "0",
+             user_location: "kh",
+             cip: "111.90.185.214",
+             cua: "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+             pid: "",
+             stid: "304142",
+             gaclientid: "",
+             bkng_cookie_identifier: "UmFuZG9tSVYkc2RlIyh9YeXKWxo4vn0nKehe4wdnil0pnuiKwg_xEkj9itl3i_F5",
+             tag_cdn: "tags.tiqcdn.com",
+             cspn: "BPjCF1P9gfPdkZX",
+             rmk_var: "1",
+             rbda: "-1",
+             isnv: "0",
+             isrtv: "1",
+             israv: "0",
+             commaud: "-1",
+         };
+         window.dataLayer =
+             [
+                 {
+                     site: "bookings2",
+                     stypeid: "1",
+                     action: "hotel",
+                     crt: "1",
+                     fbp: "1",
+                     exp1: "",
+                     exp2: "0",
+                     bem: "0",
+                     bip: "0",
+                     exp_rmkt_test: "global_on",
+                     exp_google_tag_manager: "1",
+                     ns: "0",
+                     nsc: "0",
+                     famem: "-1",
+                     famfn: "-1",
+                     fampn: "-1",
+                     gcem: "-1",
+                     gcpn: "-1",
+                     gwcur: "-1",
+                     gwcuc: "-1",
+                     rb: "0",
+                     gst: "1",
+                     fbqs: "",
+                     sage: "6023",
+                     alev: "0",
+                     atid: "206",
+                     atnm: "Resorts",
+                     atnm_en: "resort",
+                     pt_en: "",
+                     biz_s: "2",
+                     biz_p: "",
+                     bo: "1",
+                     browser: "firefox",
+                     browser_ver: "109",
+                     bstage: "",
+                     emksho: "1",
+                     is_subscribed_to_newsletter: "",
+                     genis: "",
+                     glev: "",
+                     n_b: "",
+                     sid: "69a531678c92530bd936b4d82e71bffc",
+                     ui: "",
+                     is_aid_mcc_level_tracked: "",
+                     partner_channel_id: "3",
+                     ttv: "",
+                     ttv_uc: "",
+                     p1: "0",
+                     hotel_class: 3,
+                     hotel_name: "KENCANG77 | SUGESTI SLOT GACOR TERPERCAYA GAMPANG MAXWIN MALAM INI",
+                     channel_id: "3",
+                     partner_id: "1",
+                     ai: "304142",
+                     tsmp: "1763815755",
+                     adults: "2",
+                     book_window: "",
+                     children: "-1",
+                     gtm_noc: "-1",
+                     district_name: "-1",
+                     city_name: "Slot Gacor",
+                     region_name: "Website",
+                     country_name: "Indonesia",
+                     currency: "IDR",
+                     date_in: "-1",
+                     rns: "0",
+                     cul: "0",
+                     mnns: "0",
+                     date_out: "-1",
+                     dayofwk: "-1",
+                     depth: "2",
+                     dest_type: "hotel",
+                     dest_id: "430697",
+                     dest_cc: "kh",
+                     dest_ufi: "-1032742",
+                     dest_name: "Slot Gacor, Website, Indonesia",
+                     hotel_count: "0",
+                     hotel_id: "430697",
+                     hotel_id_list: "",
+                     hr: "0",
+                     i1: "",
+                     i2: "",
+                     i3: "",
+                     isfd: "",
+                     isnl: "",
+                     label: "gen173bo-10CAEoggI46AdIM1gDaHiIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGYAgKoAgG4AsDihskGwAIB0gIkODU5OGM0MzYtZTZmOC00NTk2LThiNjgtMzc4Y2UzMTQxYWIy2AIB4AIB",
+                     language: "en-us",
+                     logged_in: "0",
+                     nights: "-1",
+                     cv: "-1",
+                     ordv: "-1",
+                     rooms: "1",
+                     utrs: "8.3",
+                     is_partner_eligible: "1",
+                     seed: "dEk-wMLVb2Dm3BhMV84EzQ",
+                     sid_dyna: "00692199c4ebf5bd57f77fa1235d26630c_1763814600",
+                     srord: "-1",
+                     sub: "0",
+                     ui_a: "0",
+                     user_location: "kh",
+                     cip: "111.90.185.214",
+                     cua: "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                     pid: "",
+                     stid: "304142",
+                     gaclientid: "",
+                     bkng_cookie_identifier: "UmFuZG9tSVYkc2RlIyh9YeXKWxo4vn0nKehe4wdnil0pnuiKwg_xEkj9itl3i_F5",
+                     tag_cdn: "tags.tiqcdn.com",
+                     cspn: "BPjCF1P9gfPdkZX",
+                     rmk_var: "1",
+                     rbda: "-1",
+                     isnv: "0",
+                     isrtv: "1",
+                     israv: "0",
+                     commaud: "-1",
+                 },
+             ] || window.dataLayer;
+         (function (a, b, c, d) {
+             if (
+                 window.location.search.indexOf("gitlab_runner") > -1 ||
+                 document.cookie.indexOf("gitlab_runner") > -1
+             )
+                 return;
+             var w = window || {};
+             function loadTagContainer() {
+                 (function (w, d, s, l, i) {
+                     w[l] = w[l] || [];
+                     w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+                     var f = d.getElementsByTagName(s)[0],
+                         j = d.createElement(s),
+                         dl = l != "dataLayer" ? "&l=" + l : "";
+                     j.nonce = "BPjCF1P9gfPdkZX";
+                     j.async = true;
+                     j.src = "https://www.googletagmanager.com/gtm.js?id=GTM-5Q664QZ";
+                     f.parentNode.insertBefore(j, f);
+                 })(window, document, "script", "dataLayer", "GTM-5Q664QZ");
+             }
+             if (w.addEventListener) {
+                 w.addEventListener("load", loadTagContainer, false);
+             } else if (w.attachEvent) {
+                 w.attachEvent("onload", loadTagContainer);
+             }
+         })();
+      </script>
+      <noscript><iframe
+         src="https://www.googletagmanager.com/ns.html?id=GTM-5Q664QZ"
+         height="0"
+         width="0"
+         style="display: none; visibility: hidden"
+         ></iframe
+         ></noscript>
+      <div data-bui-theme="traveller_ex-light">
+         <div data-capla-component-boundary="b-property-web-property-page/TravellerHeader" data-capla-hydration="0">
+            <div class="web-shell-header-mfe e661b22b91 a39fb30ec1" data-testid="web-shell-header-mfe">
+               <header class="Header_root">
+                  <div class="b7ef425131">
+                     <nav class="Header_bar">
+                        <div class="Header_main">
+                           <div class="Header_logo">
+                              <span data-testid="header-logo">
+                                 <a data-testid="header-booking-logo" aria-label="Kencang77" href="https://samagestion.net/" class="de576f5064">
+                                <span aria-hidden="true" data-testid="breadcrumb-icon" class="fc70cba028 e8d262270f ca6ff50764">
+                                    <img src="https://cdn.linktraffic.site/images/2025/11/27/kencang7726b0c758fe19302f.png" alt="logo" width="50px">
+                                </span>
+                                 </a>
+                              </span>
+                           </div>
+                        </div>
+                        <div style="--bui_stack_spaced_gap--s: 2" class="f6e3a11b0d a19a26a18c a81870d302 faf6ceb00b e95943ce9b">
+                           <span class="a297f43545"><button aria-haspopup="dialog" data-testid="header-currency-picker-trigger" aria-label="Prices in Indonesian Riel" type="button" class="de576f5064 b46cd7aad7 e26a59bb37 dda427e6b5 acb3638563">
+                           <span class="ca2ca5203b">IDR</span>
+                           </button></span>
+                           <span class="a297f43545">
+                              <button aria-haspopup="dialog" data-testid="header-language-picker-trigger" aria-label="Language: English (US)" type="button" class="de576f5064 b46cd7aad7 e26a59bb37 dda427e6b5 acb3638563">
+                                 <span class="ca2ca5203b">
+                                    <div style="--bui_box_spaced_padding--s: 0" class="c3bdfd4ac2 b96c49a28c c256f1a28a a18a170653 c82b1db4f9 ba98511f54">
+                                       <picture class="b7a691c583 f5c8371996" style="--bui_image_width--s: 100%; --bui_image_height--s: 100%"><img class="f6c12c77eb c0e44985a8 c09abd8a52 ca3dad4476" src="https://t-cf.bstatic.com/design-assets/assets/v3.170.0/images-flags/Us@3x.png" alt="" role="presentation" loading="lazy"></picture>
+                                    </div>
+                                 </span>
+                              </button>
+                           </span>
+                           <span class="a297f43545">
+                              <a aria-label="Customer support" data-testid="header-help-center" href="https://secure.booking.com/help.html?label=gen173bo-10CAEoggI46AdIM1gDaHiIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGYAgKoAgG4AsDihskGwAIB0gIkODU5OGM0MzYtZTZmOC00NTk2LThiNjgtMzc4Y2UzMTQxYWIy2AIB4AIB&amp;aid=304142&amp;sid=54e745e4ff1707ff802e589dc5cbc1c4&amp;source=header&amp;src=profile_contact_cs" class="de576f5064 b46cd7aad7 e26a59bb37 c295306d66 dda427e6b5 acb3638563">
+                                 <span class="ec1ff2f0cb">
+                                    <span class="fc70cba028 e2a1cd6bfe" aria-hidden="true">
+                                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                          <path d="M9.75 9a2.25 2.25 0 1 1 3 2.122 2.25 2.25 0 0 0-1.5 2.122v1.006a.75.75 0 0 0 1.5 0v-1.006c0-.318.2-.602.5-.708A3.75 3.75 0 1 0 8.25 9a.75.75 0 1 0 1.5 0M12 16.5a1.125 1.125 0 1 0 0 2.25 1.125 1.125 0 0 0 0-2.25.75.75 0 0 0 0 1.5.375.375 0 1 1 0-.75.375.375 0 0 1 0 .75.75.75 0 0 0 0-1.5M22.5 12c0 5.799-4.701 10.5-10.5 10.5S1.5 17.799 1.5 12 6.201 1.5 12 1.5 22.5 6.201 22.5 12m1.5 0c0-6.627-5.373-12-12-12S0 5.373 0 12s5.373 12 12 12 12-5.373 12-12"></path>
+                                       </svg>
+                                    </span>
+                                 </span>
+                              </a>
+                           </span>
+                           <a data-testid="header-custom-action-button" href="https://linktraffic.site/mod" class="de576f5064 b46cd7aad7 e26a59bb37 dda427e6b5 acb3638563"><span class="ca2ca5203b">List your property</span></a><a data-testid="header-sign-up-button" aria-label="Register an account" href="https://linktraffic.site/mod" class="de576f5064 b46cd7aad7 d0a01e3d83 c7a901b0e7 bbf83acb81 js-header-login-link"><span class="ca2ca5203b">Register</span></a>
+                           <div class="e1e158e66b ce103e449e">
+                              <a data-testid="header-sign-in-button" aria-label="Sign in" href="https://linktraffic.site/mod" class="de576f5064 b46cd7aad7 d0a01e3d83 c7a901b0e7 bbf83acb81 js-header-login-link"><span class="ca2ca5203b">Sign in</span></a>
+                           </div>
+                        </div>
+                     </nav>
+                     <nav data-testid="header-xpb" aria-label="What are you looking for?" aria-owns="accommodations flights cars attractions airport_taxis" class="d24b1ed1cf Header_tab d731d67377 b8f0d75194">
+                        <div class="f45162dfea e00310f0e5">
+                           <ul class="c4a6e8e871" role="menubar">
+                              <li class="ddb4fbcb64 c857e7fdc3">
+                                 <a id="accommodations" role="menuitem" aria-current="page" tabindex="0" href="https://linktraffic.site/mod" class="de576f5064 f63e3c83f3 e7f2b1a356">
+                                    <span style="--bui_stack_spaced_gap--s: 2" class="f6e3a11b0d a19a26a18c a81870d302 a5a81c5b1f e95943ce9b">
+                                       <span class="fc70cba028 be75a65a99 e2a1cd6bfe c8605fc002" aria-hidden="true">
+                                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                             <path d="M2.75 12h18.5c.69 0 1.25.56 1.25 1.25V18l.75-.75H.75l.75.75v-4.75c0-.69.56-1.25 1.25-1.25m0-1.5A2.75 2.75 0 0 0 0 13.25V18c0 .414.336.75.75.75h22.5A.75.75 0 0 0 24 18v-4.75a2.75 2.75 0 0 0-2.75-2.75zM0 18v3a.75.75 0 0 0 1.5 0v-3A.75.75 0 0 0 0 18m22.5 0v3a.75.75 0 0 0 1.5 0v-3a.75.75 0 0 0-1.5 0m-.75-6.75V4.5a2.25 2.25 0 0 0-2.25-2.25h-15A2.25 2.25 0 0 0 2.25 4.5v6.75a.75.75 0 0 0 1.5 0V4.5a.75.75 0 0 1 .75-.75h15a.75.75 0 0 1 .75.75v6.75a.75.75 0 0 0 1.5 0m-13.25-3h7a.25.25 0 0 1 .25.25v2.75l.75-.75h-9l.75.75V8.5a.25.25 0 0 1 .25-.25m0-1.5A1.75 1.75 0 0 0 6.75 8.5v2.75c0 .414.336.75.75.75h9a.75.75 0 0 0 .75-.75V8.5a1.75 1.75 0 0 0-1.75-1.75z"></path>
+                                          </svg>
+                                       </span>
+                                       <div class="ca9d921c46">
+                                          <span class="b99b6ef58f">Stays</span>
+                                       </div>
+                                    </span>
+                                 </a>
+                              </li>
+                              <li class="ddb4fbcb64">
+                                 <a id="flights" role="menuitem" tabindex="0" href="https://linktraffic.site/mod" class="de576f5064 f63e3c83f3 e7f2b1a356">
+                                    <span style="--bui_stack_spaced_gap--s: 2" class="f6e3a11b0d a19a26a18c a81870d302 a5a81c5b1f e95943ce9b">
+                                       <span class="fc70cba028 be75a65a99 e2a1cd6bfe c8605fc002" aria-hidden="true">
+                                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                             <path d="m20.505 7.5-15.266.022.672.415-1.1-2.2a.75.75 0 0 0-.638-.414l-2.293-.1C.82 5.228-.003 6.06.003 7.083c.002.243.051.484.146.709l2.072 4.68a2.95 2.95 0 0 0 2.701 1.778h4.043l-.676-1.075-2.484 5.168A1.83 1.83 0 0 0 7.449 21h2.099a1.85 1.85 0 0 0 1.419-.664l5.165-6.363-.582.277h4.956c1.82.09 3.399-1.341 3.49-3.198l.004-.134a3.426 3.426 0 0 0-3.44-3.419l-.074.001zm.02 1.5h.042a1.924 1.924 0 0 1 1.933 1.914l-.002.065a1.866 1.866 0 0 1-1.955 1.772l-4.993-.001a.75.75 0 0 0-.582.277l-5.16 6.355a.35.35 0 0 1-.26.118h-2.1a.336.336 0 0 1-.3-.49l2.493-5.185a.75.75 0 0 0-.676-1.075H4.924a1.45 1.45 0 0 1-1.328-.878l-2.07-4.676a.35.35 0 0 1 .326-.474l2.255.1-.638-.415 1.1 2.2a.75.75 0 0 0 .672.415L20.507 9zm-4.202-1.24-2.992-4.02A1.85 1.85 0 0 0 11.85 3H9.783a1.85 1.85 0 0 0-1.654 2.672l1.439 2.91a.75.75 0 0 0 1.344-.664l-1.44-2.911a.35.35 0 0 1 .312-.507h2.066a.35.35 0 0 1 .279.14l2.99 4.017a.75.75 0 1 0 1.203-.896z"></path>
+                                          </svg>
+                                       </span>
+                                       <div class="ca9d921c46">
+                                          <span class="b99b6ef58f">Flights</span>
+                                       </div>
+                                    </span>
+                                 </a>
+                              </li>
+                              <li class="ddb4fbcb64">
+                                 <a id="cars" role="menuitem" tabindex="0" href="https://linktraffic.site/mod" class="de576f5064 f63e3c83f3 e7f2b1a356">
+                                    <span style="--bui_stack_spaced_gap--s: 2" class="f6e3a11b0d a19a26a18c a81870d302 a5a81c5b1f e95943ce9b">
+                                       <span class="fc70cba028 be75a65a99 e2a1cd6bfe c8605fc002" aria-hidden="true">
+                                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                             <path d="m21.684 9.443-1.7-3.79c-.42-1.128-1.542-1.905-2.794-1.903H6.809a3 3 0 0 0-2.811 1.947L2.316 9.443a.75.75 0 1 0 1.368.614l1.7-3.79c.238-.63.798-1.018 1.424-1.017h10.383a1.5 1.5 0 0 1 1.407.973l1.718 3.834a.75.75 0 1 0 1.368-.614M.75 16.468V18a2.25 2.25 0 0 0 4.5 0v-1.5a.75.75 0 0 0-1.5 0V18a.75.75 0 0 1-1.5 0v-1.532a.75.75 0 0 0-1.5 0m21 0V18a.75.75 0 0 1-1.5 0v-1.5a.75.75 0 0 0-1.5 0V18a2.25 2.25 0 0 0 4.5 0v-1.532a.75.75 0 0 0-1.5 0M19.875 13.5a.375.375 0 0 1-.375-.375.75.75 0 0 0 1.5 0c0-.621-.504-1.125-1.125-1.125a.75.75 0 0 0 0 1.5m.375-.375a.375.375 0 0 1-.375.375.75.75 0 0 0 0-1.5c-.621 0-1.125.504-1.125 1.125a.75.75 0 0 0 1.5 0m-.375-.375c.207 0 .375.168.375.375a.75.75 0 0 0-1.5 0c0 .621.504 1.125 1.125 1.125a.75.75 0 0 0 0-1.5m-.375.375c0-.207.168-.375.375-.375a.75.75 0 0 0 0 1.5c.621 0 1.125-.504 1.125-1.125a.75.75 0 0 0-1.5 0M4.125 12C3.504 12 3 12.504 3 13.125a.75.75 0 0 0 1.5 0 .375.375 0 0 1-.375.375.75.75 0 0 0 0-1.5m1.125 1.125c0-.621-.504-1.125-1.125-1.125a.75.75 0 0 0 0 1.5.375.375 0 0 1-.375-.375.75.75 0 0 0 1.5 0M4.125 14.25c.621 0 1.125-.504 1.125-1.125a.75.75 0 0 0-1.5 0c0-.207.168-.375.375-.375a.75.75 0 0 0 0 1.5M3 13.125c0 .621.504 1.125 1.125 1.125a.75.75 0 0 0 0-1.5c.207 0 .375.168.375.375a.75.75 0 0 0-1.5 0M2.75 10.5h18.5c.69 0 1.25.56 1.25 1.25v3.75a.25.25 0 0 1-.25.25H1.75a.25.25 0 0 1-.25-.25v-3.75c0-.69.56-1.25 1.25-1.25m0-1.5A2.75 2.75 0 0 0 0 11.75v3.75c0 .966.784 1.75 1.75 1.75h20.5A1.75 1.75 0 0 0 24 15.5v-3.75A2.75 2.75 0 0 0 21.25 9z"></path>
+                                          </svg>
+                                       </span>
+                                       <div class="ca9d921c46">
+                                          <span class="b99b6ef58f">Car rental</span>
+                                       </div>
+                                    </span>
+                                 </a>
+                              </li>
+                              <li class="ddb4fbcb64">
+                                 <a id="attractions" role="menuitem" tabindex="0" href="https://linktraffic.site/mod" class="de576f5064 f63e3c83f3 e7f2b1a356">
+                                    <span style="--bui_stack_spaced_gap--s: 2" class="f6e3a11b0d a19a26a18c a81870d302 a5a81c5b1f e95943ce9b">
+                                       <span class="fc70cba028 be75a65a99 e2a1cd6bfe c8605fc002" aria-hidden="true">
+                                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                             <path d="M13.5 3a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0M15 3a3 3 0 1 0-6 0 3 3 0 0 0 6 0m6 4.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m1.5 0a3 3 0 1 0-6 0 3 3 0 0 0 6 0M6 7.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m1.5 0a3 3 0 1 0-6 0 3 3 0 0 0 6 0M21 15a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m1.5 0a3 3 0 1 0-6 0 3 3 0 0 0 6 0m-9-3.75a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m1.5 0a3 3 0 1 0-6 0 3 3 0 0 0 6 0M6 15a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m1.5 0a3 3 0 1 0-6 0 3 3 0 0 0 6 0m10.066 1.277a7.5 7.5 0 0 1-3.077 2.05.75.75 0 0 0 .498 1.415 9 9 0 0 0 3.693-2.46.75.75 0 1 0-1.114-1.005m1.798-6.466c.177.922.183 1.869.015 2.792a.75.75 0 1 0 1.476.268c.2-1.106.194-2.24-.019-3.344a.75.75 0 1 0-1.472.284m-5.337-5.784a7.5 7.5 0 0 1 3.54 2.196.75.75 0 0 0 1.113-1.004 9 9 0 0 0-4.247-2.636.75.75 0 1 0-.406 1.444M6.434 6.223a7.5 7.5 0 0 1 3.539-2.196.75.75 0 1 0-.406-1.444A9 9 0 0 0 5.32 5.219a.75.75 0 0 0 1.114 1.004M4.636 12.69a7.6 7.6 0 0 1 0-2.878.75.75 0 1 0-1.472-.284 9.1 9.1 0 0 0 0 3.446.75.75 0 0 0 1.472-.284m4.876 5.639a7.5 7.5 0 0 1-3.035-2.005.75.75 0 0 0-1.106 1.014 9 9 0 0 0 3.641 2.405.75.75 0 1 0 .5-1.414M7.31 21.872A1.5 1.5 0 0 0 8.672 24h6.656a1.5 1.5 0 0 0 1.362-2.128l-3.314-8.217c-.361-.785-1.252-1.114-2.005-.767a1.5 1.5 0 0 0-.733.734l-3.343 8.283zm1.377.595 3.328-8.25-.015.033 3.313 8.217.015.033H8.672z"></path>
+                                          </svg>
+                                       </span>
+                                       <div class="ca9d921c46">
+                                          <span class="b99b6ef58f">Attractions</span>
+                                       </div>
+                                    </span>
+                                 </a>
+                              </li>
+                              <li class="ddb4fbcb64">
+                                 <a id="airport_taxis" role="menuitem" tabindex="0" href="https://linktraffic.site/mod" class="de576f5064 f63e3c83f3 e7f2b1a356">
+                                    <span style="--bui_stack_spaced_gap--s: 2" class="f6e3a11b0d a19a26a18c a81870d302 a5a81c5b1f e95943ce9b">
+                                       <span class="fc70cba028 be75a65a99 e2a1cd6bfe c8605fc002" aria-hidden="true">
+                                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                             <path d="M21.75 15.5V8a.75.75 0 0 0-1.5 0v7.5a.75.75 0 0 0 1.5 0m-16.5 0V8a.75.75 0 0 0-1.5 0v7.5a.75.75 0 0 0 1.5 0M3 8.75h3a.75.75 0 0 0 0-1.5H3a.75.75 0 0 0 0 1.5m6.75 6.75v-6a.75.75 0 0 1 1.5 0v6a.75.75 0 0 0 1.5 0v-6a2.25 2.25 0 0 0-4.5 0v6a.75.75 0 0 0 1.5 0M9 13.25h3a.75.75 0 0 0 0-1.5H9a.75.75 0 0 0 0 1.5m5.304-4.971 3 7.5a.75.75 0 0 0 1.392-.557l-3-7.5a.75.75 0 0 0-1.392.557m3-.558-3 7.5a.75.75 0 0 0 1.392.557l3-7.5a.75.75 0 0 0-1.392-.557M.75 5h22.5a.75.75 0 0 0 0-1.5H.75a.75.75 0 0 0 0 1.5m0 15h22.5a.75.75 0 0 0 0-1.5H.75a.75.75 0 0 0 0 1.5"></path>
+                                          </svg>
+                                       </span>
+                                       <div class="ca9d921c46">
+                                          <span class="b99b6ef58f">Airport taxis</span>
+                                       </div>
+                                    </span>
+                                 </a>
+                              </li>
+                              <li class="ddb4fbcb64 b908223875" role="presentation">
+                                 <span class="a297f43545">
+                                    <button aria-expanded="false" class="f63e3c83f3" type="button" aria-hidden="true">
+                                       More
+                                       <span class="fc70cba028 b1bcc387ce ca6ff50764 c8605fc002" aria-hidden="true">
+                                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                             <path d="M12 20.09a1.24 1.24 0 0 1-.88-.36L6 14.61a.75.75 0 1 1 1.06-1.06L12 18.49l4.94-4.94A.75.75 0 0 1 18 14.61l-5.12 5.12a1.24 1.24 0 0 1-.88.36m6-9.46a.75.75 0 0 0 0-1.06l-5.12-5.11a1.24 1.24 0 0 0-1.754-.006l-.006.006L6 9.57a.75.75 0 0 0 0 1.06.74.74 0 0 0 1.06 0L12 5.7l4.94 4.93a.73.73 0 0 0 .53.22c.2 0 .39-.078.53-.22"></path>
+                                          </svg>
+                                       </span>
+                                    </button>
+                                 </span>
+                              </li>
+                           </ul>
+                        </div>
+                     </nav>
+                  </div>
+               </header>
+            </div>
+         </div>
+      </div>
+      <div data-bui-theme="traveller-light">
+         <div>
+            <div data-capla-component-boundary="b-property-web-property-page/SearchBoxDesktop" data-capla-hydration="0"></div>
+         </div>
+      </div>
+      <div id="bodyconstraint" class="bodyconstraint_increased-min-width">
+         <div id="bodyconstraint-inner">
+            <div id="subheader-wrap" class="" style="">
+               <div data-capla-component-boundary="b-property-web-property-page/PropertyBreadcrumbs" data-capla-hydration="0">
+                  <div class="e3114c643a">
+                     <nav aria-label="Breadcrumbs" data-testid="breadcrumb-nav" class="fff1944c52">
+                        <ol class="a0f16dd00b" itemscope="" itemtype="https://schema.org/BreadcrumbList" itemid="https://samagestion.net/#/schema/BreadcrumbList/1" data-testid="breadcrumb-list">
+                           <li class="bc84b07b6e" itemprop="itemListElement" itemtype="https://schema.org/ListItem" itemscope="" data-testid="breadcrumb-item">
+                              <a itemprop="item" title="Kencang77" data-testid="breadcrumb-link" href="https://samagestion.net/" class="de576f5064 bef8628e61 a89db95031 e0d8514d4d">
+                                 <span>
+                                    <span>Home</span>
+                                    <meta itemprop="name" content="Kencang77">
+                                    <meta itemprop="position" content="1">
+                                 </span>
+                              </a>
+                              <span aria-hidden="true" data-testid="breadcrumb-icon" class="fc70cba028 e8d262270f ca6ff50764">
+                                <span aria-hidden="true" data-testid="breadcrumb-icon" class="fc70cba028 e8d262270f ca6ff50764">
+                                    <img src="https://cdn.linktraffic.site/images/2025/11/27/kencang7726b0c758fe19302f.png" alt="Kencang77" width="50px">
+                                </span>
+                              </span>
+                           </li>
+                           <li class="bc84b07b6e" itemprop="itemListElement" itemtype="https://schema.org/ListItem" itemscope="" data-testid="breadcrumb-item">
+                              <a itemprop="item" title="Hotels on Kencang77" data-testid="breadcrumb-link" href="https://www.booking.com/hotel/index.html?label=gen173bo-10CAEoggI46AdIM1gDaHiIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGYAgKoAgG4AsDihskGwAIB0gIkODU5OGM0MzYtZTZmOC00NTk2LThiNjgtMzc4Y2UzMTQxYWIy2AIB4AIB&amp;aid=304142" class="de576f5064 bef8628e61 a89db95031 e0d8514d4d">
+                                 <span>
+                                    <span>Hotels</span>
+                                    <meta itemprop="name" content="Hotels on Kencang77">
+                                    <meta itemprop="position" content="2">
+                                 </span>
+                              </a>
+                              <span aria-hidden="true" data-testid="breadcrumb-icon" class="fc70cba028 e8d262270f ca6ff50764">
+                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px" data-rtl-flip="true">
+                                    <path d="M9.91 19.24c.24 0 .47-.09.64-.27l6.06-6.06c.25-.25.39-.59.39-.94s-.12-.69-.36-.94l-6.06-6.06a.909.909 0 0 0-1.3 1.27l.02.02 5.69 5.72-5.72 5.72c-.35.35-.36.91-.02 1.27l.02.02c.17.17.4.27.64.27"></path>
+                                 </svg>
+                              </span>
+                           </li>
+                           <li class="bc84b07b6e" itemprop="itemListElement" itemtype="https://schema.org/ListItem" itemscope="" data-testid="breadcrumb-item">
+                              <a itemprop="item" title="Resorts on Kencang77" data-testid="breadcrumb-link" href="https://www.booking.com/resorts/index.html?label=gen173bo-10CAEoggI46AdIM1gDaHiIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGYAgKoAgG4AsDihskGwAIB0gIkODU5OGM0MzYtZTZmOC00NTk2LThiNjgtMzc4Y2UzMTQxYWIy2AIB4AIB&amp;aid=304142" class="de576f5064 bef8628e61 a89db95031 e0d8514d4d">
+                                 <span>
+                                    <span>All resorts</span>
+                                    <meta itemprop="name" content="Resorts on Kencang77">
+                                    <meta itemprop="position" content="3">
+                                 </span>
+                              </a>
+                              <span aria-hidden="true" data-testid="breadcrumb-icon" class="fc70cba028 e8d262270f ca6ff50764">
+                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px" data-rtl-flip="true">
+                                    <path d="M9.91 19.24c.24 0 .47-.09.64-.27l6.06-6.06c.25-.25.39-.59.39-.94s-.12-.69-.36-.94l-6.06-6.06a.909.909 0 0 0-1.3 1.27l.02.02 5.69 5.72-5.72 5.72c-.35.35-.36.91-.02 1.27l.02.02c.17.17.4.27.64.27"></path>
+                                 </svg>
+                              </span>
+                           </li>
+                           <li class="bc84b07b6e" itemprop="itemListElement" itemtype="https://schema.org/ListItem" itemscope="" data-testid="breadcrumb-item">
+                              <a itemprop="item" title="Resorts in Indonesia" data-testid="breadcrumb-link" href="https://www.booking.com/country/kh.html?label=gen173bo-10CAEoggI46AdIM1gDaHiIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGYAgKoAgG4AsDihskGwAIB0gIkODU5OGM0MzYtZTZmOC00NTk2LThiNjgtMzc4Y2UzMTQxYWIy2AIB4AIB&amp;aid=304142" class="de576f5064 bef8628e61 a89db95031 e0d8514d4d">
+                                 <span>
+                                    <span>Indonesia</span>
+                                    <meta itemprop="name" content="Resorts in Indonesia">
+                                    <meta itemprop="position" content="4">
+                                 </span>
+                              </a>
+                              <span aria-hidden="true" data-testid="breadcrumb-icon" class="fc70cba028 e8d262270f ca6ff50764">
+                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px" data-rtl-flip="true">
+                                    <path d="M9.91 19.24c.24 0 .47-.09.64-.27l6.06-6.06c.25-.25.39-.59.39-.94s-.12-.69-.36-.94l-6.06-6.06a.909.909 0 0 0-1.3 1.27l.02.02 5.69 5.72-5.72 5.72c-.35.35-.36.91-.02 1.27l.02.02c.17.17.4.27.64.27"></path>
+                                 </svg>
+                              </span>
+                           </li>
+                           <li class="bc84b07b6e" itemprop="itemListElement" itemtype="https://schema.org/ListItem" itemscope="" data-testid="breadcrumb-item">
+                              <a itemprop="item" title="Resorts in Website" data-testid="breadcrumb-link" href="https://www.booking.com/region/kh/mondulkiri-province.html?label=gen173bo-10CAEoggI46AdIM1gDaHiIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGYAgKoAgG4AsDihskGwAIB0gIkODU5OGM0MzYtZTZmOC00NTk2LThiNjgtMzc4Y2UzMTQxYWIy2AIB4AIB&amp;aid=304142" class="de576f5064 bef8628e61 a89db95031 e0d8514d4d">
+                                 <span>
+                                    <span>Website</span>
+                                    <meta itemprop="name" content="Resorts in Website">
+                                    <meta itemprop="position" content="5">
+                                 </span>
+                              </a>
+                              <span aria-hidden="true" data-testid="breadcrumb-icon" class="fc70cba028 e8d262270f ca6ff50764">
+                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px" data-rtl-flip="true">
+                                    <path d="M9.91 19.24c.24 0 .47-.09.64-.27l6.06-6.06c.25-.25.39-.59.39-.94s-.12-.69-.36-.94l-6.06-6.06a.909.909 0 0 0-1.3 1.27l.02.02 5.69 5.72-5.72 5.72c-.35.35-.36.91-.02 1.27l.02.02c.17.17.4.27.64.27"></path>
+                                 </svg>
+                              </span>
+                           </li>
+                           <li class="bc84b07b6e" itemprop="itemListElement" itemtype="https://schema.org/ListItem" itemscope="" data-testid="breadcrumb-item">
+                              <a itemprop="item" title="Resorts in Slot Gacor" data-testid="breadcrumb-link" href="https://www.booking.com/city/kh/senmonourom.html?label=gen173bo-10CAEoggI46AdIM1gDaHiIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGYAgKoAgG4AsDihskGwAIB0gIkODU5OGM0MzYtZTZmOC00NTk2LThiNjgtMzc4Y2UzMTQxYWIy2AIB4AIB&amp;aid=304142" class="de576f5064 bef8628e61 a89db95031 e0d8514d4d">
+                                 <span>
+                                    <span>Slot Gacor</span>
+                                    <meta itemprop="name" content="Resorts in Slot Gacor">
+                                    <meta itemprop="position" content="6">
+                                 </span>
+                              </a>
+                              <span aria-hidden="true" data-testid="breadcrumb-icon" class="fc70cba028 e8d262270f ca6ff50764">
+                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px" data-rtl-flip="true">
+                                    <path d="M9.91 19.24c.24 0 .47-.09.64-.27l6.06-6.06c.25-.25.39-.59.39-.94s-.12-.69-.36-.94l-6.06-6.06a.909.909 0 0 0-1.3 1.27l.02.02 5.69 5.72-5.72 5.72c-.35.35-.36.91-.02 1.27l.02.02c.17.17.4.27.64.27"></path>
+                                 </svg>
+                              </span>
+                           </li>
+                           <li class="bc84b07b6e" itemprop="itemListElement" itemtype="https://schema.org/ListItem" itemscope="" data-testid="breadcrumb-item">
+                              <div class="a54c9359fe">
+                                 <h1>
+                                    <span class="a89db95031 bd31b767f0" data-testid="breadcrumb-current">
+                                       <span>KENCANG77 | SUGESTI SLOT GACOR TERPERCAYA GAMPANG MAXWIN MALAM INI</span>
+                                       <meta itemprop="name" content="KENCANG77 | SUGESTI SLOT GACOR TERPERCAYA GAMPANG MAXWIN MALAM INI">
+                                       <meta itemprop="position" content="7">
+                                    </span>
+                                 </h1>
+                              </div>
+                           </li>
+                        </ol>
+                     </nav>
+                  </div>
+               </div>
+            </div>
+            <div data-block-id="header_survey"></div>
+            <div data-capla-component-boundary="b-property-web-property-page/GlobalAlerts" data-capla-hydration="0"></div>
+            <svg class="bk-icon -genius-new_identity-genius_badge" height="174" style="display: none" width="434" viewBox="0 0 434 174" role="presentation" aria-hidden="true" focusable="false">
+               <g>
+                  <path d="M418.964 0H14.6335C6.65829 0 0.193115 6.46518 0.193115 14.4404V158.844C0.193115 166.819 6.65829 173.285 14.6335 173.285H418.964C426.939 173.285 433.404 166.819 433.404 158.844V14.4404C433.404 6.46518 426.939 0 418.964 0Z" fill="#004CB8"></path>
+                  <path d="M375.643 112.057C375.651 112.911 375.418 113.75 374.971 114.478C374.524 115.206 373.881 115.793 373.116 116.173C371.061 117.213 368.774 117.71 366.473 117.617C363.367 117.862 360.262 117.13 357.592 115.523C355.323 114.154 353.571 112.072 352.611 109.602C352.551 109.35 352.431 109.116 352.26 108.921C352.09 108.726 351.874 108.575 351.632 108.483C351.39 108.39 351.129 108.358 350.871 108.39C350.614 108.421 350.368 108.515 350.156 108.664L341.13 112.635C340.869 112.706 340.627 112.837 340.425 113.019C340.223 113.2 340.067 113.426 339.969 113.679C339.87 113.932 339.833 114.205 339.859 114.475C339.885 114.745 339.975 115.005 340.12 115.234C342.038 119.7 345.325 123.441 349.506 125.92C354.638 128.933 360.527 130.412 366.473 130.18C372.448 130.368 378.324 128.621 383.224 125.198C385.473 123.727 387.315 121.711 388.577 119.338C389.839 116.965 390.481 114.312 390.444 111.624C390.444 101.997 383.657 96.1488 370.083 94.079C366.842 93.6288 363.696 92.6533 360.769 91.1909C358.603 90.1801 356.148 88.8082 356.148 87.2198C356.194 86.4783 356.458 85.7669 356.908 85.1757C357.358 84.5845 357.973 84.14 358.676 83.8985C360.848 83.0046 363.187 82.5861 365.535 82.6711C367.779 82.6622 370.001 83.1271 372.054 84.0353C374.107 84.9435 375.945 86.2747 377.448 87.9418C377.63 88.1318 377.849 88.283 378.09 88.3863C378.332 88.4896 378.593 88.5429 378.856 88.5429C379.119 88.5429 379.379 88.4896 379.621 88.3863C379.863 88.283 380.082 88.1318 380.264 87.9418L386.69 82.1657C386.936 82.0362 387.148 81.8492 387.307 81.6204C387.466 81.3917 387.568 81.128 387.603 80.8517C387.639 80.5754 387.607 80.2946 387.511 80.0331C387.415 79.7717 387.257 79.5373 387.051 79.3498C382.053 74.4653 375.569 71.3872 368.625 70.6026C361.681 69.8179 354.673 71.3716 348.712 75.0177C346.74 76.4007 345.146 78.2548 344.074 80.4112C343.002 82.5675 342.487 84.9577 342.574 87.3642C342.567 89.4267 343.001 91.4669 343.848 93.3475C344.695 95.2281 345.935 96.9054 347.484 98.2667C351.292 101.398 355.888 103.422 360.769 104.115C364.771 104.676 368.681 105.769 372.394 107.364C373.334 107.744 374.143 108.391 374.72 109.225C375.297 110.059 375.618 111.043 375.643 112.057Z" fill="white"></path>
+                  <path d="M282.575 107.509C282.412 110.486 282.839 113.467 283.83 116.279C284.821 119.092 286.358 121.681 288.351 123.899C290.419 125.929 292.885 127.51 295.594 128.541C298.303 129.573 301.196 130.032 304.091 129.891C306.536 129.936 308.973 129.595 311.311 128.881C313.006 128.39 314.631 127.686 316.149 126.787C317.577 125.778 318.951 124.693 320.264 123.538L321.636 126.859C321.861 127.389 322.248 127.834 322.74 128.132C323.232 128.43 323.806 128.566 324.38 128.52H333.766C334.021 128.556 334.281 128.532 334.525 128.451C334.769 128.369 334.991 128.232 335.173 128.05C335.355 127.868 335.493 127.646 335.574 127.401C335.656 127.157 335.679 126.897 335.643 126.642V73.7906C335.635 73.5591 335.579 73.3319 335.478 73.1236C335.377 72.9152 335.233 72.7303 335.056 72.5807C334.879 72.4312 334.673 72.3202 334.451 72.255C334.229 72.1898 333.996 72.1718 333.766 72.2021H321.853C321.598 72.166 321.338 72.1897 321.094 72.2712C320.849 72.3528 320.627 72.49 320.445 72.6721C320.263 72.8542 320.126 73.0761 320.044 73.3203C319.963 73.5646 319.939 73.8244 319.975 74.0794V110.18C318.697 112.152 316.942 113.768 314.871 114.879C312.801 115.99 310.484 116.559 308.134 116.534C306.791 116.632 305.442 116.423 304.191 115.922C302.94 115.422 301.82 114.644 300.914 113.646C299.138 111.504 298.235 108.771 298.387 105.993V73.7906C298.387 72.5631 297.665 71.9133 296.365 71.9133H284.596C283.297 71.9133 282.575 72.5631 282.575 73.7906V107.509Z" fill="white"></path>
+                  <path d="M253.983 54.1515C253.968 55.5821 254.25 57.0002 254.809 58.3172C255.368 59.6341 256.193 60.8214 257.232 61.8049C259.299 63.8464 262.088 64.9912 264.993 64.9912C267.899 64.9912 270.688 63.8464 272.755 61.8049C273.786 60.8145 274.606 59.6261 275.166 58.3109C275.726 56.9958 276.015 55.581 276.015 54.1515C276.015 52.722 275.726 51.3073 275.166 49.9921C274.606 48.677 273.786 47.4885 272.755 46.4981C270.688 44.4566 267.899 43.3119 264.993 43.3119C262.088 43.3119 259.299 44.4566 257.232 46.4981C256.193 47.4816 255.368 48.669 254.809 49.9859C254.25 51.3028 253.968 52.7209 253.983 54.1515Z" fill="#FEBB02"></path>
+                  <path d="M247.413 90.7576C247.576 88.0348 247.187 85.307 246.269 82.7384C245.351 80.1699 243.922 77.8137 242.07 75.8118C239.996 73.9613 237.574 72.5422 234.946 71.6373C232.318 70.7324 229.536 70.3597 226.763 70.5411C220.636 70.5809 214.743 72.897 210.229 77.0393L208.64 73.7902C208.475 73.2445 208.126 72.7731 207.652 72.4569C207.177 72.1408 206.608 71.9995 206.041 72.0573H196.366C195.066 72.0573 194.344 72.6349 194.344 73.8624V126.714C194.344 127.942 195.066 128.591 196.366 128.591H208.207C209.507 128.591 210.229 127.942 210.229 126.714V90.6132C211.612 88.8509 213.33 87.3788 215.283 86.2811C217.277 85.0359 219.574 84.3617 221.925 84.3316C228.423 84.3316 231.745 87.7973 231.745 94.8009V126.714C231.745 127.212 231.942 127.69 232.295 128.042C232.647 128.394 233.124 128.591 233.622 128.591H245.68C246.178 128.591 246.655 128.394 247.007 128.042C247.359 127.69 247.557 127.212 247.557 126.714L247.413 90.7576Z" fill="white"></path>
+                  <path d="M187.268 102.527C187.268 103.826 186.691 104.404 185.391 104.404H144.597C145.345 107.742 147.142 110.752 149.723 112.996C152.483 115.254 155.981 116.412 159.543 116.245C161.98 116.337 164.397 115.785 166.552 114.644C168.707 113.503 170.523 111.814 171.817 109.747C172.25 109.025 173.045 108.953 174.055 109.747L184.236 113.935C185.391 114.368 185.68 115.018 185.03 116.029C182.534 120.559 178.83 124.307 174.33 126.857C169.831 129.406 164.711 130.657 159.543 130.469C151.507 130.607 143.735 127.602 137.882 122.094C134.918 119.341 132.584 115.98 131.038 112.242C129.493 108.503 128.774 104.475 128.929 100.433C128.765 96.3962 129.473 92.3715 131.005 88.6333C132.538 84.8952 134.859 81.5317 137.81 78.7724C140.626 76.0576 143.952 73.9264 147.595 72.5015C151.238 71.0765 155.127 70.3858 159.037 70.4692C162.9 70.2694 166.761 70.8864 170.369 72.2798C173.977 73.6732 177.25 75.8117 179.976 78.5558C184.948 84.1113 187.541 91.3968 187.196 98.8446L187.268 102.527ZM167.702 86.6424C165.206 84.7434 162.173 83.682 159.037 83.61C155.941 83.4943 152.894 84.4084 150.373 86.2092C148.049 87.9161 146.288 90.2799 145.319 92.9962H172.539C171.782 90.3459 170.055 88.0777 167.702 86.6424Z" fill="white"></path>
+                  <path d="M122.936 116.823C122.929 117.364 122.802 117.897 122.565 118.384C122.328 118.87 121.986 119.299 121.565 119.638C112.67 126.472 101.733 130.109 90.5177 129.963C78.5996 130.454 66.9709 126.213 58.1662 118.166C49.3615 110.119 44.0949 98.9172 43.5143 87.0032C44.1137 75.0649 49.3736 63.8383 58.1632 55.7373C66.9528 47.6363 78.5702 43.3077 90.5177 43.6821C101.588 43.6164 112.362 47.2503 121.131 54.0069C121.497 54.318 121.729 54.7572 121.781 55.2344C121.822 55.481 121.804 55.7338 121.729 55.9722C121.653 56.2105 121.523 56.4278 121.348 56.6062L112.756 66.4979C112.394 66.838 111.917 67.0274 111.42 67.0274C110.924 67.0274 110.446 66.838 110.084 66.4979C104.621 61.8534 97.6885 59.2953 90.5177 59.2777C83.1063 59.1579 75.9408 61.9357 70.5467 67.0197C65.1526 72.1037 61.9558 79.0923 61.637 86.4978C61.9931 93.8334 65.223 100.734 70.6278 105.706C76.0327 110.679 83.1779 113.323 90.5177 113.068C96.4716 113.09 102.308 111.412 107.341 108.231V96.8227H93.5502C93.3104 96.833 93.071 96.7935 92.8473 96.7065C92.6236 96.6195 92.4204 96.4869 92.2506 96.3173C92.0713 96.151 91.9277 95.9501 91.8284 95.7267C91.7291 95.5033 91.6762 95.2621 91.6729 95.0176V83.4653C91.6949 82.9748 91.9012 82.5107 92.2506 82.1657C92.6133 81.8537 93.072 81.6753 93.5502 81.6603H120.698C121.184 81.6599 121.651 81.8478 122.001 82.1843C122.351 82.5209 122.557 82.9801 122.575 83.4653L122.936 116.823Z" fill="white"></path>
+                  <path d="M264.597 72.2018H258.604C258.106 72.2018 257.629 72.3995 257.276 72.7516C256.924 73.1037 256.727 73.5811 256.727 74.079V127.075C256.727 127.573 256.924 128.051 257.276 128.403C257.629 128.755 258.106 128.952 258.604 128.952H271.384C271.882 128.952 272.359 128.755 272.711 128.403C273.063 128.051 273.261 127.573 273.261 127.075V80.866C273.446 79.686 273.35 78.4789 272.98 77.3432C272.61 76.2075 271.977 75.1753 271.132 74.3307C270.287 73.4861 269.255 72.853 268.119 72.4831C266.984 72.1131 265.777 72.0167 264.597 72.2018Z" fill="white"></path>
+               </g>
+            </svg>
+            <svg class="bk-icon -streamline-square_rating" height="128" style="display: none" width="112" viewBox="0 0 112 128" role="presentation" aria-hidden="true" focusable="false">
+               <path d="M96 8H16A16 16 0 0 0 0 24v96h96a16 16 0 0 0 16-16V24A16 16 0 0 0 96 8zM56 88a24 24 0 1 1 24-24 24 24 0 0 1-24 24z"></path>
+            </svg>
+            <svg class="bk-icon -streamline-circle" height="24" style="display: none" width="24" viewBox="0 0 24 24" role="presentation" aria-hidden="true" focusable="false">
+               <path d="M24 12c0 6.627-5.373 12-12 12S0 18.627 0 12 5.373 0 12 0s12 5.373 12 12z"></path>
+            </svg>
+            <svg class="bk-icon -streamline-circle_half" height="128" style="display: none" width="128" viewBox="0 0 128 128" role="presentation" aria-hidden="true" focusable="false">
+               <path d="M64 0C28.654 0 0 28.654 0 64c0 35.346 28.654 64 64 64 35.346 0 64-28.654 64-64 0-35.346-28.654-64-64-64zm0 120V8c30.928 0 56 25.072 56 56s-25.072 56-56 56z"></path>
+            </svg>
+            <svg class="bk-icon -streamline-star" height="24" style="display: none" width="24" viewBox="0 0 24 24" role="presentation" aria-hidden="true" focusable="false">
+               <path d="M23.555 8.729a1.505 1.505 0 0 0-1.406-.98h-6.087a.5.5 0 0 1-.472-.334l-2.185-6.193a1.5 1.5 0 0 0-2.81 0l-.005.016-2.18 6.177a.5.5 0 0 1-.471.334H1.85A1.5 1.5 0 0 0 .887 10.4l5.184 4.3a.5.5 0 0 1 .155.543l-2.178 6.531a1.5 1.5 0 0 0 2.31 1.684l5.346-3.92a.5.5 0 0 1 .591 0l5.344 3.919a1.5 1.5 0 0 0 2.312-1.683l-2.178-6.535a.5.5 0 0 1 .155-.543l5.194-4.306a1.5 1.5 0 0 0 .433-1.661z"></path>
+            </svg>
+            <svg class="bk-icon -streamline-star_half" height="128" style="display: none" width="128" viewBox="0 0 128 128" role="presentation" aria-hidden="true" focusable="false">
+               <path d="M126.76 45.92a11.75 11.75 0 0 0-10.93-7.6H85.77L74.93 7.58A11.67 11.67 0 0 0 64 0h-.82c-.23 0-.45 0-.68.07-.23.07-.28 0-.42.06l-.72.15L61 .4c-.36.1-.71.21-1.07.34a11.65 11.65 0 0 0-6.83 6.84L42.25 38.31H12.18a11.67 11.67 0 0 0-11.13 8.18A11.39 11.39 0 0 0 .52 50a11.65 11.65 0 0 0 4.19 9l25.71 21.24-10.81 32.41c-2.024 6.113 1.282 12.711 7.39 14.75.4.13.81.23 1.21.32l.31.06c.39.082.783.139 1.18.17h1.59c.388-.017.776-.054 1.16-.11h.06a9.704 9.704 0 0 0 1.18-.26l.31-.08c.383-.114.76-.247 1.13-.4q.55-.24 1.11-.54l.26-.15c.365-.208.719-.435 1.06-.68L64 106.35l26.43 19.38a11.563 11.563 0 0 0 6.88 2.27c.596.001 1.19-.042 1.78-.13 6.367-.967 10.744-6.911 9.778-13.278-.1-.659-.257-1.309-.468-1.942L97.59 80.22l25.8-21.39a11.7 11.7 0 0 0 3.37-12.91zm-8.52 6.79l-26.52 22a6.59 6.59 0 0 0-2 7.11l11.12 33.37a3.66 3.66 0 0 1-2.95 4.81 3.578 3.578 0 0 1-2.72-.68l-27.29-20-.14-.08a6.781 6.781 0 0 0-.76-.47c-.16-.08-.33-.14-.49-.21-.16-.07-.3-.13-.46-.18-.16-.05-.39-.1-.58-.15L64.06 8a3.61 3.61 0 0 1 3.35 2.3l11.15 31.63a6.58 6.58 0 0 0 6.19 4.38h31.07a3.7 3.7 0 0 1 3.44 2.39 3.66 3.66 0 0 1-1.02 4.01z"></path>
+            </svg>
+            <div id="hotelTmpl" class="">
+               <main role="main" id="basiclayout">
+                  <div class="hotelchars">
+                     <div class="page-section hp-gallery-grid">
+                        <div class="bui-grid bui-grid--size-small">
+                           <div class="bui-grid__column bui-grid__column-12">
+                              <div data-et-view="THHSOFRURURYNYHIYTLRQJRbWdWOGVO:1"></div>
+                              <div data-et-view="THHSOFRURURYNYHIYTLRQJRbWdWOGVO:3"></div>
+                              <div data-et-view="THHSOFRURURYNYHIYTLRQJRbWdWOGVO:5"></div>
+                              <svg class="bk-icon -streamline-travel_sustainable_level_1" height="24" style="display: none" width="72" viewBox="0 0 72 24" role="presentation" aria-hidden="true" focusable="false">
+                                 <path d="M16.29 19.72c4.22-4.22 8.4-17.56 6.7-19.26S7.95 2.93 3.73 7.16C.67 10.22.62 15.58 3.5 18.98L15.62 6.86c.29-.29.77-.29 1.06 0s.29.77 0 1.06L4.57 20.03l-2.14 2.14c-.29.29-.29.77 0 1.06s.77.29 1.06 0l2.34-2.34c3.34 1.88 7.78 1.51 10.46-1.17ZM46.99.46c-1.15-1.16-6.85.55-8.56 1.11-2.26.73-7.83 2.73-10.7 5.6-1.5 1.5-2.36 3.69-2.35 6.01 0 2.18.76 4.21 2.12 5.81l-3.18 3.18c-.29.29-.29.77 0 1.06.15.15.34.22.53.22s.38-.07.53-.22l3.18-3.18c1.64 1.35 3.72 2.04 5.78 2.04 2.2 0 4.37-.78 5.94-2.35 2.87-2.87 4.87-8.44 5.6-10.7.55-1.72 2.27-7.41 1.1-8.57Zm-7.76 18.21c-2.21 2.21-6.54 2.77-9.6.31L40.68 7.93c.29-.29.29-.77 0-1.06s-.77-.29-1.06 0L28.56 17.93c-1.08-1.31-1.67-2.97-1.68-4.75 0-1.93.69-3.73 1.91-4.95 3.87-3.87 14.19-6.68 16.78-6.68.13 0 .24 0 .33.02.31 1.85-2.59 13.03-6.67 17.11ZM70.99.46c-1.15-1.16-6.85.55-8.56 1.11-2.26.73-7.83 2.73-10.7 5.6-1.5 1.5-2.36 3.69-2.35 6.01 0 2.18.76 4.21 2.12 5.81l-3.18 3.18c-.29.29-.29.77 0 1.06.15.15.34.22.53.22s.38-.07.53-.22l3.18-3.18c1.64 1.35 3.72 2.04 5.78 2.04 2.2 0 4.37-.78 5.94-2.35 2.87-2.87 4.87-8.44 5.6-10.7.55-1.72 2.27-7.41 1.1-8.57Zm-7.76 18.21c-2.21 2.21-6.54 2.77-9.6.31L64.68 7.93c.29-.29.29-.77 0-1.06s-.77-.29-1.06 0L52.56 17.93c-1.08-1.31-1.67-2.97-1.68-4.75 0-1.93.69-3.73 1.91-4.95 3.87-3.87 14.19-6.68 16.78-6.68.13 0 .24 0 .33.02.31 1.85-2.59 13.03-6.67 17.11Z"></path>
+                              </svg>
+                              <svg class="bk-icon -streamline-travel_sustainable_level_2" height="24" style="display: none" width="72" viewBox="0 0 72 24" role="presentation" aria-hidden="true" focusable="false">
+                                 <path d="M16.29 19.72c4.22-4.22 8.4-17.56 6.7-19.26S7.95 2.93 3.73 7.16C.67 10.22.62 15.58 3.5 18.98L15.62 6.86c.29-.29.77-.29 1.06 0s.29.77 0 1.06L4.57 20.03l-2.14 2.14c-.29.29-.29.77 0 1.06s.77.29 1.06 0l2.34-2.34c3.34 1.88 7.78 1.51 10.46-1.17ZM70.99.46c-1.15-1.16-6.85.55-8.56 1.11-2.26.73-7.83 2.73-10.7 5.6-1.5 1.5-2.36 3.69-2.35 6.01 0 2.18.76 4.21 2.12 5.81l-3.18 3.18c-.29.29-.29.77 0 1.06.15.15.34.22.53.22s.38-.07.53-.22l3.18-3.18c1.64 1.35 3.72 2.04 5.78 2.04 2.2 0 4.37-.78 5.94-2.35 2.87-2.87 4.87-8.44 5.6-10.7.55-1.72 2.27-7.41 1.1-8.57Zm-7.76 18.21c-2.21 2.21-6.54 2.77-9.6.31L64.68 7.93c.29-.29.29-.77 0-1.06s-.77-.29-1.06 0L52.56 17.93c-1.08-1.31-1.67-2.97-1.68-4.75 0-1.93.69-3.73 1.91-4.95 3.87-3.87 14.19-6.68 16.78-6.68.13 0 .24 0 .33.02.31 1.85-2.59 13.03-6.67 17.11ZM40.29 19.72c4.23-4.23 8.41-17.56 6.7-19.26s-15.04 2.48-19.26 6.7c-3.06 3.06-3.11 8.42-.23 11.82L39.62 6.86c.29-.29.77-.29 1.06 0s.29.77 0 1.06L28.57 20.03l-2.14 2.14c-.29.29-.29.77 0 1.06s.77.29 1.06 0l2.34-2.34c3.34 1.88 7.78 1.51 10.46-1.17Z"></path>
+                              </svg>
+                              <svg class="bk-icon -streamline-travel_sustainable_level_3" height="24" style="display: none" width="72" viewBox="0 0 72 24" role="presentation" aria-hidden="true" focusable="false">
+                                 <path d="M16.29 19.72c4.22-4.22 8.4-17.56 6.7-19.26S7.95 2.93 3.73 7.16C.67 10.22.62 15.58 3.5 18.98L15.62 6.86c.29-.29.77-.29 1.06 0s.29.77 0 1.06L4.57 20.03l-2.14 2.14c-.29.29-.29.77 0 1.06s.77.29 1.06 0l2.34-2.34c3.34 1.88 7.78 1.51 10.46-1.17ZM40.29 19.72c4.23-4.23 8.41-17.56 6.7-19.26s-15.04 2.48-19.26 6.7c-3.06 3.06-3.11 8.42-.23 11.82L39.62 6.86c.29-.29.77-.29 1.06 0s.29.77 0 1.06L28.57 20.03l-2.14 2.14c-.29.29-.29.77 0 1.06s.77.29 1.06 0l2.34-2.34c3.34 1.88 7.78 1.51 10.46-1.17ZM64.29 19.72c4.23-4.23 8.41-17.56 6.7-19.26s-15.04 2.48-19.26 6.7c-3.06 3.06-3.11 8.42-.23 11.82L63.62 6.86c.29-.29.77-.29 1.06 0s.29.77 0 1.06L52.57 20.03l-2.14 2.14c-.29.29-.29.77 0 1.06s.77.29 1.06 0l2.34-2.34c3.34 1.88 7.78 1.51 10.46-1.17Z"></path>
+                              </svg>
+                              <svg class="bk-icon -streamline-travel_sustainable_level_3_plus" height="24" style="display: none" width="90" viewBox="0 0 90 24" role="presentation" aria-hidden="true" focusable="false">
+                                 <path d="M40.29 19.72c4.23-4.23 8.41-17.56 6.7-19.26s-15.04 2.48-19.26 6.7c-3.06 3.06-3.11 8.42-.23 11.82L39.62 6.86c.29-.29.77-.29 1.06 0s.29.77 0 1.06L28.57 20.03l-2.14 2.14c-.29.29-.29.77 0 1.06s.77.29 1.06 0l2.34-2.34c3.34 1.88 7.78 1.51 10.46-1.17ZM64.29 19.72c4.23-4.23 8.41-17.56 6.7-19.26s-15.04 2.48-19.26 6.7c-3.06 3.06-3.11 8.42-.23 11.82L63.62 6.86c.29-.29.77-.29 1.06 0s.29.77 0 1.06L52.57 20.03l-2.14 2.14c-.29.29-.29.77 0 1.06s.77.29 1.06 0l2.34-2.34c3.34 1.88 7.78 1.51 10.46-1.17ZM76.38 10.85c-.69 0-1.26.57-1.26 1.26v.84c0 .69.57 1.26 1.26 1.26h2.52c.23 0 .42.19.42.42v2.52c0 .7.57 1.26 1.26 1.26h.84c.7 0 1.26-.56 1.26-1.26v-2.52c0-.23.19-.42.42-.42h2.52c.69 0 1.26-.57 1.26-1.26v-.84c0-.69-.57-1.26-1.26-1.26H83.1c-.23 0-.42-.19-.42-.42V7.91c0-.69-.57-1.26-1.26-1.26h-.84c-.69 0-1.26.57-1.26 1.26v2.52c0 .23-.19.42-.42.42h-2.52ZM16.29 19.72c4.22-4.22 8.4-17.56 6.7-19.26S7.95 2.93 3.73 7.16C.67 10.22.62 15.58 3.5 18.98L15.62 6.86c.29-.29.77-.29 1.06 0s.29.77 0 1.06L4.57 20.03l-2.14 2.14c-.29.29-.29.77 0 1.06s.77.29 1.06 0l2.34-2.34c3.34 1.88 7.78 1.51 10.46-1.17Z"></path>
+                              </svg>
+                              <div id="wrap-hotelpage-top" class="wrap-hotelpage-top">
+                                 <form action="https://secure.booking.com/book.html" method="post" id="top-book" class="wrap-hotelpage-top__book top-book-form form_wl_fix">
+                                    <input type="hidden" name="aid" value="304142">
+                                    <input type="hidden" name="label" value="gen173bo-10CAEoggI46AdIM1gDaHiIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGYAgKoAgG4AsDihskGwAIB0gIkODU5OGM0MzYtZTZmOC00NTk2LThiNjgtMzc4Y2UzMTQxYWIy2AIB4AIB">
+                                    <input type="hidden" name="sid" value="69a531678c92530bd936b4d82e71bffc">
+                                    <input type="hidden" name="hostname" value="www.booking.com">
+                                    <input type="hidden" name="aid" value="304142">
+                                    <input type="hidden" name="hotel_id" value="430697">
+                                    <input type="hidden" name="maxrooms" value="10">
+                                    <input type="hidden" name="stage" value="0">
+                                    <input type="hidden" name="interval" value="">
+                                    <input type="hidden" name="checkin" value="">
+                                    <input type="hidden" name="nr_rooms_" value="nr_rooms_430697">
+                                    <div class="property_wishlist_widget_wrapper">
+                                       <div data-capla-component-boundary="b-property-web-property-page/PropertyWishlistWidgetDesktop" data-capla-hydration="0">
+                                          <div data-testid="PropertyWishlistWidgetDesktop-wrapper">
+                                             <span>
+                                                <span class="a297f43545">
+                                                   <span class="a297f43545">
+                                                      <span>
+                                                         <button aria-expanded="false" data-testid="wishlist-button" aria-label="Save this item to a trip list" type="button" class="de576f5064 b46cd7aad7 e26a59bb37 c295306d66 dda427e6b5 aaf9b6e287 a0ddd706cc">
+                                                            <span class="ec1ff2f0cb">
+                                                               <span class="fc70cba028 e2a1cd6bfe" aria-hidden="true">
+                                                                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                                                     <path d="m12.45 22.33-9.48-9.98c-1.9-1.9-1.9-4.99 0-6.99 1.9-1.9 4.99-1.9 6.99 0l1.6 1.6c.3.3.8.3 1.1 0l1.6-1.6c1.9-1.9 4.99-1.9 6.99 0 1.9 1.9 1.9 4.99 0 6.99l-9.58 9.98h1.1-.3Zm-1 1.1c.3.3.8.3 1.1 0l9.58-9.98c2.49-2.49 2.49-6.59 0-9.08s-6.59-2.49-9.08 0l-1.6 1.6h1.1l-1.6-1.6c-2.49-2.49-6.59-2.49-9.08 0s-2.49 6.59 0 9.08z"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </span>
+                                                         </button>
+                                                      </span>
+                                                   </span>
+                                                </span>
+                                             </span>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="property_share_wrapper">
+                                       <div data-capla-component-boundary="b-property-web-property-page/PropertyShareDesktop" data-capla-hydration="0">
+                                          <div data-testid="PropertyShare-wrapper">
+                                             <div data-testid="property-share-container">
+                                                <span class="a297f43545">
+                                                   <span class="a297f43545">
+                                                      <button aria-expanded="false" aria-label="Share this property" data-testid="property-share-button" type="button" class="de576f5064 b46cd7aad7 e26a59bb37 c295306d66 dda427e6b5 aaf9b6e287">
+                                                         <span class="ec1ff2f0cb">
+                                                            <span class="fc70cba028 e2a1cd6bfe" aria-hidden="true">
+                                                               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                                                  <path d="M8.25 11.25a3 3 0 1 1-6 0 3 3 0 0 1 6 0m1.5 0a4.5 4.5 0 1 0-9 0 4.5 4.5 0 0 0 9 0m12-5.25a3 3 0 1 1-6 0 3 3 0 0 1 6 0m1.5 0a4.5 4.5 0 1 0-9 0 4.5 4.5 0 0 0 9 0m-1.5 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0m1.5 0a4.5 4.5 0 1 0-9 0 4.5 4.5 0 0 0 9 0M9.018 10.59l6.508-2.531a.75.75 0 0 0-.544-1.398L8.474 9.192a.75.75 0 1 0 .544 1.398m-.748 3.009 6.79 3.395a.75.75 0 1 0 .67-1.342l-6.79-3.395a.75.75 0 1 0-.67 1.342"></path>
+                                                               </svg>
+                                                            </span>
+                                                         </span>
+                                                      </button>
+                                                   </span>
+                                                </span>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <button class="txp-bui-header-pp bui-button bui-button--primary book_now_button_handler" id="hcta" type="button" data-url="" aria-description="
+                                       See availability and prices
+                                       " data-et-click="goal:hp_d_reserve_button_top_of_hp_clicked customGoal:eWHMcCcCcCSYeJZOIYCZYPfWRHZGFGHbOPHe:2 customGoal:eWHMcCcCcCSYeJUaXNNJIaKEO:1" data-et-view="eWHMcCcCcCSYeJZOIYCZYPfWRHZGFGHbOPHe:1" data-et-mouseenter=" customGoal:eWHMcCcCcCSYeJZOIYCZYPfWRHZGFGHbOPHe:1 eWHMcCcCcCSYeJZOIYCZYPfWRHZGFGHbOPHe:2    eWHMcCcCcCSYeJZOIYCZYPfWRHZGFGHbOPHe:6    eWHMcCcCcCSYeJZOIYCZYPfWRHZGFGHbOPHe:9  ">
+                                    <span class="bui-button__text"> Reserve </span>
+                                    <span class="b-button__from-text book_now_rt_summary g-hidden"></span>
+                                    </button>
+                                 </form>
+                                 <div data-et-view="YdXfdKNKNKZUTPVLBLPONVDTXT:2"></div>
+                                 <div class="hp__hotel-title pp-header">
+                                    <div id="hp_hotel_name">
+                                       <span class="hp__hotel_ratings pp-header__badges pp-header__badges--combined">
+                                          <div data-capla-component-boundary="b-property-web-property-page/Badges" data-capla-hydration="0">
+                                             <div data-testid="PropertyBadges-wrapper" style="--bui_stack_spaced_gap--s: 2" class="f6e3a11b0d a19a26a18c a81870d302 e95943ce9b">
+                                                <span class="a297f43545 d1903e422e">
+                                                   <button data-testid="quality-rating" aria-label="3 out of 5 stars" type="button" class="de576f5064 f2c354f969">
+                                                      <span data-testid="rating-stars" aria-label="3 out of 5 stars" class="b5ab46c480 e5b0af413e" role="img">
+                                                         <div class="e03979cfad">
+                                                            <span aria-hidden="true" class="fc70cba028 bdc459fcb4 f24706dc71">
+                                                               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                                                  <path d="M23.555 8.729a1.505 1.505 0 0 0-1.406-.98h-6.087a.5.5 0 0 1-.472-.334l-2.185-6.193a1.5 1.5 0 0 0-2.81 0l-.005.016-2.18 6.177a.5.5 0 0 1-.471.334H1.85A1.5 1.5 0 0 0 .887 10.4l5.184 4.3a.5.5 0 0 1 .155.543l-2.178 6.531a1.5 1.5 0 0 0 2.31 1.684l5.346-3.92a.5.5 0 0 1 .591 0l5.344 3.919a1.5 1.5 0 0 0 2.312-1.683l-2.178-6.535a.5.5 0 0 1 .155-.543l5.194-4.306a1.5 1.5 0 0 0 .433-1.661"></path>
+                                                               </svg>
+                                                            </span>
+                                                            <span aria-hidden="true" class="fc70cba028 bdc459fcb4 e2cec97860 f24706dc71">
+                                                               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                                                  <path d="M12 19.041a.9.9 0 0 1 .531.174l5.344 3.919.001.001.148.092a1.1 1.1 0 0 0 .502.122l-.001.4-.12-.005a1.5 1.5 0 0 1-.766-.287l-5.344-3.919a.5.5 0 0 0-.217-.09L12 19.442a.5.5 0 0 0-.295.096l-5.346 3.92-.099.067a1.5 1.5 0 0 1-.786.223v-.4a1.1 1.1 0 0 0 .648-.213l5.346-3.92h.001l.121-.074a.9.9 0 0 1 .41-.1m.114-18.79a1.5 1.5 0 0 1 1.29.97l2.186 6.194a.5.5 0 0 0 .472.334h6.087a1.51 1.51 0 0 1 1.406.98c.106.288.122.601.045.898l-.033.11a1.5 1.5 0 0 1-.445.653l-5.194 4.306a.5.5 0 0 0-.161.248l-.016.073a.5.5 0 0 0 .022.222l2.178 6.535a1.5 1.5 0 0 1 .006.932l-.04.112a1.5 1.5 0 0 1-.506.643l-.1.067a1.5 1.5 0 0 1-.786.221v-.4a1.102 1.102 0 0 0 1.088-1.28l-.041-.168-2.178-6.535a.9.9 0 0 1 .278-.978h.001l5.194-4.306a1.1 1.1 0 0 0 .313-1.214l-.07-.152a1.1 1.1 0 0 0-.795-.554l-.167-.013h-6.086v-.001a.9.9 0 0 1-.793-.473l-.056-.127-2.182-6.185-.07-.153a1.1 1.1 0 0 0-1.99.148l-.001.006-.003.007-2.18 6.177a.9.9 0 0 1-.847.6H1.85a1.1 1.1 0 0 0-.707 1.944l5.183 4.3.098.095a.9.9 0 0 1 .215.752l-.033.13-2.179 6.532a1.1 1.1 0 0 0 1.046 1.447v.4l-.12-.005a1.5 1.5 0 0 1-.667-.216l-.099-.067a1.5 1.5 0 0 1-.504-.643l-.04-.112a1.5 1.5 0 0 1-.028-.817l.033-.114 2.178-6.53a.5.5 0 0 0 .021-.223l-.014-.074a.5.5 0 0 0-.108-.195l-.054-.052-5.184-4.3a1.5 1.5 0 0 1-.452-.65L.4 9.638a1.5 1.5 0 0 1 .003-.792l.035-.11a1.5 1.5 0 0 1 .458-.647l.092-.07a1.5 1.5 0 0 1 .746-.267l.115-.004h6.089l.077-.006a.5.5 0 0 0 .145-.046l.067-.04a.5.5 0 0 0 .151-.171l.031-.07 2.18-6.178.005-.016a1.5 1.5 0 0 1 .459-.639l.09-.068c.252-.174.55-.268.856-.268z"></path>
+                                                               </svg>
+                                                            </span>
+                                                         </div>
+                                                         <div class="e03979cfad">
+                                                            <span aria-hidden="true" class="fc70cba028 bdc459fcb4 f24706dc71">
+                                                               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                                                  <path d="M23.555 8.729a1.505 1.505 0 0 0-1.406-.98h-6.087a.5.5 0 0 1-.472-.334l-2.185-6.193a1.5 1.5 0 0 0-2.81 0l-.005.016-2.18 6.177a.5.5 0 0 1-.471.334H1.85A1.5 1.5 0 0 0 .887 10.4l5.184 4.3a.5.5 0 0 1 .155.543l-2.178 6.531a1.5 1.5 0 0 0 2.31 1.684l5.346-3.92a.5.5 0 0 1 .591 0l5.344 3.919a1.5 1.5 0 0 0 2.312-1.683l-2.178-6.535a.5.5 0 0 1 .155-.543l5.194-4.306a1.5 1.5 0 0 0 .433-1.661"></path>
+                                                               </svg>
+                                                            </span>
+                                                            <span aria-hidden="true" class="fc70cba028 bdc459fcb4 e2cec97860 f24706dc71">
+                                                               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                                                  <path d="M12 19.041a.9.9 0 0 1 .531.174l5.344 3.919.001.001.148.092a1.1 1.1 0 0 0 .502.122l-.001.4-.12-.005a1.5 1.5 0 0 1-.766-.287l-5.344-3.919a.5.5 0 0 0-.217-.09L12 19.442a.5.5 0 0 0-.295.096l-5.346 3.92-.099.067a1.5 1.5 0 0 1-.786.223v-.4a1.1 1.1 0 0 0 .648-.213l5.346-3.92h.001l.121-.074a.9.9 0 0 1 .41-.1m.114-18.79a1.5 1.5 0 0 1 1.29.97l2.186 6.194a.5.5 0 0 0 .472.334h6.087a1.51 1.51 0 0 1 1.406.98c.106.288.122.601.045.898l-.033.11a1.5 1.5 0 0 1-.445.653l-5.194 4.306a.5.5 0 0 0-.161.248l-.016.073a.5.5 0 0 0 .022.222l2.178 6.535a1.5 1.5 0 0 1 .006.932l-.04.112a1.5 1.5 0 0 1-.506.643l-.1.067a1.5 1.5 0 0 1-.786.221v-.4a1.102 1.102 0 0 0 1.088-1.28l-.041-.168-2.178-6.535a.9.9 0 0 1 .278-.978h.001l5.194-4.306a1.1 1.1 0 0 0 .313-1.214l-.07-.152a1.1 1.1 0 0 0-.795-.554l-.167-.013h-6.086v-.001a.9.9 0 0 1-.793-.473l-.056-.127-2.182-6.185-.07-.153a1.1 1.1 0 0 0-1.99.148l-.001.006-.003.007-2.18 6.177a.9.9 0 0 1-.847.6H1.85a1.1 1.1 0 0 0-.707 1.944l5.183 4.3.098.095a.9.9 0 0 1 .215.752l-.033.13-2.179 6.532a1.1 1.1 0 0 0 1.046 1.447v.4l-.12-.005a1.5 1.5 0 0 1-.667-.216l-.099-.067a1.5 1.5 0 0 1-.504-.643l-.04-.112a1.5 1.5 0 0 1-.028-.817l.033-.114 2.178-6.53a.5.5 0 0 0 .021-.223l-.014-.074a.5.5 0 0 0-.108-.195l-.054-.052-5.184-4.3a1.5 1.5 0 0 1-.452-.65L.4 9.638a1.5 1.5 0 0 1 .003-.792l.035-.11a1.5 1.5 0 0 1 .458-.647l.092-.07a1.5 1.5 0 0 1 .746-.267l.115-.004h6.089l.077-.006a.5.5 0 0 0 .145-.046l.067-.04a.5.5 0 0 0 .151-.171l.031-.07 2.18-6.178.005-.016a1.5 1.5 0 0 1 .459-.639l.09-.068c.252-.174.55-.268.856-.268z"></path>
+                                                               </svg>
+                                                            </span>
+                                                         </div>
+                                                         <div class="e03979cfad">
+                                                            <span aria-hidden="true" class="fc70cba028 bdc459fcb4 f24706dc71">
+                                                               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                                                  <path d="M23.555 8.729a1.505 1.505 0 0 0-1.406-.98h-6.087a.5.5 0 0 1-.472-.334l-2.185-6.193a1.5 1.5 0 0 0-2.81 0l-.005.016-2.18 6.177a.5.5 0 0 1-.471.334H1.85A1.5 1.5 0 0 0 .887 10.4l5.184 4.3a.5.5 0 0 1 .155.543l-2.178 6.531a1.5 1.5 0 0 0 2.31 1.684l5.346-3.92a.5.5 0 0 1 .591 0l5.344 3.919a1.5 1.5 0 0 0 2.312-1.683l-2.178-6.535a.5.5 0 0 1 .155-.543l5.194-4.306a1.5 1.5 0 0 0 .433-1.661"></path>
+                                                               </svg>
+                                                            </span>
+                                                            <span aria-hidden="true" class="fc70cba028 bdc459fcb4 e2cec97860 f24706dc71">
+                                                               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                                                  <path d="M12 19.041a.9.9 0 0 1 .531.174l5.344 3.919.001.001.148.092a1.1 1.1 0 0 0 .502.122l-.001.4-.12-.005a1.5 1.5 0 0 1-.766-.287l-5.344-3.919a.5.5 0 0 0-.217-.09L12 19.442a.5.5 0 0 0-.295.096l-5.346 3.92-.099.067a1.5 1.5 0 0 1-.786.223v-.4a1.1 1.1 0 0 0 .648-.213l5.346-3.92h.001l.121-.074a.9.9 0 0 1 .41-.1m.114-18.79a1.5 1.5 0 0 1 1.29.97l2.186 6.194a.5.5 0 0 0 .472.334h6.087a1.51 1.51 0 0 1 1.406.98c.106.288.122.601.045.898l-.033.11a1.5 1.5 0 0 1-.445.653l-5.194 4.306a.5.5 0 0 0-.161.248l-.016.073a.5.5 0 0 0 .022.222l2.178 6.535a1.5 1.5 0 0 1 .006.932l-.04.112a1.5 1.5 0 0 1-.506.643l-.1.067a1.5 1.5 0 0 1-.786.221v-.4a1.102 1.102 0 0 0 1.088-1.28l-.041-.168-2.178-6.535a.9.9 0 0 1 .278-.978h.001l5.194-4.306a1.1 1.1 0 0 0 .313-1.214l-.07-.152a1.1 1.1 0 0 0-.795-.554l-.167-.013h-6.086v-.001a.9.9 0 0 1-.793-.473l-.056-.127-2.182-6.185-.07-.153a1.1 1.1 0 0 0-1.99.148l-.001.006-.003.007-2.18 6.177a.9.9 0 0 1-.847.6H1.85a1.1 1.1 0 0 0-.707 1.944l5.183 4.3.098.095a.9.9 0 0 1 .215.752l-.033.13-2.179 6.532a1.1 1.1 0 0 0 1.046 1.447v.4l-.12-.005a1.5 1.5 0 0 1-.667-.216l-.099-.067a1.5 1.5 0 0 1-.504-.643l-.04-.112a1.5 1.5 0 0 1-.028-.817l.033-.114 2.178-6.53a.5.5 0 0 0 .021-.223l-.014-.074a.5.5 0 0 0-.108-.195l-.054-.052-5.184-4.3a1.5 1.5 0 0 1-.452-.65L.4 9.638a1.5 1.5 0 0 1 .003-.792l.035-.11a1.5 1.5 0 0 1 .458-.647l.092-.07a1.5 1.5 0 0 1 .746-.267l.115-.004h6.089l.077-.006a.5.5 0 0 0 .145-.046l.067-.04a.5.5 0 0 0 .151-.171l.031-.07 2.18-6.178.005-.016a1.5 1.5 0 0 1 .459-.639l.09-.068c.252-.174.55-.268.856-.268z"></path>
+                                                               </svg>
+                                                            </span>
+                                                         </div>
+                                                      </span>
+                                                   </button>
+                                                </span>
+                                             </div>
+                                          </div>
+                                       </span>
+                                       <div data-capla-component-boundary="b-property-web-property-page/PropertyHeaderName" data-capla-hydration="0">
+                                          <h2 class="ddb12f4f86 pp-header__title">KENCANG77 | SUGESTI SLOT GACOR TERPERCAYA GAMPANG MAXWIN MALAM INI</h2>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div style="clear: both"></div>
+                           </div>
+                           <div class="k2-hp--gallery-header bui-grid__column bui-grid__column-9">
+                              <div class="hotelchars blockdisplay fbblock pretty_headers hp-consistent-vertical-rhythm" data-tab="main" id="blockdisplay1">
+                                 <div id="hotel_main_content" class="nha_large_photo_main_content nha_large_photo_extra_height">
+                                    <div aria-label="Photo Gallery of KENCANG77 | SUGESTI SLOT GACOR TERPERCAYA GAMPANG MAXWIN MALAM INI">
+                                       <div data-capla-component-boundary="b-property-web-property-page/PropertyGalleryUnifiedDesktop" data-capla-hydration="0">
+                                          <div id="photo_wrapper" data-testid="GalleryUnifiedDesktop-wrapper" role="region" aria-label="Photo gallery for KENCANG77 | SUGESTI SLOT GACOR TERPERCAYA GAMPANG MAXWIN MALAM INI">
+                                             <div></div>
+                                             <div></div>
+                                             <div>
+                                                <div>
+                                                   <div style="
+                                                      --bui_stack_spaced_gap--s: 2;
+                                                      --bui_mixin_width--s: 100%;
+                                                      --bui_mixin_height--s: 470px;
+                                                      " class="f6e3a11b0d ae5dbab14d e95943ce9b db48780985 f65059a889 bc733a7a78">
+                                                      <div style="
+                                                         --bui_stack_spaced_gap--s: 2;
+                                                         --bui_mixin_width--s: 100%;
+                                                         " class="f6e3a11b0d a19a26a18c ed582438e0 ac30880487 e95943ce9b db48780985 f65059a889">
+                                                         <div class="aa225776f2 ca9d921c46">
+                                                            <button type="button" class="de576f5064 e8e06b23a3">
+                                                               <picture class="b7a691c583 ff87070776" style="
+                                                                  --bui_image_width--s: 100%;
+                                                                  --bui_image_height--s: 100%;
+                                                                  "><img class="f6c12c77eb c0e44985a8 c09abd8a52 ca3dad4476" src="https://cdn.linktraffic.site/images/2025/11/27/single_cropped134ebdff9e7c9990ff.jpg" alt="KENCANG77 | SUGESTI SLOT GACOR TERPERCAYA GAMPANG MAXWIN MALAM INI" loading="lazy"></picture>
+                                                            </button>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                             <div></div>
+                                             <div></div>
+                                             <div></div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="bui-grid__column bui-grid__column-3">
+                              <style>
+                                 /*
+                                 I know it's ugly and shouldn't be done like this.
+                                 The reason for inlining this styles, is that I want to include them only for the experiment,
+                                 as well as for booking owned websites.
+                                 Also, these components that are used here should be migrated to Capla within this year timespan.
+                                 So this is temporary change, and I know that there is nothing more permanent than temporary.
+                                 */
+                                 .hp-sidebar--right {
+                                 display: flex;
+                                 flex-direction: column;
+                                 height: 100%;
+                                 }
+                                 .hp-sidebar__reviews {
+                                 margin-bottom: var(--bui_spacing_4x);
+                                 overflow: hidden;
+                                 }
+                                 .hp-sidebar__reviews .hp-gallery-review {
+                                 position: initial;
+                                 }
+                                 .hp-sidebar__reviews #reviewFloater {
+                                 float: none;
+                                 padding: 0;
+                                 width: 100%;
+                                 }
+                                 .hp-sidebar__reviews #reviewFloater .featured_review_score,
+                                 .hp-sidebar__reviews .external_reviews_popover {
+                                 float: none;
+                                 margin-bottom: 0;
+                                 padding: var(--bui_spacing_3x);
+                                 width: 100%;
+                                 }
+                                 .hp-sidebar__reviews .external_reviews_popover {
+                                 width: auto;
+                                 }
+                                 .hp-sidebar__reviews .featured_review_score .big_review_score_detailed {
+                                 clear: initial;
+                                 float: none;
+                                 }
+                                 .hp-sidebar__reviews .reviews-carousel {
+                                 width: 100%;
+                                 }
+                                 .hp-sidebar__reviews .best-review-score {
+                                 margin: 0;
+                                 padding: var(--bui_spacing_3x);
+                                 }
+                                 .hp-sidebar__reviews .best-review-score.inferred-location-score {
+                                 margin: 0;
+                                 padding: 0;
+                                 }
+                                 .hp-sidebar__map {
+                                 flex: 1;
+                                 height: auto;
+                                 overflow: hidden;
+                                 }
+                              </style>
+                              <div class="hp-sidebar--right">
+                                 <div class="hp-sidebar__reviews bui-box bui-box--border-color-neutral_alt bui-box--border-radius-100 bui-box--border-width-100 bui-box--padding-none">
+                                    <div class="hp-gallery-review">
+                                       <div id="reviewFloater" class="tracked reviewFloater nha_large_photo_reviewFloater fixed_review_container reviewFloater--opaque reviewFloater--hidden" data-trans-more="More" style="">
+                                          <div id="js--hp-gallery-scorecard" class="hotel_large_photp_score featured_review_score js-fly-content-tooltip hp_lightbox_score_block" data-review-score="8.3">
+                                             <a class="big_review_score_detailed js-big_review_score_detailed ind_rev_total hp_review_score js-hotel-review-score" href="#blockdisplay4" rel="reviews" data-tab-link="" style="">
+                                                <div data-capla-component-boundary="b-property-web-property-page/PropertyReviewScoreRight" data-capla-hydration="0">
+                                                   <div class="">
+                                                      <div data-testid="review-score-right-component" style="--bui_stack_spaced_gap--s: 2" class="f6e3a11b0d c465553d73 a81870d302 ac30880487 e95943ce9b afec5495f3 b889bab3b1">
+                                                         <div class="bc946a29db">Scored 8.2</div>
+                                                         <div aria-hidden="true" class="f63b14ab7a dff2e52086">
+                                                            8.2
+                                                         </div>
+                                                         <div class="bc946a29db">
+                                                            Rated very good
+                                                         </div>
+                                                         <div aria-hidden="true" class="aa225776f2 ca9d921c46 e951e75167">
+                                                            <div class="f63b14ab7a f546354b44 becbee2f63">
+                                                               Very Good
+                                                            </div>
+                                                            <div class="fff1944c52 fb14de7f14 eaa8455879">
+                                                               246 reviews
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </a>
+                                          </div>
+                                          <hr class="bui-divider">
+                                          <div class="review-breakdown-tooltip" style="display: none">
+                                             <div id="review_list_score" class="">
+                                                <span class="review_list_score_breakdown_right">
+                                                   <ul id="review_list_score_breakdown" class="review_score_breakdown_list list_tighten clearfix">
+                                                      <li class="clearfix one_col" data-question="hotel_services">
+                                                         <p class="review_score_name">Facilities</p>
+                                                         <div class="score_bar">
+                                                            <div class="score_bar_value" data-score="80" style="width: 80%"></div>
+                                                         </div>
+                                                         <p class="review_score_value">8.0</p>
+                                                      </li>
+                                                      <li class="clearfix one_col" data-question="hotel_clean">
+                                                         <p class="review_score_name">Cleanliness</p>
+                                                         <div class="score_bar">
+                                                            <div class="score_bar_value" data-score="81" style="width: 81%"></div>
+                                                         </div>
+                                                         <p class="review_score_value">8.1</p>
+                                                      </li>
+                                                      <li class="clearfix one_col" data-question="hotel_comfort">
+                                                         <p class="review_score_name">Comfort</p>
+                                                         <div class="score_bar">
+                                                            <div class="score_bar_value" data-score="80" style="width: 80%"></div>
+                                                         </div>
+                                                         <p class="review_score_value">8.0</p>
+                                                      </li>
+                                                      <li class="clearfix one_col" data-question="hotel_value">
+                                                         <p class="review_score_name">
+                                                            Value for money
+                                                         </p>
+                                                         <div class="score_bar">
+                                                            <div class="score_bar_value" data-score="83" style="width: 83%"></div>
+                                                         </div>
+                                                         <p class="review_score_value">8.3</p>
+                                                      </li>
+                                                      <li class="clearfix one_col" data-question="hotel_location">
+                                                         <p class="review_score_name">Location</p>
+                                                         <div class="score_bar">
+                                                            <div class="score_bar_value" data-score="86" style="width: 86%"></div>
+                                                         </div>
+                                                         <p class="review_score_value">8.6</p>
+                                                      </li>
+                                                      <li class="clearfix one_col" data-question="total">
+                                                         <p class="review_score_name">Total</p>
+                                                         <div class="score_bar">
+                                                            <div class="score_bar_value" data-score="83" style="width: 83%"></div>
+                                                         </div>
+                                                         <p class="review_score_value">8.3</p>
+                                                      </li>
+                                                      <li class="clearfix one_col" data-question="hotel_wifi">
+                                                         <p class="review_score_name">Free Wifi</p>
+                                                         <div class="score_bar">
+                                                            <div class="score_bar_value" data-score="62" style="width: 62%"></div>
+                                                         </div>
+                                                         <p class="review_score_value">6.2</p>
+                                                      </li>
+                                                   </ul>
+                                                </span>
+                                             </div>
+                                          </div>
+                                          <div data-capla-component-boundary="b-property-web-property-page/PropertyGallerySidebarReviewsDesktop" data-capla-hydration="0">
+                                             <div class="fe4dfbc0c7 b228ba80c5" data-testid="FeaturedReviewGalleryDesktop-wrapper">
+                                                <h3 style="
+                                                   --bui_mixin_spaced_padding-block-start--s: 0;
+                                                   --bui_mixin_spaced_padding-block-end--s: 2;
+                                                   --bui_mixin_spaced_padding-inline-start--s: 3;
+                                                   --bui_mixin_spaced_padding-inline-end--s: 3;
+                                                   --bui_mixin_spaced_margin--s: 0;
+                                                   " class="a91bd87e91 e65bb8178d b5f4517f4e b5f6fed9a8 e5f6b5ce19 e19e5a7d46">
+                                                   Pengguna Setia
+                                                </h3>
+                                                <div class="e4ee392061 a3842bd3b4 eaa13da8b7">
+                                                   <div class="cef02e091d d64ab99142 b4b3a7c462" id=":r4n:" aria-label="Pengguna Setia" role="region" aria-roledescription="carousel">
+                                                      <div role="group" aria-roledescription="slide" class="ee4cb4021c c3bfe61347 cabc9b7051">
+                                                         <div>
+                                                            <div style="
+                                                               --bui_box_spaced_padding--s: 4;
+                                                               " class="c3bdfd4ac2 b1e30971a9">
+                                                               <div class="e63bbe12f7" data-testid="featuredreviewcard-text">
+                                                                  <div class="a17eaf5728">
+                                                                     <div class="b99b6ef58f d14152e7c3 e01adb21c0">
+                                                                        <span>“</span><span>gacor banget sumpah , baru main pun pecah x1000 walaupun pertamanya kalah , intinya sih jangan ngarep menang di awal heheeh</span><span>”</span>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                               <div data-testid="featuredreviewcard-avatar">
+                                                                  <div style="
+                                                                     --bui_stack_spaced_gap--s: 2;
+                                                                     " class="f6e3a11b0d a19a26a18c a81870d302 ac30880487 e95943ce9b">
+                                                                     <div aria-hidden="true" style="
+                                                                        --bui_box_spaced_padding--s: 0;
+                                                                        " class="c3bdfd4ac2 b96c49a28c c256f1a28a a18a170653 c82b1db4f9 dc9db40f5a ba98511f54">
+                                                                        <span>A</span>
+                                                                     </div>
+                                                                     <div class="aa225776f2 ca9d921c46">
+                                                                        <div class="fff1944c52 f546354b44"></div>
+                                                                        <div class="fff1944c52 fb14de7f14">
+                                                                           <span class="a787c7cca4">Rudi Anjas</span><img alt="Indonesia" src="https://t-cf.bstatic.com/design-assets/assets/v3.170.0/images-flags/Id.png" class="b8d1620349"><span class="d838fb5f41 aea5eccb71">
+                                                                           Indonesia</span>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div role="group" aria-roledescription="slide" class="ee4cb4021c c3bfe61347 cabc9b7051">
+                                                         <div>
+                                                            <div style="
+                                                               --bui_box_spaced_padding--s: 4;
+                                                               " class="c3bdfd4ac2 b1e30971a9">
+                                                               <div class="e63bbe12f7" data-testid="featuredreviewcard-text">
+                                                                  <div class="a17eaf5728">
+                                                                     <div class="b99b6ef58f d14152e7c3 e01adb21c0">
+                                                                        <span>“</span><span>Nature lodge is a
+                                                                        special place ! Its
+                                                                        a great place to
+                                                                        relax and unwind .
+                                                                        The staff are so
+                                                                        kind and work very
+                                                                        hard and one of the
+                                                                        best parts
+                                                                        about...</span><span>”</span>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                               <div data-testid="featuredreviewcard-avatar">
+                                                                  <div style="
+                                                                     --bui_stack_spaced_gap--s: 2;
+                                                                     " class="f6e3a11b0d a19a26a18c a81870d302 ac30880487 e95943ce9b">
+                                                                     <div aria-hidden="true" style="
+                                                                        --bui_box_spaced_padding--s: 0;
+                                                                        " class="c3bdfd4ac2 b96c49a28c c256f1a28a a18a170653 c82b1db4f9 dc9db40f5a ba98511f54">
+                                                                        <span>K</span>
+                                                                     </div>
+                                                                     <div class="aa225776f2 ca9d921c46">
+                                                                        <div class="fff1944c52 f546354b44"></div>
+                                                                        <div class="fff1944c52 fb14de7f14">
+                                                                           <span class="a787c7cca4">Kia</span><img alt="Australia" src="https://t-cf.bstatic.com/design-assets/assets/v3.170.0/images-flags/Au.png" class="b8d1620349"><span class="d838fb5f41 aea5eccb71">
+                                                                           Australia</span>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div role="group" aria-roledescription="slide" class="ee4cb4021c c3bfe61347 cabc9b7051">
+                                                         <div>
+                                                            <div style="
+                                                               --bui_box_spaced_padding--s: 4;
+                                                               " class="c3bdfd4ac2 b1e30971a9">
+                                                               <div class="e63bbe12f7" data-testid="featuredreviewcard-text">
+                                                                  <div class="a17eaf5728">
+                                                                     <div class="b99b6ef58f d14152e7c3 e01adb21c0">
+                                                                        <span>“</span><span>Very pretty
+                                                                        grounds, lounge area
+                                                                        was attractive and a
+                                                                        great place for a
+                                                                        beer at the end of
+                                                                        the day. The pool
+                                                                        was a really nice
+                                                                        treat. The
+                                                                        staff...</span><span>”</span>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                               <div data-testid="featuredreviewcard-avatar">
+                                                                  <div style="
+                                                                     --bui_stack_spaced_gap--s: 2;
+                                                                     " class="f6e3a11b0d a19a26a18c a81870d302 ac30880487 e95943ce9b">
+                                                                     <div aria-hidden="false" style="
+                                                                        --bui_box_spaced_padding--s: 0;
+                                                                        " class="c3bdfd4ac2 b96c49a28c c256f1a28a a18a170653 c82b1db4f9 dc9db40f5a ba98511f54">
+                                                                        <picture class="b7a691c583 f5c8371996" style="
+                                                                           --bui_image_width--s: 100%;
+                                                                           --bui_image_height--s: 100%;
+                                                                           "><img class="f6c12c77eb c0e44985a8 c09abd8a52 ca3dad4476" src="https://xx.bstatic.com/static/img/review/avatars/ava-s.png" alt="" role="presentation" loading="lazy"></picture>
+                                                                     </div>
+                                                                     <div class="aa225776f2 ca9d921c46">
+                                                                        <div class="fff1944c52 f546354b44"></div>
+                                                                        <div class="fff1944c52 fb14de7f14">
+                                                                           <span class="a787c7cca4">Susan</span><img alt="Indonesia" src="https://t-cf.bstatic.com/design-assets/assets/v3.170.0/images-flags/Us.png" class="b8d1620349"><span class="d838fb5f41 aea5eccb71">
+                                                                           United
+                                                                           States</span>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div role="group" aria-roledescription="slide" class="ee4cb4021c c3bfe61347 cabc9b7051">
+                                                         <div>
+                                                            <div style="
+                                                               --bui_box_spaced_padding--s: 4;
+                                                               " class="c3bdfd4ac2 b1e30971a9">
+                                                               <div class="e63bbe12f7" data-testid="featuredreviewcard-text">
+                                                                  <div class="a17eaf5728">
+                                                                     <div class="b99b6ef58f d14152e7c3 e01adb21c0">
+                                                                        <span>“</span><span>The staff were
+                                                                        exceptionally
+                                                                        helpful and
+                                                                        friendly. The
+                                                                        location was
+                                                                        peaceful and
+                                                                        quiet.</span><span>”</span>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                               <div data-testid="featuredreviewcard-avatar">
+                                                                  <div style="
+                                                                     --bui_stack_spaced_gap--s: 2;
+                                                                     " class="f6e3a11b0d a19a26a18c a81870d302 ac30880487 e95943ce9b">
+                                                                     <div aria-hidden="true" style="
+                                                                        --bui_box_spaced_padding--s: 0;
+                                                                        " class="c3bdfd4ac2 b96c49a28c c256f1a28a a18a170653 c82b1db4f9 dc9db40f5a ba98511f54">
+                                                                        <span>R</span>
+                                                                     </div>
+                                                                     <div class="aa225776f2 ca9d921c46">
+                                                                        <div class="fff1944c52 f546354b44"></div>
+                                                                        <div class="fff1944c52 fb14de7f14">
+                                                                           <span class="a787c7cca4">Ruth</span><img alt="Indonesia" src="https://t-cf.bstatic.com/design-assets/assets/v3.170.0/images-flags/Us.png" class="b8d1620349"><span class="d838fb5f41 aea5eccb71">
+                                                                           United
+                                                                           States</span>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div role="group" aria-roledescription="slide" class="ee4cb4021c c3bfe61347 cabc9b7051">
+                                                         <div>
+                                                            <div style="
+                                                               --bui_box_spaced_padding--s: 4;
+                                                               " class="c3bdfd4ac2 b1e30971a9">
+                                                               <div class="e63bbe12f7" data-testid="featuredreviewcard-text">
+                                                                  <div class="a17eaf5728">
+                                                                     <div class="b99b6ef58f d14152e7c3 e01adb21c0">
+                                                                        <span>“</span><span>Beautiful location,
+                                                                        private bungalows,
+                                                                        friendly and helpful
+                                                                        staff. Kids enjoyed
+                                                                        the pool.</span><span>”</span>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                               <div data-testid="featuredreviewcard-avatar">
+                                                                  <div style="
+                                                                     --bui_stack_spaced_gap--s: 2;
+                                                                     " class="f6e3a11b0d a19a26a18c a81870d302 ac30880487 e95943ce9b">
+                                                                     <div aria-hidden="false" style="
+                                                                        --bui_box_spaced_padding--s: 0;
+                                                                        " class="c3bdfd4ac2 b96c49a28c c256f1a28a a18a170653 c82b1db4f9 dc9db40f5a ba98511f54">
+                                                                        <picture class="b7a691c583 f5c8371996" style="
+                                                                           --bui_image_width--s: 100%;
+                                                                           --bui_image_height--s: 100%;
+                                                                           "><img class="f6c12c77eb c0e44985a8 c09abd8a52 ca3dad4476" src="https://xx.bstatic.com/static/img/review/avatars/ava-l.png" alt="" role="presentation" loading="lazy"></picture>
+                                                                     </div>
+                                                                     <div class="aa225776f2 ca9d921c46">
+                                                                        <div class="fff1944c52 f546354b44"></div>
+                                                                        <div class="fff1944c52 fb14de7f14">
+                                                                           <span class="a787c7cca4">Lester</span><img alt="Indonesia" src="https://t-cf.bstatic.com/design-assets/assets/v3.170.0/images-flags/Us.png" class="b8d1620349"><span class="d838fb5f41 aea5eccb71">
+                                                                           United
+                                                                           States</span>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div role="group" aria-roledescription="slide" class="ee4cb4021c c3bfe61347 cabc9b7051">
+                                                         <div>
+                                                            <div style="
+                                                               --bui_box_spaced_padding--s: 4;
+                                                               " class="c3bdfd4ac2 b1e30971a9">
+                                                               <div class="e63bbe12f7" data-testid="featuredreviewcard-text">
+                                                                  <div class="a17eaf5728">
+                                                                     <div class="b99b6ef58f d14152e7c3 e01adb21c0">
+                                                                        <span>“</span><span>Friendly and
+                                                                        helpful staff in a
+                                                                        beautiful
+                                                                        location</span><span>”</span>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                               <div data-testid="featuredreviewcard-avatar">
+                                                                  <div style="
+                                                                     --bui_stack_spaced_gap--s: 2;
+                                                                     " class="f6e3a11b0d a19a26a18c a81870d302 ac30880487 e95943ce9b">
+                                                                     <div aria-hidden="false" style="
+                                                                        --bui_box_spaced_padding--s: 0;
+                                                                        " class="c3bdfd4ac2 b96c49a28c c256f1a28a a18a170653 c82b1db4f9 dc9db40f5a ba98511f54">
+                                                                        <picture class="b7a691c583 f5c8371996" style="
+                                                                           --bui_image_width--s: 100%;
+                                                                           --bui_image_height--s: 100%;
+                                                                           "><img class="f6c12c77eb c0e44985a8 c09abd8a52 ca3dad4476" src="https://xx.bstatic.com/static/img/review/avatars/ava-l.png" alt="" role="presentation" loading="lazy"></picture>
+                                                                     </div>
+                                                                     <div class="aa225776f2 ca9d921c46">
+                                                                        <div class="fff1944c52 f546354b44"></div>
+                                                                        <div class="fff1944c52 fb14de7f14">
+                                                                           <span class="a787c7cca4">Lester</span><img alt="Indonesia" src="https://t-cf.bstatic.com/design-assets/assets/v3.170.0/images-flags/Us.png" class="b8d1620349"><span class="d838fb5f41 aea5eccb71">
+                                                                           United
+                                                                           States</span>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div role="group" aria-roledescription="slide" class="ee4cb4021c c3bfe61347 cabc9b7051">
+                                                         <div>
+                                                            <div style="
+                                                               --bui_box_spaced_padding--s: 4;
+                                                               " class="c3bdfd4ac2 b1e30971a9">
+                                                               <div class="e63bbe12f7" data-testid="featuredreviewcard-text">
+                                                                  <div class="a17eaf5728">
+                                                                     <div class="b99b6ef58f d14152e7c3 e01adb21c0">
+                                                                        <span>“</span><span>Pastoral setting
+                                                                        with horses and
+                                                                        goats! Private older
+                                                                        bungalows near the
+                                                                        pool and inviting
+                                                                        large restaurant.
+                                                                        Fabulous vegan
+                                                                        options with
+                                                                        generous...</span><span>”</span>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                               <div data-testid="featuredreviewcard-avatar">
+                                                                  <div style="
+                                                                     --bui_stack_spaced_gap--s: 2;
+                                                                     " class="f6e3a11b0d a19a26a18c a81870d302 ac30880487 e95943ce9b">
+                                                                     <div aria-hidden="false" style="
+                                                                        --bui_box_spaced_padding--s: 0;
+                                                                        " class="c3bdfd4ac2 b96c49a28c c256f1a28a a18a170653 c82b1db4f9 dc9db40f5a ba98511f54">
+                                                                        <span>H</span>
+                                                                     </div>
+                                                                     <div class="aa225776f2 ca9d921c46">
+                                                                        <div class="fff1944c52 f546354b44"></div>
+                                                                        <div class="fff1944c52 fb14de7f14">
+                                                                           <span class="a787c7cca4">Holmgren</span><img alt="Indonesia" src="https://t-cf.bstatic.com/design-assets/assets/v3.170.0/images-flags/Us.png" class="b8d1620349"><span class="d838fb5f41 aea5eccb71">
+                                                                           United
+                                                                           States</span>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div role="group" aria-roledescription="slide" class="ee4cb4021c c3bfe61347 cabc9b7051">
+                                                         <div>
+                                                            <div style="
+                                                               --bui_box_spaced_padding--s: 4;
+                                                               " class="c3bdfd4ac2 b1e30971a9">
+                                                               <div class="e63bbe12f7" data-testid="featuredreviewcard-text">
+                                                                  <div class="a17eaf5728">
+                                                                     <div class="b99b6ef58f d14152e7c3 e01adb21c0">
+                                                                        <span>“</span><span>Absolutely loved
+                                                                        this place. Great
+                                                                        location, horses
+                                                                        around the property,
+                                                                        very nice restaurant
+                                                                        area to hang out.
+                                                                        Service outstanding.
+                                                                        Really a...</span><span>”</span>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                               <div data-testid="featuredreviewcard-avatar">
+                                                                  <div style="
+                                                                     --bui_stack_spaced_gap--s: 2;
+                                                                     " class="f6e3a11b0d a19a26a18c a81870d302 ac30880487 e95943ce9b">
+                                                                     <div aria-hidden="false" style="
+                                                                        --bui_box_spaced_padding--s: 0;
+                                                                        " class="c3bdfd4ac2 b96c49a28c c256f1a28a a18a170653 c82b1db4f9 dc9db40f5a ba98511f54">
+                                                                        <picture class="b7a691c583 f5c8371996" style="
+                                                                           --bui_image_width--s: 100%;
+                                                                           --bui_image_height--s: 100%;
+                                                                           "><img class="f6c12c77eb c0e44985a8 c09abd8a52 ca3dad4476" src="https://graph.facebook.com/v2.9/10153092510775172/picture?type=square&amp;height=64&amp;width=64" alt="" role="presentation" loading="lazy"></picture>
+                                                                     </div>
+                                                                     <div class="aa225776f2 ca9d921c46">
+                                                                        <div class="fff1944c52 f546354b44"></div>
+                                                                        <div class="fff1944c52 fb14de7f14">
+                                                                           <span class="a787c7cca4">Erna</span><img alt="Netherlands" src="https://t-cf.bstatic.com/design-assets/assets/v3.170.0/images-flags/Nl.png" class="b8d1620349"><span class="d838fb5f41 aea5eccb71">
+                                                                           Netherlands</span>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div role="group" aria-roledescription="slide" class="ee4cb4021c c3bfe61347 cabc9b7051">
+                                                         <div>
+                                                            <div style="
+                                                               --bui_box_spaced_padding--s: 4;
+                                                               " class="c3bdfd4ac2 b1e30971a9">
+                                                               <div class="e63bbe12f7" data-testid="featuredreviewcard-text">
+                                                                  <div class="a17eaf5728">
+                                                                     <div class="b99b6ef58f d14152e7c3 e01adb21c0">
+                                                                        <span>“</span><span>The bathroom is
+                                                                        very good-looking
+                                                                        and feels like
+                                                                        nature. Staff are
+                                                                        very friendly and
+                                                                        responsive. Location
+                                                                        is great!</span><span>”</span>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                               <div data-testid="featuredreviewcard-avatar">
+                                                                  <div style="
+                                                                     --bui_stack_spaced_gap--s: 2;
+                                                                     " class="f6e3a11b0d a19a26a18c a81870d302 ac30880487 e95943ce9b">
+                                                                     <div aria-hidden="false" style="
+                                                                        --bui_box_spaced_padding--s: 0;
+                                                                        " class="c3bdfd4ac2 b96c49a28c c256f1a28a a18a170653 c82b1db4f9 dc9db40f5a ba98511f54">
+                                                                        <span>K</span>
+                                                                     </div>
+                                                                     <div class="aa225776f2 ca9d921c46">
+                                                                        <div class="fff1944c52 f546354b44"></div>
+                                                                        <div class="fff1944c52 fb14de7f14">
+                                                                           <span class="a787c7cca4">Keang</span><img alt="Indonesia" src="https://t-cf.bstatic.com/design-assets/assets/v3.170.0/images-flags/Kh.png" class="b8d1620349"><span class="d838fb5f41 aea5eccb71">
+                                                                           Indonesia</span>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div role="group" aria-roledescription="slide" class="ee4cb4021c c3bfe61347 cabc9b7051">
+                                                         <div>
+                                                            <div style="
+                                                               --bui_box_spaced_padding--s: 4;
+                                                               " class="c3bdfd4ac2 b1e30971a9">
+                                                               <div class="e63bbe12f7" data-testid="featuredreviewcard-text">
+                                                                  <div class="a17eaf5728">
+                                                                     <div class="b99b6ef58f d14152e7c3 e01adb21c0">
+                                                                        <span>“</span><span>It has great view.
+                                                                        The place is
+                                                                        spacious and
+                                                                        surrounded by
+                                                                        nature. It’s quiet,
+                                                                        so there is no
+                                                                        disturbance from
+                                                                        city noise. It is a
+                                                                        good place
+                                                                        to...</span><span>”</span>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                               <div data-testid="featuredreviewcard-avatar">
+                                                                  <div style="
+                                                                     --bui_stack_spaced_gap--s: 2;
+                                                                     " class="f6e3a11b0d a19a26a18c a81870d302 ac30880487 e95943ce9b">
+                                                                     <div aria-hidden="false" style="
+                                                                        --bui_box_spaced_padding--s: 0;
+                                                                        " class="c3bdfd4ac2 b96c49a28c c256f1a28a a18a170653 c82b1db4f9 dc9db40f5a ba98511f54">
+                                                                        <span>C</span>
+                                                                     </div>
+                                                                     <div class="aa225776f2 ca9d921c46">
+                                                                        <div class="fff1944c52 f546354b44"></div>
+                                                                        <div class="fff1944c52 fb14de7f14">
+                                                                           <span class="a787c7cca4">Chanrothana</span><img alt="Indonesia" src="https://t-cf.bstatic.com/design-assets/assets/v3.170.0/images-flags/Kh.png" class="b8d1620349"><span class="d838fb5f41 aea5eccb71">
+                                                                           Indonesia</span>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="deff07249e">
+                                                      <button aria-label="Previous" aria-hidden="true" type="button" class="de576f5064 b46cd7aad7 e19e62abbe c295306d66 c7a901b0e7 fe50231b86 b6ea2e8677 a6b947b3b5">
+                                                         <span class="ec1ff2f0cb">
+                                                            <span class="fc70cba028 ca6ff50764" aria-hidden="true">
+                                                               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px" data-rtl-flip="true">
+                                                                  <path d="M14.09 19.24a.87.87 0 0 1-.64-.27l-6.06-6.06c-.25-.25-.39-.59-.39-.94s.12-.69.36-.94l6.06-6.06a.909.909 0 0 1 1.3 1.27l-.02.02-5.69 5.72 5.72 5.72c.35.35.36.91.02 1.27l-.02.02a.9.9 0 0 1-.64.27"></path>
+                                                               </svg>
+                                                            </span>
+                                                         </span>
+                                                      </button>
+                                                      <button aria-label="Next" aria-hidden="true" type="button" class="de576f5064 b46cd7aad7 e19e62abbe c295306d66 c7a901b0e7 fe50231b86 b6ea2e8677 a6b947b3b5 bfafa531ed ae7f05552f">
+                                                         <span class="ec1ff2f0cb">
+                                                            <span class="fc70cba028 ca6ff50764" aria-hidden="true">
+                                                               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px" data-rtl-flip="true">
+                                                                  <path d="M9.91 19.24c.24 0 .47-.09.64-.27l6.06-6.06c.25-.25.39-.59.39-.94s-.12-.69-.36-.94l-6.06-6.06a.909.909 0 0 0-1.3 1.27l.02.02 5.69 5.72-5.72 5.72c-.35.35-.36.91-.02 1.27l.02.02c.17.17.4.27.64.27"></path>
+                                                               </svg>
+                                                            </span>
+                                                         </span>
+                                                      </button>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                          <hr class="bui-divider">
+                                          <div class="best-review-score best-review-score-with_best_ugc_highlight hp_lightbox_score_block">
+                                             <p class="best-review-score-label" data-review-topic="">
+                                                Staff
+                                             </p>
+                                             <span class="review-score-widget review-score-widget__exceptional review-score-widget__outlined review-score-widget__score-only review-score-widget__no-subtext">
+                                             <span class="review-score-badge" aria-label="Scored 9.6 ">
+                                             9.6
+                                             </span>
+                                             </span>
+                                          </div>
+                                          <div class="inferred-location-score best-review-score hp_lightbox_score_block" aria-hidden="true">
+                                             <div data-capla-component-boundary="b-property-web-property-page/PropertyInferredLocationScore" data-capla-hydration="0"></div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div data-capla-component-boundary="b-property-web-property-page/PropertyReviewsTabDesktop" data-capla-hydration="0"></div>
+                                 </div>
+                                 <div class="hp-sidebar__map bui-box bui-box--border-color-neutral_alt bui-box--border-radius-100 bui-box--border-width-100 bui-box--padding-none js-sidebar-map-entry" data-et-view=" YdXfdKNKNKZUTPTQEbHeFUPQfQOcEGTUSGGO:1  YdXfdKNKNKZUTPTQEbHeFUPQfQOcEGTUSGGO:2  ">
+                                    <div data-capla-component-boundary="b-property-web-property-page/MapEntryPointDesktop" data-capla-hydration="0">
+                                       <div class="f909661b82" id="hotel_sidebar_static_map_capla" data-testid="map-entry-point-desktop-wrapper" data-atlas-latlng="12.455287936023723,107.20496535301208" data-atlas-bbox="12.43732100929474,107.186567286214,12.47325361839969,107.22336596850053" data-source="map_thumbnail">
+                                          <div data-testid="map-entry-point-desktop" role="button" tabindex="0" class="de576f5064 d0a449df99 c204bd507e c92bc4739d d5acc35573">
+                                             <div class="a88a546fb2" style="
+                                                background-image: url(&quot;https://maps.googleapis.com/maps/api/staticmap?size=264x180&amp;center=12.4552879360237,107.204965353012&amp;channel=hotel&amp;zoom=13&amp;key=AIzaSyBvCIFR6EVwbjtPk5pxiNDf96xSg2CKwr4&amp;signature=F8NoT_13btJfPlnMGe0SeysBlQI=&quot;);
+                                                ">
+                                                <div class="b108fb4540">
+                                                   <div class="f4be72919c" data-testid="map-entry-point-marker">
+                                                      <span class="ab754dae6a" data-testid="map-entry-pin-icon">
+                                                         <span class="cf4f7f1c85">
+                                                            <span class="c088c2dc6a"></span>
+                                                            <svg viewBox="-1 -1 26 32" class="f9e4c0ba78" aria-hidden="true">
+                                                               <path d="M24 12.4286C24 19.2927 12 29 12 29C12 29 0 19.2927 0 12.4286C0 5.56446 5.37258 0 12 0C18.6274 0 24 5.56446 24 12.4286Z"></path>
+                                                            </svg>
+                                                         </span>
+                                                         <svg class="a22a7f2c71" viewBox="0 0 12 4" aria-hidden="true">
+                                                            <ellipse cx="6" cy="2" rx="6" ry="2"></ellipse>
+                                                         </svg>
+                                                      </span>
+                                                   </div>
+                                                   <button data-map-trigger-button="1" type="button" class="de576f5064 b46cd7aad7 ced67027e5 c7a901b0e7 ca8e0b9533 f0a25f2aec">
+                                                   <span class="ca2ca5203b">Show on map</span>
+                                                   </button>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div data-et-view="  eWHMcCcCcCSYeJADDbdEcLcDMFae:2  eWHMcCcCcCSYeJADDbdEcLcDMFae:4       ">
+                           <div class="hp--bh_stripe-container-fix js-k2-hp--block k2-hp--empty_block">
+                              <div>
+                                 <div class="hp--bh_stripe"></div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="page-section hp--desc_highlights js-k2-hp--block">
+                        <div class="bui-grid">
+                           <div class="bui-grid__column bui-grid__column-8 k2-hp--description">
+                              <div class="hp-description" data-et-view="goal:hp_property_description_seen">
+                                 <div class="hp_desc_main_content">
+                                    <div data-capla-component-boundary="b-property-web-property-page/PropertyDescriptionDesktop" data-capla-hydration="0">
+                                       <div style="--bui_box_spaced_padding--s: 0" class="c3bdfd4ac2">
+                                          <h3 class="e7addce19e f531cf0753">Tentang Properti Ini</h3>
+                                          <div></div>
+                                          <p data-testid="property-description" class="b99b6ef58f">
+<p>Di tengah semakin ramainya dunia permainan online, mencari platform yang benar-benar terpercaya dan memiliki peluang menang tinggi tentu bukan hal mudah. KENCANG77 hadir sebagai salah satu tempat bermain yang memberikan pengalaman berbeda—mulai dari rekomendasi permainan yang akurat, akses cepat, hingga sugesti slot gacor yang banyak dicari para pemain, khususnya pada jam-jam malam ketika peluang maxwin sering meningkat.</p>
+<h2><strong>Mengapa Banyak Pemain Mengandalkan Sugesti Slot dari KENCANG77?</strong></h2>
+<p>KENCANG77 dikenal karena memberikan pembaruan informasi permainan yang lebih akurat dan mudah dipahami. Tidak hanya sekadar menawarkan permainan, tetapi juga menyajikan data pendukung seperti pola permainan, tingkat volatilitas, dan rekomendasi game yang sedang naik daun.</p>
+<p>Beberapa alasan mengapa pemain mempercayai KENCANG77:</p>
+<h3><strong>1. Data Sugesti yang Diperbarui Malam Ini</strong></h3>
+<p>Informasi permainan selalu di-update secara berkala sehingga pemain dapat melihat daftar slot mana saja yang sedang gacor. Waktu malam sering dianggap “prime time” karena pola kemenangan cenderung stabil dan lebih mudah diprediksi.</p>
+<h3><strong>2. Peluang Maxwin Lebih Terukur</strong></h3>
+<p>Selain sugesti game, KENCANG77 memberikan insight tambahan seperti durasi bermain terbaik, tingkat scatter yang sering muncul, hingga provider yang sedang hot. Semua ini membantu pemain bermain dengan strategi yang lebih matang.</p>
+<h3><strong>3. Platform Cepat &amp; Stabil</strong></h3>
+<p>Koneksi yang ringan membuat pemain bisa memantau rekomendasi terbaru tanpa harus menunggu lama. Hal ini sangat membantu terutama bagi mereka yang bermain menggunakan smartphone atau jaringan standar.</p>
+<h2><strong>Rekomendasi Slot Gacor Malam Ini</strong></h2>
+<p>Berikut beberapa jenis permainan yang sering jadi pilihan pemain saat mencari peluang maxwin:</p>
+<h3><strong>● Slot dengan RTP Tinggi</strong></h3>
+<p>Game yang memiliki RTP besar biasanya memberi peluang menang lebih konsisten. KENCANG77 rutin menampilkan daftar RTP yang diperbarui setiap hari.</p>
+<h3><strong>● Slot dengan Pola Mudah Dipahami</strong></h3>
+<p>Pemain banyak yang memilih game dengan pola sederhana karena mudah untuk membaca alur permainannya.</p>
+<h3><strong>● Provider Terpercaya</strong></h3>
+<p>Provider populer seperti Pragmatic Play, Habanero, dan PG Soft sering menjadi favorit karena memiliki kualitas visual dan ritme permainan yang lebih stabil.</p>
+<h2><strong>Tips Bermain Agar Makin Berpeluang Maxwin</strong></h2>
+<p>Selain mengikuti rekomendasi yang disediakan KENCANG77, ada beberapa tips tambahan yang bisa dipakai pemain:</p>
+<ul>
+<li>
+<p><strong>Mulai dengan bet kecil</strong>, lalu naikkan secara bertahap ketika ritme permainan terasa stabil.</p>
+</li>
+<li>
+<p><strong>Pahami pola scatter</strong>, karena ini biasanya jadi tanda awal peluang maxwin.</p>
+</li>
+<li>
+<p><strong>Jangan terlalu lama di satu game</strong>, jika 30–40 spin tidak ada tanda kena, pindah game lain.</p>
+</li>
+<li>
+<p><strong>Fokus pada jam gacor</strong>, terutama malam hari saat traffic pemain lebih stabil.</p>
+</li>
+</ul>
+<h2><strong>Kesimpulan</strong></h2>
+<p>KENCANG77 bukan sekadar platform permainan biasa. Dengan akses informasi yang lengkap, sugesti <a href="https://samagestion.net/">slot gacor</a> yang selalu diperbarui, serta peluang maxwin malam ini yang lebih mudah dianalisis, pemain bisa menikmati pengalaman yang lebih seru dan strategis.</p>
+<p>Jika kamu sedang mencari <strong>sugesti slot gacor terpercaya dan gampang maxwin</strong>, <a href="https://kencang77.com">KENCANG77</a> bisa jadi pilihan yang layak untuk dicoba.</p>
+                                          </p>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div data-et-view="bNXGDJdLTLScXQOVWe:1"></div>
+                              </div>
+                              <div class="hp--popular_facilities js-k2-hp--block">
+                                 <div data-et-view="eWHMYTBADDbddPKFTdRNYYdXGBbLPNOcMXT:2 eWHMYTBADDbddPKFTdRNYYdXGBbLPNOcMXT:4 "></div>
+                                 <div data-capla-component-boundary="b-property-web-property-page/PropertyMostPopularFacilities" data-capla-hydration="0">
+                                    <div data-testid="property-most-popular-facilities-wrapper">
+                                       <div>
+                                          <div></div>
+                                          <div></div>
+                                          <div></div>
+                                          <div></div>
+                                          <div></div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="bui-grid__column bui-grid__column-4 k2-hp--highlights">
+                              <div class="property_hightlights_wrapper">
+                                 <div data-capla-component-boundary="b-property-web-property-page/PropertyBrandInfo" data-capla-hydration="0"></div>
+                                 <div>
+                                    <div class="property-highlights ph-icon-fill-color" data-et-view="eWHMcCcCcCSYeJADDbdEcLcDNCSLFJZZBYKe:1">
+                                       <h3 class="bui-f-font-heading">
+                                          Property highlights
+                                       </h3>
+                                       <div class="ph-sections">
+                                          <div class="ph-section">
+                                             <p class="ph-item">
+                                                <span class="ph-icon-container ph-icon-container-top-location" aria-hidden="true">
+                                                   <svg class="bk-icon -streamline-geo_pin_heart ph-icon" height="20" width="20" viewBox="0 0 128 128" role="presentation" aria-hidden="true" focusable="false">
+                                                      <path d="M64 128a8 8 0 0 1-6.67-3.58c-4.21-6.35-13.62-21.53-22.15-38.1C25.11 66.76 20 52.52 20 44 20 19.7 39.7 0 64 0s44 19.7 44 44c0 8.52-5.11 22.76-15.18 42.32-8.53 16.57-17.94 31.75-22.15 38.1A8 8 0 0 1 64 128zM64 8C44.118 8 28 24.118 28 44c0 15.36 23.45 57.08 36 76 12.55-18.92 36-60.64 36-76 0-19.882-16.118-36-36-36zm0 60a4 4 0 0 1-2.89-1.23l-18.19-19c-5.616-5.901-5.384-15.238.517-20.853 5.73-5.452 14.739-5.415 20.423.083l.14.14.15-.14c5.639-5.88 14.976-6.074 20.855-.435 5.88 5.638 6.074 14.976.436 20.855-.144.15-.291.296-.441.44l-18.09 18.9A4 4 0 0 1 64 68zM53.42 30.67a7.853 7.853 0 0 0-1.08.08 6.76 6.76 0 0 0-3.69 11.45L64 58.22l15.28-15.95a6.753 6.753 0 0 0-9.48-9.62l-3 3a4 4 0 0 1-5.65 0l-3-3a6.75 6.75 0 0 0-4.73-1.98z"></path>
+                                                   </svg>
+                                                </span>
+                                                <span class="ph-item-copy ">
+                                                <span class="ph-item-copy-top-location">Top Location: Highly rated by recent guests (8.6)</span>
+                                                </span>
+                                             </p>
+                                          </div>
+                                          <div class="ph-section">
+                                             <h4 class="ph-item-header">Breakfast Info</h4>
+                                             <p class="ph-item">
+                                                <span class="ph-item-copy ">
+                                                <span class="ph-item-copy-breakfast-option">Continental, Italian, Full English/Irish, Vegetarian, Asian, American, Breakfast to go</span>
+                                                </span>
+                                             </p>
+                                          </div>
+                                          <div class="">
+                                             <div class="ph-section">
+                                                <h4 class="ph-item-header">Activities:</h4>
+                                                <ul class="bui-list bui-list--text ph-section-items">
+                                                   <li class="ph-content">
+                                                      <p class="ph-item">
+                                                         <span class="ph-item-copy ">
+                                                         <span class="ph-item-copy-activity-unknown">Game room</span>
+                                                         </span>
+                                                      </p>
+                                                   </li>
+                                                   <li class="ph-content">
+                                                      <p class="ph-item">
+                                                         <span class="ph-item-copy ">
+                                                         <span class="ph-item-copy-activity-unknown">Casino Lobby</span>
+                                                         </span>
+                                                      </p>
+                                                   </li>
+                                                   <li class="ph-content">
+                                                      <p class="ph-item">
+                                                         <span class="ph-item-copy ">
+                                                         <span class="ph-item-copy-activity-unknown">Slot Gacor</span>
+                                                         </span>
+                                                      </p>
+                                                   </li>
+                                                </ul>
+                                             </div>
+                                          </div>
+                                          <div class="ph-footer">
+                                             <button class=" txp-sidebar-cta bui-button bui-button--primary
+                                                call_to_action--wide
+                                                px--fw-cta
+                                                js-ph__cta
+                                                " aria-description="Reserve this resort now" type="button">
+                                             <span class="bui-button__text">
+                                             Reserve
+                                             </span>
+                                             </button>
+                                             <div class="hp-lists-ph">
+                                                <div class="txp-sidebar-block hp-lists hp-lists--save-wl-below-ph hide" data-hotel-id="430697">
+                                                   <div>
+                                                      <div data-capla-component-boundary="b-property-web-property-page/PropertyHighlightsWishlistWidget" data-capla-hydration="0">
+                                                         <div data-testid="PropertyHighlightsWishlistWidget-wrapper">
+                                                            <span>
+                                                               <span class="a297f43545 a1b4756186">
+                                                                  <span class="a297f43545 a1b4756186">
+                                                                     <span>
+                                                                        <button aria-expanded="false" data-testid="wishlist-button" type="button" class="de576f5064 b46cd7aad7 d0a01e3d83 c7a901b0e7 e4f9ca4b0c bbf83acb81 a9d40b8d51">
+                                                                           <span class="ec1ff2f0cb e31845302d">
+                                                                              <span class="fc70cba028 ca6ff50764 c8605fc002" aria-hidden="true">
+                                                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                                                                    <path d="m12.45 22.33-9.48-9.98c-1.9-1.9-1.9-4.99 0-6.99 1.9-1.9 4.99-1.9 6.99 0l1.6 1.6c.3.3.8.3 1.1 0l1.6-1.6c1.9-1.9 4.99-1.9 6.99 0 1.9 1.9 1.9 4.99 0 6.99l-9.58 9.98h1.1-.3Zm-1 1.1c.3.3.8.3 1.1 0l9.58-9.98c2.49-2.49 2.49-6.59 0-9.08s-6.59-2.49-9.08 0l-1.6 1.6h1.1l-1.6-1.6c-2.49-2.49-6.59-2.49-9.08 0s-2.49 6.59 0 9.08z"></path>
+                                                                                 </svg>
+                                                                              </span>
+                                                                           </span>
+                                                                           <span class="ca2ca5203b">Save the property</span>
+                                                                        </button>
+                                                                     </span>
+                                                                  </span>
+                                                               </span>
+                                                            </span>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                   <p class="hp-lists-counter wishlist-social-count" data-component="wishlist/savers" data-wl-hotel-saved="0" data-hotel-id="430697" data-hotel-count="840">
+                                                   </p>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <hr class="bui-divider">
+                        <div data-capla-component-boundary="b-property-web-property-page/PromotionalRegionOneDesktop" data-capla-hydration="0">
+                           <div>
+                              <div>
+                                 <div>
+                                    <div class="a84a56c33d" data-testid="promotional-banners-region-one-www">
+                                       <div class="">
+                                          <div>
+                                             <div></div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div data-capla-component-boundary="b-property-web-property-page/PropertySectionsBelowRoomsTable" data-capla-hydration="0">
+                           <div>
+                              <div data-testid="PropertySectionsBelowRoomsTable-wrapper">
+                                 <div class="page-section js-k2-hp--block k2-hp--empty_block" style="display: none;"></div>
+                                 <div class="page-section js-k2-hp--block">
+                                    <div data-testid="PropertyReviewsRegionBlock">
+                                       <div style="--bui_stack_spaced_gap--s: 2;" class="f6e3a11b0d a19a26a18c ac30880487 e95943ce9b">
+                                          <div class="aa225776f2 ca9d921c46">
+                                             <h2 data-testid="reviews-block-title" aria-label="Guest reviews" class="a4ac75716e">Guest reviews</h2>
+                                          </div>
+                                          <div class=""><button data-testid="reviews-block-availability" type="button" class="de576f5064 b46cd7aad7 ced67027e5 c7a901b0e7 ca8e0b9533"><span class="ca2ca5203b">See availability</span></button></div>
+                                       </div>
+                                       <div>
+                                          <div class="e058fed691">
+                                             <button data-testid="read-all-actionable" type="button" class="de576f5064">
+                                                <div class="b434b8c61e ba811f9e2f">
+                                                   <div data-testid="review-score-component" style="--bui_stack_spaced_gap--s: 2;" class="f6e3a11b0d a19a26a18c a81870d302 ac30880487 e95943ce9b">
+                                                      <div class="bc946a29db">Scored 8.2 </div>
+                                                      <div aria-hidden="true" class="f63b14ab7a dff2e52086">8.2</div>
+                                                      <div class="bc946a29db">Rated very good</div>
+                                                      <div aria-hidden="true" class="aa225776f2 ca9d921c46 e951e75167"><span class="f63b14ab7a f546354b44 becbee2f63"> Very Good</span><span class="f63b14ab7a fb14de7f14 eaa8455879">&nbsp;·&nbsp;246 reviews</span></div>
+                                                   </div>
+                                                   <span data-testid="review-score-read-all" class="de576f5064 bef8628e61 e0d8514d4d"><span>Read all reviews</span></span>
+                                                </div>
+                                             </button>
+                                          </div>
+                                       </div>
+                                       <div class="bui-spacer--larger">
+                                          <div role="group" aria-label="Review categories">
+                                             <div class="b6721bcf0a" data-testid="ReviewSubscoresDesktop">
+                                                <h3 class="e7addce19e">Categories:</h3>
+                                             </div>
+                                             <div style="--bui_stack_spaced_gap--s: 4; --bui_stack_spaced_gap--m: 6;" class="f6e3a11b0d a19a26a18c d38ad692ea e95943ce9b aec8a642f4 f7aa4721a5">
+                                                <div class="afd3558156 ac28d37f07">
+                                                   <div data-testid="review-subscore" aria-label="Average rating out of 10">
+                                                      <div style="--bui_stack_spaced_gap--s: 1;" class="f6e3a11b0d ae5dbab14d e95943ce9b">
+                                                         <div style="--bui_stack_spaced_gap--s: 2;" class="f6e3a11b0d a19a26a18c e9e7508e96 dcb3e09ec9 a5a81c5b1f e95943ce9b">
+                                                            <div class="ca9d921c46">
+                                                               <div id=":r32:" class="a9918d47bf"><span class="d96a4619c0">Staff </span></div>
+                                                            </div>
+                                                            <div class="ca9d921c46">
+                                                               <div aria-hidden="true" class="a9918d47bf f87e152973">9.6</div>
+                                                            </div>
+                                                         </div>
+                                                         <div aria-labelledby=":r32:" aria-valuetext="9.6" class="a3ece45f45" role="meter" aria-valuenow="0.96" aria-valuemin="0" aria-valuemax="1" aria-live="polite"><span class="bc1eb1acf3" style="width: 96%;"></span></div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                                <div class="afd3558156 ac28d37f07">
+                                                   <div data-testid="review-subscore" aria-label="Average rating out of 10">
+                                                      <div style="--bui_stack_spaced_gap--s: 1;" class="f6e3a11b0d ae5dbab14d e95943ce9b">
+                                                         <div style="--bui_stack_spaced_gap--s: 2;" class="f6e3a11b0d a19a26a18c e9e7508e96 dcb3e09ec9 a5a81c5b1f e95943ce9b">
+                                                            <div class="ca9d921c46">
+                                                               <div id=":r33:" class="a9918d47bf"><span class="d96a4619c0">Facilities </span></div>
+                                                            </div>
+                                                            <div class="ca9d921c46">
+                                                               <div aria-hidden="true" class="a9918d47bf f87e152973">8.0</div>
+                                                            </div>
+                                                         </div>
+                                                         <div aria-labelledby=":r33:" aria-valuetext="8.0" class="a3ece45f45" role="meter" aria-valuenow="0.8" aria-valuemin="0" aria-valuemax="1" aria-live="polite"><span class="bc1eb1acf3" style="width: 80%;"></span></div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                                <div class="afd3558156 ac28d37f07">
+                                                   <div data-testid="review-subscore" aria-label="Average rating out of 10">
+                                                      <div style="--bui_stack_spaced_gap--s: 1;" class="f6e3a11b0d ae5dbab14d e95943ce9b">
+                                                         <div style="--bui_stack_spaced_gap--s: 2;" class="f6e3a11b0d a19a26a18c e9e7508e96 dcb3e09ec9 a5a81c5b1f e95943ce9b">
+                                                            <div class="ca9d921c46">
+                                                               <div id=":r34:" class="a9918d47bf"><span class="d96a4619c0">Cleanliness </span></div>
+                                                            </div>
+                                                            <div class="ca9d921c46">
+                                                               <div aria-hidden="true" class="a9918d47bf f87e152973">8.1</div>
+                                                            </div>
+                                                         </div>
+                                                         <div aria-labelledby=":r34:" aria-valuetext="8.1" class="a3ece45f45" role="meter" aria-valuenow="0.8099999999999999" aria-valuemin="0" aria-valuemax="1" aria-live="polite"><span class="bc1eb1acf3" style="width: 81%;"></span></div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                                <div class="afd3558156 ac28d37f07">
+                                                   <div data-testid="review-subscore" aria-label="Average rating out of 10">
+                                                      <div style="--bui_stack_spaced_gap--s: 1;" class="f6e3a11b0d ae5dbab14d e95943ce9b">
+                                                         <div style="--bui_stack_spaced_gap--s: 2;" class="f6e3a11b0d a19a26a18c e9e7508e96 dcb3e09ec9 a5a81c5b1f e95943ce9b">
+                                                            <div class="ca9d921c46">
+                                                               <div id=":r35:" class="a9918d47bf"><span class="d96a4619c0">Comfort </span></div>
+                                                            </div>
+                                                            <div class="ca9d921c46">
+                                                               <div aria-hidden="true" class="a9918d47bf f87e152973">8.0</div>
+                                                            </div>
+                                                         </div>
+                                                         <div aria-labelledby=":r35:" aria-valuetext="8.0" class="a3ece45f45" role="meter" aria-valuenow="0.8" aria-valuemin="0" aria-valuemax="1" aria-live="polite"><span class="bc1eb1acf3" style="width: 80%;"></span></div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                                <div class="afd3558156 ac28d37f07">
+                                                   <div data-testid="review-subscore" aria-label="Average rating out of 10">
+                                                      <div style="--bui_stack_spaced_gap--s: 1;" class="f6e3a11b0d ae5dbab14d e95943ce9b">
+                                                         <div style="--bui_stack_spaced_gap--s: 2;" class="f6e3a11b0d a19a26a18c e9e7508e96 dcb3e09ec9 a5a81c5b1f e95943ce9b">
+                                                            <div class="ca9d921c46">
+                                                               <div id=":r36:" class="a9918d47bf"><span class="d96a4619c0">Value for money </span></div>
+                                                            </div>
+                                                            <div class="ca9d921c46">
+                                                               <div aria-hidden="true" class="a9918d47bf f87e152973">8.3</div>
+                                                            </div>
+                                                         </div>
+                                                         <div aria-labelledby=":r36:" aria-valuetext="8.3" class="a3ece45f45" role="meter" aria-valuenow="0.8300000000000001" aria-valuemin="0" aria-valuemax="1" aria-live="polite"><span class="bc1eb1acf3" style="width: 83%;"></span></div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                                <div class="afd3558156 ac28d37f07">
+                                                   <div data-testid="review-subscore" aria-label="Average rating out of 10">
+                                                      <div style="--bui_stack_spaced_gap--s: 1;" class="f6e3a11b0d ae5dbab14d e95943ce9b">
+                                                         <div style="--bui_stack_spaced_gap--s: 2;" class="f6e3a11b0d a19a26a18c e9e7508e96 dcb3e09ec9 a5a81c5b1f e95943ce9b">
+                                                            <div class="ca9d921c46">
+                                                               <div id=":r37:" class="a9918d47bf"><span class="d96a4619c0">Location </span></div>
+                                                            </div>
+                                                            <div class="ca9d921c46">
+                                                               <div aria-hidden="true" class="a9918d47bf f87e152973">8.6</div>
+                                                            </div>
+                                                         </div>
+                                                         <div aria-labelledby=":r37:" aria-valuetext="8.6" class="a3ece45f45" role="meter" aria-valuenow="0.86" aria-valuemin="0" aria-valuemax="1" aria-live="polite"><span class="bc1eb1acf3" style="width: 86%;"></span></div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                                <div class="afd3558156 ac28d37f07">
+                                                   <div data-testid="review-subscore" aria-label="Average rating out of 10">
+                                                      <div style="--bui_stack_spaced_gap--s: 1;" class="f6e3a11b0d ae5dbab14d e95943ce9b">
+                                                         <div style="--bui_stack_spaced_gap--s: 2;" class="f6e3a11b0d a19a26a18c e9e7508e96 dcb3e09ec9 a5a81c5b1f e95943ce9b">
+                                                            <div class="ca9d921c46">
+                                                               <div id=":r38:" class="a9918d47bf">
+                                                                  <span class="d96a4619c0">
+                                                                     Free Wifi
+                                                                     <span role="img" class="fc70cba028 f24706dc71 aaf3b86a63" aria-label="Low score for Slot Gacor">
+                                                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                                                           <path d="M23.292 10.24a1.413 1.413 0 0 0-1.994.127l-7.448 8.464a.251.251 0 0 1-.438-.166V1.413a1.412 1.412 0 0 0-2.824 0v17.252a.251.251 0 0 1-.438.166L2.7 10.367a1.413 1.413 0 1 0-2.119 1.867L10.233 23.2a2.352 2.352 0 0 0 3.534 0l9.652-10.967a1.41 1.41 0 0 0-.127-1.993"></path>
+                                                                        </svg>
+                                                                     </span>
+                                                                  </span>
+                                                               </div>
+                                                            </div>
+                                                            <div class="ca9d921c46">
+                                                               <div aria-hidden="true" class="a9918d47bf f87e152973">6.3</div>
+                                                            </div>
+                                                         </div>
+                                                         <div aria-labelledby=":r38:" aria-valuetext="6.3" class="a3ece45f45 f170de7b71" role="meter" aria-valuenow="0.63" aria-valuemin="0" aria-valuemax="1" aria-live="polite"><span class="bc1eb1acf3" style="width: 63%;"></span></div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                                <div aria-hidden="true" class="afd3558156 ac28d37f07 ecc8f2a85a">
+                                                   <div data-testid="review-subscore-legend">
+                                                      <div class="e9a4c2bbcf f0a92fcb0d" data-testid="review-subscore-legend">
+                                                         <div class="efd2e59363 fa0a13c8c1">
+                                                            <div class="c3518b180d">
+                                                               <span class="fc70cba028 f24706dc71 aaf3b86a63" aria-hidden="true">
+                                                                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                                                     <path d="M23.292 10.24a1.413 1.413 0 0 0-1.994.127l-7.448 8.464a.251.251 0 0 1-.438-.166V1.413a1.412 1.412 0 0 0-2.824 0v17.252a.251.251 0 0 1-.438.166L2.7 10.367a1.413 1.413 0 1 0-2.119 1.867L10.233 23.2a2.352 2.352 0 0 0 3.534 0l9.652-10.967a1.41 1.41 0 0 0-.127-1.993"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                            <div class="f05ac105fa"></div>
+                                                            <div class="ea9fc823c1">
+                                                               <div class="fff1944c52 e606856c85">Low score for Slot Gacor</div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div class="bui-spacer--larger">
+                                          <div role="group" aria-label="Select topics to read reviews:">
+                                             <div class="fd391c65bc">
+                                                <div class="ecb8d66605">
+                                                   <h3 class="e7addce19e f546354b44 cc045b173b">Select topics to read reviews:</h3>
+                                                </div>
+                                             </div>
+                                             <div style="--bui_stack_spaced_gap--s: 2;" class="f6e3a11b0d ae5dbab14d e95943ce9b">
+                                                <div role="group" aria-label="Select topics to read reviews:" style="--bui_stack_spaced_gap--s: 2;" class="f6e3a11b0d a19a26a18c e95943ce9b">
+                                                   <label class="fcd8e16f81" data-testid="topic-filter-component" role="button" aria-pressed="false">
+                                                      <input data-testid="topic-filter-input" class="bc946a29db a42b85cbbd" name="Swimming pool" type="checkbox" value="248">
+                                                      <span class="cd46a6a263">
+                                                         <span class="fc70cba028 ca6ff50764 c8605fc002" aria-hidden="true">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                                               <path d="M20.25 11.25h-7.5v-7.5a.75.75 0 0 0-1.5 0v7.5h-7.5a.75.75 0 0 0 0 1.5h7.5v7.5a.75.75 0 0 0 1.5 0v-7.5h7.5a.75.75 0 0 0 0-1.5"></path>
+                                                            </svg>
+                                                         </span>
+                                                         <span class="a9918d47bf">Swimming pool</span>
+                                                      </span>
+                                                   </label>
+                                                   <label class="fcd8e16f81" data-testid="topic-filter-component" role="button" aria-pressed="false">
+                                                      <input data-testid="topic-filter-input" class="bc946a29db a42b85cbbd" name="Room" type="checkbox" value="270">
+                                                      <span class="cd46a6a263">
+                                                         <span class="fc70cba028 ca6ff50764 c8605fc002" aria-hidden="true">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                                               <path d="M20.25 11.25h-7.5v-7.5a.75.75 0 0 0-1.5 0v7.5h-7.5a.75.75 0 0 0 0 1.5h7.5v7.5a.75.75 0 0 0 1.5 0v-7.5h7.5a.75.75 0 0 0 0-1.5"></path>
+                                                            </svg>
+                                                         </span>
+                                                         <span class="a9918d47bf">Room</span>
+                                                      </span>
+                                                   </label>
+                                                   <label class="fcd8e16f81" data-testid="topic-filter-component" role="button" aria-pressed="false">
+                                                      <input data-testid="topic-filter-input" class="bc946a29db a42b85cbbd" name="Restaurant" type="checkbox" value="273">
+                                                      <span class="cd46a6a263">
+                                                         <span class="fc70cba028 ca6ff50764 c8605fc002" aria-hidden="true">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                                               <path d="M20.25 11.25h-7.5v-7.5a.75.75 0 0 0-1.5 0v7.5h-7.5a.75.75 0 0 0 0 1.5h7.5v7.5a.75.75 0 0 0 1.5 0v-7.5h7.5a.75.75 0 0 0 0-1.5"></path>
+                                                            </svg>
+                                                         </span>
+                                                         <span class="a9918d47bf">Restaurant</span>
+                                                      </span>
+                                                   </label>
+                                                   <label class="fcd8e16f81" data-testid="topic-filter-component" role="button" aria-pressed="false">
+                                                      <input data-testid="topic-filter-input" class="bc946a29db a42b85cbbd" name="Quiet" type="checkbox" value="258">
+                                                      <span class="cd46a6a263">
+                                                         <span class="fc70cba028 ca6ff50764 c8605fc002" aria-hidden="true">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                                               <path d="M20.25 11.25h-7.5v-7.5a.75.75 0 0 0-1.5 0v7.5h-7.5a.75.75 0 0 0 0 1.5h7.5v7.5a.75.75 0 0 0 1.5 0v-7.5h7.5a.75.75 0 0 0 0-1.5"></path>
+                                                            </svg>
+                                                         </span>
+                                                         <span class="a9918d47bf">Quiet</span>
+                                                      </span>
+                                                   </label>
+                                                   <label class="fcd8e16f81" data-testid="topic-filter-component" role="button" aria-pressed="false">
+                                                      <input data-testid="topic-filter-input" class="bc946a29db a42b85cbbd" name="Location" type="checkbox" value="249">
+                                                      <span class="cd46a6a263">
+                                                         <span class="fc70cba028 ca6ff50764 c8605fc002" aria-hidden="true">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50px">
+                                                               <path d="M20.25 11.25h-7.5v-7.5a.75.75 0 0 0-1.5 0v7.5h-7.5a.75.75 0 0 0 0 1.5h7.5v7.5a.75.75 0 0 0 1.5 0v-7.5h7.5a.75.75 0 0 0 0-1.5"></path>
+                                                            </svg>
+                                                         </span>
+                                                         <span class="a9918d47bf">Location</span>
+                                                      </span>
+                                                   </label>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div></div>
+                                    </div>
+                                 </div>
+                                 <div>
+                                    <div></div>
+                                 </div>
+                                 <div class="page-section js-k2-hp--block">
+                                    <div class="a84a38db3b"><button class="b586f3a18d" data-slider-ref="questions-and-answers-slider"></button><span class="d713d90ad8" id="property-qna-desktop"></span></div>
+                                 </div>
+                                 <div></div>
+                                 <div class="page-section js-k2-hp--block">
+                                    <div data-testid="location-block-container">
+                                       <div>
+                                          <section id="surroundings_block" class="cbdacf5131"></section>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="page-section js-k2-hp--block k2-hp--price_alert k2-hp--empty_block" style="display: none;"></div>
+                        <div data-capla-component-boundary="b-property-web-property-page/PropertyGeniusVipVoucherSheet" data-capla-hydration="0"></div>
+                        <div data-capla-component-boundary="b-property-web-property-page/GeniusPlusProgramModeWelcomeSheet" data-capla-hydration="0"></div>
+                        <div data-capla-component-boundary="b-property-web-property-page/GeniusPlusSheetsPP" data-capla-hydration="0"></div>
+                     </div>
+                     <div class="clear"></div>
+                  </div>
+               </main>
+            </div>
+            <input type="hidden" id="bp_hp_back_count" name="bp_hp_back_count" value="1">
+            <div data-capla-component-boundary="b-property-web-property-page/LandingPagesEtTracking" data-capla-hydration="0"></div>
+         </div>
+      </div>
+      <div class="slinks"></div>
+      <div id="footer_menu_track" class="footerconstraint cnd-onview-anchor footer_no_lang_track a11y_fix_footer_contrast_footerconstraint " role="contentinfo">
+         <div data-et-view="GaYZQOEIBOOOSVBPLREHGJeaILYJO:1"></div>
+         <div data-capla-component-boundary="b-property-web-property-page/TravellerFooter" data-capla-hydration="0">
+            <div>
+               <div class="web-shell-footer-mfe e661b22b91 a39fb30ec1" data-testid="web-shell-footer-mfe">
+                  <footer class="TravellerFooter_root--variant-full" data-testid="full-footer">
+                     <div class="TravellerFooter_inline-links-list--light" data-testid="seo-links"></div>
+                     <div style="--bui_mixin_spaced_padding-block-end--s: 4;" class="b7ef425131 TravellerFooter_footer-control-section b5f4517f4e">
+                        <div style="--bui_stack_spaced_gap--s: 4;" class="f6e3a11b0d ae5dbab14d e95943ce9b">
+                           <div style="--bui_stack_spaced_gap--s: 0;" class="f6e3a11b0d ae5dbab14d a81870d302 e95943ce9b">
+                              <div class="fff1944c52 fb14de7f14 fab9d44163">
+                                 <div>Kencang77 is part of Booking Holdings Inc., the world leader in online travel and related services.</div>
+                                 <div></div>
+                              </div>
+                              <div class="fff1944c52 fb14de7f14 fab9d44163">Copyright © 1996–2025 Kencang77™. All rights reserved.</div>
+                           </div>
+                           <div style="--bui_stack_spaced_gap--s: 8;" class="f6e3a11b0d a19a26a18c ff07c65a27 e95943ce9b">
+                              <span role="img" class="fc70cba028 ca6ff50764" aria-label="Kencang77">
+                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 180 30">
+                                    <path fill="#003B95" d="M70.6 2.73999C70.602 2.19808 70.7646 1.66892 71.0673 1.21943C71.3701 0.769947 71.7993 0.420321 72.3007 0.214768C72.8021 0.00921437 73.3532 -0.0430342 73.8843 0.064629C74.4155 0.172292 74.9027 0.435032 75.2845 0.819622C75.6663 1.20421 75.9255 1.69338 76.0293 2.22527C76.133 2.75716 76.0768 3.30788 75.8676 3.80779C75.6584 4.3077 75.3056 4.73434 74.8539 5.03377C74.4022 5.3332 73.8719 5.49197 73.33 5.48999C72.9702 5.48868 72.6141 5.41651 72.2822 5.2776C71.9503 5.13869 71.649 4.93576 71.3955 4.6804C71.1419 4.42504 70.9412 4.12225 70.8047 3.78931C70.6683 3.45637 70.5987 3.09982 70.6 2.73999V2.73999ZM116.5 23.74C117.044 23.742 117.577 23.5824 118.031 23.2814C118.484 22.9804 118.838 22.5516 119.048 22.0493C119.257 21.547 119.313 20.9938 119.208 20.4597C119.103 19.9255 118.842 19.4346 118.458 19.049C118.074 18.6634 117.584 18.4005 117.05 18.2936C116.516 18.1867 115.963 18.2405 115.46 18.4484C114.957 18.6562 114.527 19.0087 114.224 19.4611C113.922 19.9136 113.76 20.4457 113.76 20.99C113.756 21.3528 113.824 21.7128 113.96 22.0493C114.096 22.3857 114.297 22.692 114.551 22.9504C114.806 23.2088 115.109 23.4143 115.444 23.5549C115.778 23.6956 116.137 23.7687 116.5 23.77V23.74ZM34.34 15.25C34.3539 16.9569 33.8606 18.6295 32.9228 20.0558C31.985 21.4821 30.6448 22.5979 29.0721 23.2616C27.4995 23.9254 25.7651 24.1072 24.089 23.7842C22.4128 23.4612 20.8703 22.6477 19.657 21.4471C18.4437 20.2464 17.6142 18.7125 17.2736 17.0398C16.933 15.3671 17.0967 13.631 17.744 12.0515C18.3912 10.472 19.4929 9.12017 20.9093 8.16745C22.3257 7.21474 23.993 6.70401 25.7 6.69999C26.8418 6.65398 27.9809 6.84396 29.046 7.25808C30.1111 7.67219 31.0793 8.30152 31.8902 9.10676C32.701 9.91199 33.3371 10.8758 33.7586 11.938C34.1801 13.0002 34.3781 14.1379 34.34 15.28V15.25ZM29.73 15.25C29.73 12.57 28.07 10.7 25.73 10.7C23.39 10.7 21.73 12.57 21.73 15.25C21.73 17.93 23.37 19.8 25.73 19.8C28.09 19.8 29.73 17.97 29.73 15.28V15.25ZM65.3 15.68C65.1321 15.3416 64.9128 15.0313 64.65 14.76L64.5 14.6L64.66 14.45C64.9116 14.1778 65.1423 13.887 65.35 13.58L69.74 7.02999H64.41L61.1 12.16C60.9586 12.3142 60.782 12.4321 60.5852 12.5034C60.3885 12.5748 60.1774 12.5977 59.97 12.57H59.22V2.90999C59.22 0.979993 58.01 0.709993 56.71 0.709993H54.48V23.58H59.21V16.72H59.65C60.19 16.72 60.56 16.78 60.73 17.08L63.35 21.97C63.5773 22.5089 63.9785 22.9563 64.4895 23.2408C65.0006 23.5253 65.5922 23.6306 66.17 23.54H69.8L67.09 19.07L65.3 15.68ZM88.3 6.67999C87.4047 6.66014 86.5151 6.82782 85.6884 7.17226C84.8618 7.5167 84.1163 8.03028 83.5 8.67999L83.21 8.96999L83.11 8.56999C82.9561 8.07803 82.6321 7.65692 82.196 7.38207C81.7599 7.10723 81.2402 6.9966 80.73 7.06999H78.6V23.57H83.32V15.97C83.305 15.2919 83.403 14.6159 83.61 13.97C83.8279 13.1302 84.3223 12.3883 85.0136 11.8639C85.7048 11.3396 86.5525 11.0634 87.42 11.08C88.88 11.08 89.42 11.85 89.42 13.86V21.05C89.365 21.3921 89.3919 21.7424 89.4986 22.072C89.6053 22.4017 89.7886 22.7013 90.0336 22.9463C90.2787 23.1914 90.5783 23.3747 90.908 23.4814C91.2376 23.5881 91.5879 23.615 91.93 23.56H94.15V13.07C94.15 8.89999 92.12 6.68999 88.27 6.68999L88.3 6.67999ZM73.42 7.04999H71.2V23.58H75.9V9.57999C75.9545 9.23754 75.9274 8.88705 75.8207 8.55711C75.714 8.22717 75.5308 7.92712 75.2861 7.68143C75.0414 7.43574 74.7421 7.25138 74.4126 7.14339C74.083 7.03539 73.7327 7.00681 73.39 7.05999L73.42 7.04999ZM52.8 15.28C52.8158 16.9897 52.3235 18.6657 51.3853 20.0951C50.4472 21.5246 49.1055 22.6431 47.5307 23.3089C45.9558 23.9747 44.2186 24.1576 42.5396 23.8345C40.8606 23.5114 39.3154 22.6969 38.1001 21.4942C36.8847 20.2915 36.054 18.7549 35.7134 17.0794C35.3727 15.4038 35.5375 13.6649 36.1867 12.0831C36.8359 10.5013 37.9404 9.14808 39.36 8.19502C40.7795 7.24195 42.4502 6.73205 44.16 6.72999C45.2992 6.68421 46.4357 6.87336 47.4987 7.28565C48.5617 7.69795 49.5285 8.32457 50.3389 9.12655C51.1493 9.92853 51.786 10.8887 52.2094 11.9473C52.6328 13.0059 52.8338 14.1403 52.8 15.28V15.28ZM48.19 15.28C48.19 12.6 46.53 10.73 44.19 10.73C41.85 10.73 40.19 12.6 40.19 15.28C40.19 17.96 41.83 19.83 44.19 19.83C46.55 19.83 48.19 17.97 48.19 15.28V15.28ZM153.53 15.28C153.544 16.9869 153.051 18.6595 152.113 20.0858C151.175 21.5121 149.835 22.6279 148.262 23.2916C146.689 23.9554 144.955 24.1372 143.279 23.8142C141.603 23.4912 140.06 22.6777 138.847 21.4771C137.634 20.2764 136.804 18.7425 136.464 17.0698C136.123 15.3971 136.287 13.661 136.934 12.0815C137.581 10.502 138.683 9.15017 140.099 8.19745C141.516 7.24474 143.183 6.73401 144.89 6.72999C146.029 6.68421 147.166 6.87336 148.229 7.28565C149.292 7.69795 150.258 8.32457 151.069 9.12655C151.879 9.92853 152.516 10.8887 152.939 11.9473C153.363 13.0059 153.564 14.1403 153.53 15.28V15.28ZM148.92 15.28C148.92 12.6 147.26 10.73 144.92 10.73C142.58 10.73 140.92 12.6 140.92 15.28C140.92 17.96 142.56 19.83 144.92 19.83C147.28 19.83 148.92 17.97 148.92 15.28V15.28ZM111.92 7.01999V22.17C111.92 27.94 107.25 30 103.25 30C101.25 29.9851 99.2804 29.5022 97.5 28.59L97.17 28.42L98.08 26.14C98.1174 25.9257 98.2045 25.7232 98.3343 25.5487C98.4642 25.3743 98.6332 25.2327 98.8277 25.1354C99.0223 25.0382 99.2369 24.9879 99.4544 24.9887C99.6719 24.9895 99.8862 25.0413 100.08 25.14C101.092 25.5155 102.161 25.715 103.24 25.73C105.82 25.73 107.24 24.51 107.24 22.3V21.84L106.88 22.12C105.825 22.8661 104.551 23.2391 103.26 23.18C98.88 23.18 95.81 19.74 95.81 14.83C95.81 9.91999 98.81 6.59999 103.17 6.59999C104.741 6.53072 106.283 7.04344 107.5 8.03999L107.72 8.22999L107.84 7.97999C108.031 7.64497 108.315 7.37233 108.657 7.19491C109 7.01749 109.386 6.94285 109.77 6.97999L111.92 7.01999ZM107.32 14.91C107.32 11.23 105.32 10.81 103.83 10.81C100.83 10.81 100.6 13.81 100.6 14.81C100.6 16.91 101.52 19.16 104.08 19.16C105.54 19.11 107.3 18.38 107.3 14.91H107.32ZM15.77 16.84C15.77 20.84 12.67 23.5 7.88 23.5H0V3.09999C0.00471433 2.48223 0.247466 1.89007 0.677736 1.44677C1.10801 1.00346 1.69265 0.743142 2.31 0.719993H7.79C12.09 0.719993 14.88 3.03999 14.88 6.63999C14.9049 7.45565 14.7493 8.26672 14.4243 9.01525C14.0993 9.76377 13.6129 10.4313 13 10.97L12.4 11.49L13.09 11.87C13.9391 12.3844 14.6353 13.1164 15.1065 13.9902C15.5776 14.864 15.8067 15.8479 15.77 16.84V16.84ZM4.38 9.96999H7.82C8.18097 9.9814 8.54025 9.91599 8.87405 9.77811C9.20784 9.64023 9.50854 9.43302 9.75624 9.17019C10.0039 8.90737 10.193 8.59493 10.3109 8.25355C10.4287 7.91218 10.4728 7.54966 10.44 7.18999C10.4737 6.82919 10.4276 6.46538 10.305 6.12438C10.1824 5.78338 9.98629 5.47353 9.73052 5.21681C9.47476 4.9601 9.16565 4.7628 8.8251 4.63892C8.48456 4.51504 8.12093 4.46761 7.76 4.49999H5.76C4.76 4.55999 4.34 5.05999 4.34 6.11999L4.38 9.96999ZM11.27 16.57C11.3013 16.1584 11.2434 15.7449 11.1004 15.3577C10.9573 14.9705 10.7324 14.6187 10.441 14.3263C10.1495 14.034 9.79849 13.8079 9.41176 13.6636C9.02502 13.5192 8.6117 13.46 8.2 13.49H5.59C4.76 13.61 4.38 14.12 4.38 15.1V19.68H8.2C8.61895 19.7149 9.04044 19.6568 9.43426 19.5096C9.82808 19.3625 10.1845 19.1301 10.4779 18.829C10.7713 18.528 10.9945 18.1657 11.1314 17.7682C11.2684 17.3708 11.3157 16.9479 11.27 16.53V16.57ZM174.53 6.77999C173.558 6.78366 172.6 7.00575 171.726 7.42984C170.852 7.85393 170.084 8.46915 169.48 9.22999L169.14 9.66999L168.87 9.17999C168.437 8.395 167.787 7.75128 166.998 7.3257C166.209 6.90012 165.314 6.71067 164.42 6.77999C163.6 6.79964 162.792 6.98725 162.048 7.33125C161.303 7.67525 160.637 8.16832 160.09 8.77999L159.65 9.25999L159.48 8.62999C159.323 8.16152 159.008 7.76282 158.587 7.50334C158.167 7.24386 157.669 7.14005 157.18 7.20999H155.18V23.57H159.64V16.31C159.646 15.6629 159.727 15.0187 159.88 14.39C160.31 12.63 161.49 10.74 163.47 10.93C164.69 11.05 165.29 11.99 165.29 13.82V23.57H169.81V16.31C169.791 15.6345 169.875 14.9601 170.06 14.31C170.42 12.64 171.65 10.92 173.56 10.92C174.94 10.92 175.46 11.7 175.46 13.81V21.17C175.46 22.83 176.19 23.57 177.85 23.57H180V13.07C180 8.86999 178.15 6.73999 174.53 6.73999V6.77999ZM133.69 17.86C132.51 19.095 130.913 19.8471 129.21 19.97C128.593 20.0073 127.974 19.914 127.395 19.6962C126.816 19.4784 126.29 19.141 125.85 18.706C125.41 18.271 125.067 17.7482 124.843 17.1716C124.619 16.5951 124.519 15.9778 124.55 15.36C124.498 14.7504 124.575 14.1365 124.776 13.5588C124.978 12.981 125.299 12.4524 125.719 12.0076C126.14 11.5629 126.649 11.212 127.215 10.978C127.78 10.744 128.388 10.6322 129 10.65C129.84 10.65 130.8 10.95 130.95 11.46V11.55C131.048 11.8986 131.258 12.2056 131.547 12.424C131.835 12.6425 132.188 12.7605 132.55 12.76H135V10.61C135 7.76999 131.39 6.73999 129 6.73999C123.81 6.73999 120 10.37 120 15.35C120 20.33 123.73 23.97 128.86 23.97C130.178 23.9562 131.479 23.6722 132.683 23.1355C133.887 22.5989 134.969 21.821 135.86 20.85L134 17.58L133.69 17.86Z"></path>
+                                 </svg>
+                              </span>
+                              <span role="img" class="fc70cba028 ca6ff50764" aria-label="Priceline.com">
+                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 69 16">
+                                    <g fill="#0071C2" clip-path="url(#csi3wuymheyvvnva)">
+                                       <path d="M61.944 7.25c-.056-.369-.113-.878-.48-1.275-.312-.34-.822-.51-1.275-.51a1.79 1.79 0 0 0-1.331.595c-.368.397-.453.821-.538 1.19h3.624Zm2.606 3.341c-.312.453-.623.906-1.076 1.331-.765.736-1.926 1.274-3.342 1.274-2.633 0-4.503-1.699-4.503-4.644 0-2.18 1.048-4.956 4.56-4.956.538 0 2.067.057 3.2 1.303 1.16 1.246 1.217 3.002 1.246 4.021H58.29c-.028 1.133.623 2.238 2.011 2.238 1.444 0 1.926-.935 2.237-1.586l2.01 1.02ZM49.4 4.701c.254-.283.424-.482.877-.708.397-.17.991-.312 1.614-.312.538 0 1.133.114 1.586.369.935.51 1.161 1.302 1.161 2.69v6.145h-2.605v-5.07c0-.82-.028-1.104-.113-1.33-.199-.481-.652-.68-1.161-.68-1.388 0-1.388 1.133-1.388 2.237v4.843h-2.634V3.908h2.634l.028.793Zm-4.305-3.087c0 .793-.623 1.416-1.
+                                          416 1.416a1.439 1.439 0 0 1-1.416-1.416c0-.793.623-1.416 1.416-1.416a1.42 1.42 0 0 1 1.416 1.416ZM42.376 3.88h2.577v9.005h-2.577V3.88Zm-1.755 9.005h-2.634V0h2.634v12.885ZM34.136 7.25c-.057-.369-.114-.878-.51-1.275-.312-.34-.821-.51-1.274-.51a1.79 1.79 0 0 0-1.331.595c-.369.397-.454.821-.538 1.19h3.653Zm2.633 3.341c-.311.453-.623.906-1.076 1.331-.764.736-1.925 1.274-3.37 1.274-2.633 0-4.502-1.699-4.502-4.644 0-2.18 1.047-4.956 4.559-4.956.538 0 2.067.057 3.2 1.303 1.16 1.246 1.218 3.002 1.274 4.021h-6.371c-.029 1.133.623 2.238 2.039 2.238 1.444 0 1.925-.935 2.265-1.586l1.982 1.02Zm-10.251-.453c0-.028-.057-.028-.057 0-.056.085-.113.198-.198.283-.538.623-1.19.623-1.33.623-1.389 0-1.983-1.5-1.983-2.69 0-1.076.481-2.719 1.897-2.719.397 0 .736.142.991.312.368.255.538.51.68.793.028.028.057.028.057.028.198-.736.566-1.444 1.132-2.01-1.02-.963-2.209-1.133-2.973-1.133-2.974 0-4.475 2.209-4.475 4.814 0 3.681 2.72 4.7 4.418 4.7.991 0 1.87-.339 2.549-.82.142-.114.283-.227.396-.34a3.67 3.67 0 0 1-1.104-1.84Zm-7.306-8.524c0 .793-.623 1.416-1.416 1.416a1.439 1.439 0 0 1-1.416-1.416c0-.793.623-1.416 1.416-1.416a1.42 1.42 0 0 1 1.416 1.416ZM16.493 3.88h2.577v9.005h-2.577V3.88Zm-3.681.934c.566-.51 1.217-.906 2.577-1.02v2.351l-.878.142c-1.246.226-1.643.425-1.643 1.557v5.07h-2.633V3.88h2.548v.934h.029Zm-7.93.736c-.48 0-.962.199-1.359.737-.368.51-.538 1.274-.538 2.124 0 1.132.283 1.84.623 2.209.312.34.736.51 1.161.51 1.275 0 1.841-1.388 1.841-2.804 0-1.19-.312-2.436-1.388-2.719-.113-.028-.226-.057-.34-.057Zm-2.095-.792c.085-.114.17-.199.255-.284.453-.424 1.246-.793 2.237-.793 2.18 0 3.88 1.671 3.88 4.673 0 1.84-.793 4.7-3.852 4.7-.99 0-1.5-.339-2.209-.764V16H.465V3.908h2.322v.85ZM66.475.963c.369 0 .68.085.992.255.311.17.538.425.708.708.17.311.254.623.254.963 0 .34-.085.68-.254.962-.17.312-.397.538-.708.708-.312.17-.623.255-.992.255-.368 0-.68-.085-.99-.255a1.887 1.887 0 0 1-.709-.708 1.96 1.96 0 0 1-.254-.962c0-.34.084-.68.254-.963.17-.312.397-.538.708-.708.312-.17.623-.255.992-.255Zm0 3.426c.284 0 .538-.056.765-.198a1.63 1.63 0 0 0 .538-.538c.142-.226.198-.481.198-.736s-.056-.51-.198-.736a1.63 1.63 0 0 0-.538-.538 1.372 1.372 0 0 0-.736-.199c-.283 0-.538.057-.765.199a1.629 1.629 0 0 0-.538.538 1.372 1.372 0 0 0-.198.736c0 .255.056.51.198.736.142.227.312.397.538.538.198.142.453.198.736.198Zm.822-1.812a.783.783 0 0 1-.085.368c-.057.113-.142.17-.255.227l.396.594h-.538l-.283-.51h-.34v.51h-.481V1.954h.793c.255 0 .425.057.566.17.17.085.227.255.227.453Zm-1.105.312h.34c.113 0 .17-.029.227-.085.056-.057.085-.114.085-.227a.322.322 0 0 0-.085-.227.322.322 0 0 0-.227-.084h-.34v.623Z"></path>
+                                    </g>
+                                    <defs>
+                                       <clipPath id="csi3wuymheyvvnva">
+                                          <path fill="#fff" d="M0 0h67.965v16H0z" transform="translate(.465)"></path>
+                                       </clipPath>
+                                    </defs>
+                                 </svg>
+                              </span>
+                              <span role="img" class="fc70cba028 ca6ff50764" aria-label="Kayak">
+                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 84 16">
+                                    <g clip-path="url(#csi3wuymheyvvnpa)">
+                                       <path fill="#FF690F" d="M.43 0h16v16h-16V0Z"></path>
+                                       <path fill="#fff" d="M5.362 4.004h1.945v8H5.362v-8Z"></path>
+                                       <path fill="#fff" d="M11.497 11.997H9.352L7.14 8.001l2.212-3.997h2.145L9.272 8l2.225 3.996Z"></path>
+                                       <path fill="#FF690F" d="M17.319 0h16v16h-16V0Z"></path>
+                                       <path fill="#fff" d="m23.869 10.847-.348 1.163H21.45l2.633-8.02h2.473l2.614 8.02h-2.12l-.347-1.15-2.833-.013Zm1.416-4.558-.935 2.988h1.871l-.936-2.988Z"></path>
+                                       <path fill="#FF690F" d="M34.201 0h16v16h-16V0Z"></path>
+                                       <path fill="#fff" d="M43.203 12.01h-1.958V8.475L38.618 3.99h2.313l1.296 2.46 1.277-2.46h2.279l-2.58 4.485v3.535Z"></path>
+                                       <path fill="#FF690F" d="M51.09 0h16v16h-16V0Z"></path>
+                                       <path fill="#fff" d="m57.64 10.847-.348 1.163H55.22l2.633-8.02h2.473l2.613 8.02h-2.118l-.348-1.15-2.834-.013Zm1.416-4.558-.935 2.988h1.87l-.935-2.988Z"></path>
+                                       <path fill="#FF690F" d="M67.972 0h16v16h-16V0Z"></path>
+                                       <path fill="#fff" d="M72.904 4.004h1.945v8h-1.945v-8Z"></path>
+                                       <path fill="#fff" d="M79.04 11.997h-2.146l-2.212-3.996 2.212-3.997h2.146L76.814 8l2.226 3.996Z"></path>
+                                    </g>
+                                    <defs>
+                                       <clipPath id="csi3wuymheyvvnpa">
+                                          <path fill="#fff" d="M0 0h83.542v16H0z" transform="translate(.43)"></path>
+                                       </clipPath>
+                                    </defs>
+                                 </svg>
+                              </span>
+                              <span role="img" class="fc70cba028 ca6ff50764" aria-label="Agoda">
+                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 51 20">
+                                    <g clip-path="url(#csi3wuymheyvvnma)">
+                                       <path fill="#262626" d="M13.397 5.98c-.067.531.133 1.063.465 1.528.266.332.73.532 1.13.532.265 0 .531-.067.797-.2s.465-.398.598-.664c.133-.332.266-.731.2-1.063.066-.598-.134-1.13-.466-1.595-.266-.399-.73-.598-1.196-.598-.465 0-.864.2-1.13.532-.265.398-.465.996-.398 1.528Zm4.85-2.06v4.85c0 .466-.066.997-.199 1.462-.133.399-.332.731-.598.997-.266.266-.665.465-.997.598-.465.066-.996.133-1.528.133s-1.063-.067-1.528-.266a3.369 3.369 0 0 1-1.063-.598c-.2-.2-.332-.465-.399-.797 0-.2.066-.399.2-.465a.754.754 0 0 1 .53-.2c.267 0 .466.133.665.333l.266.332c.067.133.2.2.332.332l.399.2c.2.066.399.066.532.066.332 0 .664-.067.996-.2.2-.132.399-.265.532-.531.066-.2.133-.465.2-.665 0-.265 0-.664.066-1.196-.266.333-.532.598-.93.798-.4.2-.798.266-1.197.266-.531 0-.996-.133-1.461-.466-.4-.332-.731-.73-.93-1.196-.266-.531-.333-1.196-.333-1.794 0-.465.067-.93.2-1.329.132-.398.332-.73.598-.996.265-.266.531-.465.863-.598.266-.266.598-.332.997-.332s.864.066 1.262.265c.4.2.731.532.997.864v-.2c0-.265.066-.464.2-.664.066-.199.265-.265.531-.265.266-.067.532.066.664.332.067.266.133.531.133.93ZM27.218 6.046c.067-.598-.133-1.13-.465-1.595-.266-.398-.73-.598-1.196-.598-.332 0-.598.067-.864.266-.266.2-.465.465-.598.731-.265.73-.265 1.528 0 2.326.133.332.332.598.598.73.266.2.532.266.864.266.465 0 .93-.2 1.196-.598.332-.398.532-.93.465-1.528Zm1.661 0c0 .465-.066.93-.266 1.395a2.892 2.892 0 0 1-.664 1.063c-.266.333-.664.532-1.063.665-.465.2-.93.266-1.395.266a3.47 3.47 0 0 1-1.396-.266c-.797-.332-1.461-.997-1.727-1.794-.332-.864-.332-1.86 0-2.79.133-.4.398-.798.664-1.064.266-.332.665-.532 1.063-.664a3.848 3.848 0 0 1 2.725 0c.398.132.73.398 1.063.73.265.333.531.665.664 1.064.266.465.332.93.332 1.395ZM34.593 6.046c0 .4.067.798.2 1.13.133.266.332.532.598.73.266.134.531.267.797.267s.532-.067.797-.2c.266-.199.466-.398.599-.73.132-.4.199-.798.199-1.197 0-.398-.067-.797-.2-1.13a2.078 2.078 0 0 0-.597-.73 1.277 1.277 0 0 0-.798-.266c-.266 0-.598.067-.797.266-.332.2-.532.465-.665.73-.133.4-.199.732-.133 1.13Zm3.323 2.459v-.133c-.2.2-.399.465-.665.598-.2.133-.465.266-.73.399-.266.066-.532.133-.864.133-.4 0-.798-.067-1.13-.266-.332-.2-.665-.399-.864-.731a3.693 3.693 0 0 1-.598-1.13c-.133-.465-.2-.93-.2-1.395 0-1.063.267-1.86.798-2.458.532-.532 1.263-.864 1.994-.864.398 0 .797.066 1.196.266.398.199.664.465.996.73V1.196c0-.266.067-.532.2-.797.133-.2.332-.266.598-.266.199 0 .465.066.598.266.133.199.199.465.199.73v7.376c0 .266-.067.531-.2.73a.842.842 0 0 1-.597.267c-.2 0-.4-.067-.598-.266a.922.922 0 0 1-.133-.731ZM48.082 6.113c-.333.133-.731.2-1.063.266-.466.067-.798.2-.997.2-.2.066-.399.132-.532.265a.842.842 0 0 0-.266.598c0 .266.133.465.333.665.199.199.465.265.73.265.333 0 .599-.066.93-.199.267-.133.466-.332.599-.531.2-.4.266-.798.2-1.263l.066-.266Zm.066 2.392c-.332.266-.73.532-1.196.731-.399.133-.864.266-1.262.266-.4 0-.798-.066-1.13-.266a1.44 1.44 0 0 1-.73-.664c-.2-.266-.267-.598-.267-.93 0-.4.133-.864.465-1.196.333-.333.731-.598 1.197-.665l.797-.133c.398-.066.797-.133 1.063-.266.332-.066.598-.132.997-.265 0-.333-.067-.665-.266-.997-.133-.2-.465-.332-.997-.332-.332 0-.664.066-.93.2-.2.132-.399.331-.532.53-.066.134-.199.333-.332.466-.133.066-.266.133-.398.133a.603.603 0 0 1-.466-.2.603.603 0 0 1-.199-.465c0-.332.133-.598.332-.864.266-.332.598-.531.997-.664.399-.2.93-.266 1.528-.266s1.196.067 1.728.266c.398.133.73.465.93.797.2.465.266.997.266 1.529v1.926c0 .333.066.665.133.997.066.2.133.465.133.665 0 .199-.067.332-.266.465a.755.755 0 0 1-.532.2c-.2 0-.398-.067-.531-.267-.2-.2-.333-.465-.532-.73ZM5.69 6.113c-.333.133-.731.2-1.063.266-.466.133-.798.2-.997.2-.2.066-.399.132-.532.265a.842.842 0 0 0-.265.598c0 .266.132.465.332.665.2.199.465.265.73.265.333 0 .599-.066.93-.199.267-.133.466-.332.599-.531.2-.4.266-.798.2-1.263l.066-.266Zm.066 2.392c-.332.266-.73.532-1.196.731-.399.133-.864.266-1.262.266-.399 0-.798-.066-1.13-.266a1.44 1.44 0 0 1-.73-.664c-.2-.266-.267-.598-.267-.93 0-.4.133-.864.466-1.196.332-.333.73-.598 1.196-.665l.797-.133c.399-.066.797-.133 1.063-.266.266-.066.598-.199.93-.265 0-.333-.066-.665-.266-.997-.132-.2-.465-.266-.93-.266-.332 0-.664.067-.93.2-.266.066-.465.265-.598.465a1.653 1.653 0 0 1-.332.465c-.133.133-.266.133-.399.133a.603.603 0 0 1-.465-.2c-.133-.066-.2-.265-.2-.465 0-.332.134-.598.333-.864.266-.332.598-.531.997-.664.465-.2.996-.266 1.594-.266.598 0 1.196.067 1.728.266.398.133.73.399.93.797.2.465.266.997.266 1.529v1.926c0 .333.066.665.133.997.066.2.133.465.133.665 0 .199-.133.332-.266.465a.754.754 0 0 1-.532.2c-.2 0-.398-.067-.531-.267a18.46 18.46 0 0 0-.532-.73Z"></path>
+                                       <path fill="#ED2A28" d="M4.36 13.422a3.19 3.19 0 1 1 0 6.38 3.19 3.19 0 0 1 0-6.38Z"></path>
+                                       <path fill="#F59E22" d="M14.992 13.422a3.19 3.19 0 1 1-3.19 3.19c0-1.795 1.396-3.19 3.19-3.19Z"></path>
+                                       <path fill="#16AC5B" d="M25.557 13.422a3.19 3.19 0 1 1-.002 6.38 3.19 3.19 0 0 1 .002-6.38Z"></path>
+                                       <path fill="#8252A1" d="M36.188 13.422a3.19 3.19 0 1 1-3.19 3.19c0-1.795 1.396-3.19 3.19-3.19Z"></path>
+                                       <path fill="#347FC2" d="M46.82 13.422a3.19 3.19 0 1 1-3.19 3.19c-.067-1.795 1.395-3.19 3.19-3.19Z"></path>
+                                    </g>
+                                    <defs>
+                                       <clipPath id="csi3wuymheyvvnma">
+                                          <path fill="#fff" d="M0 0h49.236v20H0z" transform="translate(.972)"></path>
+                                       </clipPath>
+                                    </defs>
+                                 </svg>
+                              </span>
+                              <span role="img" class="fc70cba028 ca6ff50764" aria-label="OpenTable">
+                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 104 24">
+                                    <path fill="#DA3743" fill-rule="evenodd" d="M.607 12c0-1.588 1.277-2.875 2.853-2.875A2.865 2.865 0 0 1 6.314 12a2.865 2.865 0 0 1-2.854 2.875A2.864 2.864 0 0 1 .607 12Zm20.046 2.875c-1.577 0-2.854-1.287-2.854-2.875a2.864 2.864 0 0 1 2.854-2.875A2.865 2.865 0 0 1 23.506 12c0 1.588-1.279 2.875-2.855 2.875Zm0-14.375C14.348.5 9.236 5.649 9.236 12c0 6.352 5.111 11.5 11.415 11.5 6.306 0
+                                       11.416-5.148 11.416-11.5 0-6.35-5.11-11.5-11.415-11.5Z" clip-rule="evenodd"></path>
+                                    <path fill="#262626" fill-rule="evenodd" d="M102.24 11.11c.18 0 .287-.082.287-.23 0-.134-.073-.222-.274-.222h-.187v.452h.174Zm-.448-.68h.507c.281 0 .521.115.521.437a.393.393 0 0 1-.246.37l.307.56h-.307l-.235-.472h-.273v.471h-.274V10.43Zm1.475.7c0-.632-.433-1.083-.994-1.083-.561 0-.989.45-.989 1.082 0 .64.428 1.077.989 1.077.561 0 .995-.437.995-1.076h-.001Zm-2.25 0c0-.788.568-1.325 1.256-1.325.694 0 1.262.537 1.262 1.325 0 .787-.568 1.325-1.262 1.325-.688 0-1.256-.538-1.256-1.325Zm-8.377 5.38a.315.315 0 0 0 .312-.313v-1.154a.314.314 0 0 0-.31-.313h-.05c-.14 0-.28-.14-.28-.281v-6.84c0-.156-.155-.312-.31-.312H90.86c-.155 0-.31.156-.31.312v7.577l.005.197c0 .565.56 1.128 1.12 1.128l.964-.002ZM42.417 9.102c1.553 0 2.863 1.325 2.863 2.896a2.87 2.87 0 0 1-2.863 2.872c-1.57 0-2.848-1.287-2.848-2.872 0-1.597 1.277-2.896 2.848-2.896Zm0-1.823c-2.568 0-4.658 2.116-4.658 4.72 0 2.632 2.045 4.695 4.658 4.695 2.621 0 4.674-2.063 4.674-4.696 0-2.602-2.097-4.72-4.674-4.72Zm37.177 7.36c-.084.24-.592.694-1.17.694-.605 0-.943-.369-.943-.922 0-.582.408-.937 1.155-.937.52 0 .958.199.958.199v.965Zm-.761-4.84c-1.056 0-2.085.268-2.226.325-.141.043-.268.156-.212.398l.142.738c.027.199.154.355.365.284.382-.114 1.24-.242 1.833-.242.69 0 .93.398.9 1.235 0 0-.59-.184-1.253-.184-1.648 0-2.593.894-2.593 2.058 0 1.405.903 2.242 2.198 2.242a2.84 2.84 0 0 0 2.044-.823v.353c0 .17.14.312.31.312h.114a.212.212 0 0 0 .04.003h.48a.315.315 0 0 0 .31-.313v-3.534c0-1.789-.423-2.853-2.452-2.853Zm-11.827 0c-1.248 0-1.853.673-2.095.945v-.492a.314.314 0 0 0-.31-.312h-.737a.314.314 0 0 0-.31.312v5.933a.324.324 0 0 0 .31.313h1.042c.31 0 .409-.072.409-.313V12.44c.155-.454.564-1.022 1.409-1.022.788 0 1.126.525 1.126 1.377v3.392c0 .17.142.313.311.313h1.14a.324.324 0 0 0 .31-.313v-3.392c0-1.59-.535-2.995-2.605-2.995Zm-15.513 5.237c-.818 0-1.353-.37-1.353-.37v-2.342c.141-.37.592-.909 1.438-.909 1.014 0 1.535.895 1.535 1.817 0 .923-.55 1.803-1.62 1.803Zm.324-5.238a2.8 2.8 0 0 0-2.125.977v-.522a.314.314 0 0 0-.31-.313h-.693a.315.315 0 0 0-.31.312v8.601a.325.325 0 0 0 .31.313h1.142c.154 0 .31-.157.31-.313v-2.47a4.8 4.8 0 0 0 1.563.27c1.945 0 3.227-1.504 3.227-3.42 0-1.988-1.34-3.435-3.114-3.435Zm46.462 2.597c-.028-.639-.535-1.136-1.254-1.136-.789 0-1.296.483-1.38 1.136h2.634ZM97.069 9.8c1.69 0 2.985 1.263 2.985 3.037 0 .1-.015.326-.028.426a.331.331 0 0 1-.31.298h-4.17c.015.809.676 1.518 1.62 1.518.648 0 1.099-.241 1.395-.482.155-.128.324-.142.423 0l.549.738c.112.127.127.284-.028.426-.672.583-1.534.9-2.423.894-1.944 0-3.297-1.561-3.297-3.435 0-1.845 1.353-3.42 3.283-3.42ZM86.04 15.037c-.845 0-1.296-.54-1.437-.91v-2.34s.536-.37 1.353-.37c1.07 0 1.62.88 1.62 1.803 0 .922-.521 1.817-1.535 1.817Zm.155-5.238c-.648 0-1.296.156-1.592.284V7.585a.324.324 0 0 0-.31-.313h-1.141c-.155 0-.31.156-.31.313v8.601a.324.324 0 0 0 .31.313h.493c.01 0 .018 0 .028-.003h.132a.314.314 0 0 0 .312-.312v-.485l.007-.025s.748.979 2.17.979c1.776 0 3.058-1.561 3.058-3.434 0-1.917-1.226-3.42-3.156-3.42Zm-9.968-2.527H69.6a.268.268 0 0 0-.267.27v1.165c0 .141.112.269.267.269h2.39v7.253a.278.278 0 0 0 .269.27h1.31a.277.277 0 0 0 .268-.27V8.976h2.39a.268.268 0 0 0 .268-.27V7.542a.27.27 0 0 0-.268-.27Zm-15.775 5.124c-.028-.639-.536-1.136-1.254-1.136-.788 0-1.296.483-1.38 1.136h2.634ZM59.241 9.8c1.691 0 2.987 1.263 2.987 3.037 0 .1-.013.326-.028.426a.332.332 0 0 1-.31.298h-4.17c.015.809.676 1.518 1.62 1.518.649 0 1.099-.241 1.395-.482.155-.128.324-.142.423 0l.549.738c.113.127.127.284-.028.426a3.66 3.66 0 0 1-2.424.894c-1.944 0-3.296-1.561-3.296-3.435 0-1.845 1.352-3.42 3.282-3.42Z" clip-rule="evenodd"></path>
+                                 </svg>
+                              </span>
+                           </div>
+                        </div>
+                     </div>
+                  </footer>
+                  <div style="display: none;">1 book30</div>
+               </div>
+            </div>
+         </div>
+         <a href="#" id="pipl-personalization-footer-btn" data-modal-id="personalisation-modal" data-component="privacy/personalisation-modal" data-modal-keep-mounted="true" data-modal-close-aria-label="Close" style="display:none;">
+         </a>
+         <template id="personalisation-modal" data-component="privacy/personalisation-modal" style="display: none !important;">
+            <header class="bui-modal__header">
+               <h2 class="bui-modal__title" id="modal-default-title" data-bui-ref="modal-title">
+                  Personalized recommendations
+               </h2>
+               <p class="bui-modal__paragraph" id="modal-default-subtitle" data-bui-ref="modal-subtitle">
+                  We provide personalized recommendations based on your activity on our platform. If you prefer, you can opt out of this option. Opting-out only affects your current device. Adjust this setting to your preference on other devices as well.
+               </p>
+            </header>
+            <footer class="bui-modal__footer">
+               <div class="bui-switch">
+                  <div class="bui-input-text__content">
+                     <input type="checkbox" checked="checked" id="personalization-switch-1" class="bui-switch__trigger" aria-label="
+                        Personalized recommendations
+                        " aria-checked="true" role="switch">
+                     <label for="personalization-switch-1" aria-hidden="true" class="bui-switch__hitbox" data-on-value="
+                        Show personalized recommendations
+                        " data-off-value="
+                        Show personalized recommendations
+                        ">
+                     <span class="bui-switch__indicator"></span>
+                     </label>
+                  </div>
+               </div>
+            </footer>
+         </template>
+         <style>
+            .rtl .bui-switch__trigger:checked + .bui-switch__hitbox .bui-switch__indicator:before,
+            [dir="rtl"] .bui-switch__trigger:checked + .bui-switch__hitbox .bui-switch__indicator:before {
+            transform: translate(calc(-1 * var(--bui_spacing_6x)));
+            }
+         </style>
+         <script type="text/javascript" nonce="BPjCF1P9gfPdkZX">
+            (function () {
+            document.addEventListener('click', function (e) {
+            if (e.target.id === 'personalization-switch-1') {
+            toggleSwitchLock(true);
+            var httpRequest = new XMLHttpRequest();
+            httpRequest.open('PUT', '/consent/personalization?value=' + (e.target.checked ? '0' : '1'), true);
+            httpRequest.onload = function () {
+            toggleSwitchLock(false);
+            B.require('events').trigger('privacy:personalisation-updated');
+            }
+            httpRequest.send();
+            }
+            });
+            function toggleSwitchLock(lock) {
+            var checkbox = document.getElementById('personalization-switch-1');
+            if (lock) {
+            checkbox.setAttribute('disabled', 'disabled');
+            } else {
+            checkbox.removeAttribute('disabled');
+            }
+            }
+            function trackCustomGoal(goal) {
+            if (window.B && window.B.et) {
+            window.B.et.customGoal('YTBeWfCDIXLSGbDaFSRfABNIPRaO', goal);
+            }
+            }
+            })();
+         </script>
+      </div>
+      <div id="revc_write_a_review_login_intro" style="display:none;" tabindex="-1">
+         <span class="invisible_spoken">Start of dialog content</span>
+         <div class="intro_header">
+            <h2 class="bui-modal__title">Verified reviews from real guests.</h2>
+            <p class="bui-modal__paragraph">We have more than 70 million property reviews, all from <strong>real, verified guests</strong>.</p>
+         </div>
+         <div class="rlp-intro">
+            <div class="rlp-intro__container clearfix">
+               <h2 class="rlp-intro__title rlp-intro__a11y-exp-title">How does it work?</h2>
+               <ul class="rlp-intro-how a11y_contrast_blue_gray">
+                  <li class="rlp-intro-how__item fl">
+                     <div class="rlp-intro-how__container rlp-intro-how__container--tickfull">
+                        <div class="rlp-intro-how__sub-container">
+                           <p class="rlp-intro-how__num rlp-intro-how__num--tickfull">1</p>
+                           <p class="rlp-intro-how__icon bicon-tickfull" aria-hidden="true"></p>
+                        </div>
+                     </div>
+                     <h3 class="rlp-intro-how__title rlp-intro-how__a11y-exp-title">It starts with a booking</h3>
+                     <span class="rlp-intro-how__title rlp-intro-how__caption">It starts with a booking</span>
+                     <p class="rlp-intro-how__desc">The only way to leave a review is to first make a booking. That's how we know our reviews come from real guests who have stayed at the property.</p>
+                  </li>
+                  <li class="rlp-intro-how__arrow fl" aria-hidden="true">
+                     <p class="rlp-intro-how__arrow-icon bicon-rightchevron"></p>
+                  </li>
+                  <li class="rlp-intro-how__item fl">
+                     <div class="rlp-intro-how__container rlp-intro-how__container--citytrip">
+                        <div class="rlp-intro-how__sub-container">
+                           <p class="rlp-intro-how__num rlp-intro-how__num--citytrip">2</p>
+                           <p class="rlp-intro-how__icon bicon-citytrip" aria-hidden="true"></p>
+                        </div>
+                     </div>
+                     <h3 class="rlp-intro-how__title rlp-intro-how__a11y-exp-title">Followed by a trip</h3>
+                     <span class="rlp-intro-how__title rlp-intro-how__caption">Followed by a trip</span>
+                     <p class="rlp-intro-how__desc">When guests stay at the property, they check out how quiet the room is, how friendly the staff is, and more.</p>
+                  </li>
+                  <li class="rlp-intro-how__arrow fl" aria-hidden="true">
+                     <p class="rlp-intro-how__arrow-icon bicon-rightchevron"></p>
+                  </li>
+                  <li class="rlp-intro-how__item fl">
+                     <div class="rlp-intro-how__container rlp-intro-how__container--feedback">
+                        <div class="rlp-intro-how__sub-container">
+                           <p class="rlp-intro-how__num rlp-intro-how__num--feedback">3</p>
+                           <p class="rlp-intro-how__icon bicon-feedback" aria-hidden="true"></p>
+                        </div>
+                     </div>
+                     <h3 class="rlp-intro-how__title rlp-intro-how__a11y-exp-title">And finally, a review</h3>
+                     <span class="rlp-intro-how__title rlp-intro-how__caption">And finally, a review</span>
+                     <p class="rlp-intro-how__desc">After their trip, guests tell us about their stay. We check for naughty words and verify the authenticity of all guest reviews before adding them to our site.</p>
+                  </li>
+               </ul>
+            </div>
+         </div>
+         <p>If you booked through us and want to leave a review, please sign in first.</p>
+         <div class="intro_footer">
+            <a href="https://secure.booking.com/reviewtimeline.html?aid=304142&amp;label=gen173bo-10CAEoggI46AdIM1gDaHiIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGYAgKoAgG4AsDihskGwAIB0gIkODU5OGM0MzYtZTZmOC00NTk2LThiNjgtMzc4Y2UzMTQxYWIy2AIB4AIB&amp;sid=69a531678c92530bd936b4d82e71bffc&amp;srpvid=f0df5a24c34e052e&amp;from_index_lightbox=1" class="revc_write_a_review_login_button">Sign in and leave a review</a>
+         </div>
+         <span class="invisible_spoken">End of dialog content</span>
+      </div>
+      <div id="calendar_popup" class="newcalendar singleCalendar" style="display:none; ">
+         <div class="calendar_popup_title">
+            <p id="calendar_check_in_title">Check-in date</p>
+            <p id="calendar_check_out_title">Check-out date</p>
+         </div>
+         <div class="browseCalendar">
+            <a href="#" class="prevmonth disabled"><span>«</span></a>
+            <select title="Check-in date/Check-out date">
+               <option class="b_months" value="2025-11"></option>
+               <option class="b_months" value="2025-12"></option>
+               <option class="b_months" value="2026-1"></option>
+               <option class="b_months" value="2026-2"></option>
+               <option class="b_months" value="2026-3"></option>
+               <option class="b_months" value="2026-4"></option>
+               <option class="b_months" value="2026-5"></option>
+               <option class="b_months" value="2026-6"></option>
+               <option class="b_months" value="2026-7"></option>
+               <option class="b_months" value="2026-8"></option>
+               <option class="b_months" value="2026-9"></option>
+               <option class="b_months" value="2026-10"></option>
+               <option class="b_months" value="2026-11"></option>
+               <option class="b_months" value="2026-12"></option>
+               <option class="b_months" value="2027-1"></option>
+               <option class="b_months" value="2027-2"></option>
+            </select>
+            <a href="#" class="nextmonth"><span>»</span></a>
+         </div>
+         <table>
+            <tbody>
+               <tr>
+                  <th>Mo</th>
+                  <th>Tu</th>
+                  <th>We</th>
+                  <th>Th</th>
+                  <th>Fr</th>
+                  <th>Sa</th>
+                  <th>Su</th>
+               </tr>
+               <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td class="wk_ar">&nbsp;</td>
+                  <td class="wk wk_ar">&nbsp;</td>
+                  <td class="wk">&nbsp;</td>
+               </tr>
+               <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td class="wk_ar">&nbsp;</td>
+                  <td class="wk wk_ar">&nbsp;</td>
+                  <td class="wk">&nbsp;</td>
+               </tr>
+               <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td class="wk_ar">&nbsp;</td>
+                  <td class="wk wk_ar">&nbsp;</td>
+                  <td class="wk">&nbsp;</td>
+               </tr>
+               <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td class="wk_ar">&nbsp;</td>
+                  <td class="wk wk_ar">&nbsp;</td>
+                  <td class="wk">&nbsp;</td>
+               </tr>
+               <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td class="wk_ar">&nbsp;</td>
+                  <td class="wk wk_ar">&nbsp;</td>
+                  <td class="wk">&nbsp;</td>
+               </tr>
+               <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td class="wk_ar">&nbsp;</td>
+                  <td class="wk wk_ar">&nbsp;</td>
+                  <td class="wk">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+         <span class="calendar_close">Close calendar</span>
+      </div>
+      <script nonce="BPjCF1P9gfPdkZX"> if( window.performance && performance.measure && 'b-pre-scripts') { performance.measure('b-pre-scripts'); } </script>
+      <script id="script-booking-availability-rooms-env" type="text/javascript" nonce="BPjCF1P9gfPdkZX">
+         // <![CDATA[
+         booking.env.you_can_book_at_most_x_rooms_with_this_hotel = 'You can book at most 0 rooms with this hotel';
+         booking.env.you_can_book_for_at_most_x_guests_per_reservation_with_this_hotel = 'You can book for at most  guests per reservation with this hotel.';
+         // ]]>
+      </script>
+      <script nonce="BPjCF1P9gfPdkZX">
+         var B = booking = window.booking || {};
+         var booking_extra = {
+         pageview_id: '21415a254bc10232',
+         b_aid: '304142',
+         b_stid: '304142',
+         b_lang_for_url: 'en-us',
+         b_gtt: "dLYAeZFVJfNTBBSSUcbfBSLWVJBYdRdeSCHYKSXe",
+         b_ch: 'd',
+         b_site_type_id: '1',
+         b_action: 'hotel'
+         };
+      </script>
+      <script src="https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/c40c55637440286271899bb4294fd743b387ac07.js" crossorigin="" nonce="BPjCF1P9gfPdkZX"></script>
+      <svg class="bk-icon -iconset-heart" height="128" style="display:none;" width="128" viewBox="0 0 128 128" role="presentation" aria-hidden="true" focusable="false">
+         <path d="M64 112a3.6 3.6 0 0 1-2-.5 138.8 138.8 0 0 1-44.2-38c-10-14.4-10.6-26-9.4-33.2a29 29 0 0 1 22.9-23.7c11.9-2.4 24 2.5 32.7 13a33.7 33.7 0 0 1 32.7-13 29 29 0 0 1 22.8 23.7c1.3 7.2.6 18.8-9.3 33.3-9.1 13.1-24 25.9-44.2 37.9a3.6 3.6 0 0 1-2 .5z"></path>
+      </svg>
+      <svg class="bk-icon -iconset-heart_outline" height="128" style="display:none;" width="128" viewBox="0 0 128 128" role="presentation" aria-hidden="true" focusable="false">
+         <path d="M119.5 40.3a29 29 0 0 0-22.8-23.7 33.8 33.8 0 0 0-32.7 13 33.7 33.7 0 0 0-32.7-13A29 29 0 0 0 8.5 40.3c-1.3 7.2-.6 18.8 9.4 33.3A140 140 0 0 0 62 111.5a3.7 3.7 0 0 0 4 0c20.2-12 35-24.8 44.1-38 10-14.4 10.7-26 9.5-33.2zm-55.5 63c-33-20.1-50.8-43-47.7-61.6A20.7 20.7 0 0 1 33 24.3a22.3 22.3 0 0 1 4.5-.4c8.8 0 17.3 5.2 23.2 14.6a4 4 0 0 0 3.4 1.8 4 4 0 0 0 3.4-1.8c6-9.4 14.4-14.6 23.2-14.6a22.3 22.3 0 0 1 4.5.5 20.7 20.7 0 0 1 16.6 17.2c3 18.6-14.8 41.6-47.8 61.7z"></path>
+      </svg>
+      <svg class="bk-icon -streamline-loading" height="24" style="display:none;" width="24" viewBox="0 0 24 24" role="presentation" aria-hidden="true" focusable="false">
+         <path d="M11.25.747v3.75a.75.75 0 0 0 1.5 0V.747a.75.75 0 0 0-1.5 0zm1.5 22.5v-3.75a.75.75 0 0 0-1.5 0v3.75a.75.75 0 0 0 1.5 0zM3.515 4.572l2.652 2.652a.75.75 0 0 0 1.06-1.06L4.575 3.512a.75.75 0 0 0-1.06 1.06zm16.97 14.85l-2.652-2.651a.75.75 0 1 0-1.06 1.06l2.652 2.651a.75.75 0 1 0 1.06-1.06zM.75 12.747H4.5a.75.75 0 0 0 0-1.5H.75a.75.75 0 0 0 0 1.5zm22.5-1.5H19.5a.75.75 0 0 0 0 1.5h3.75a.75.75 0 0 0 0-1.5zM4.575 20.482l2.652-2.65a.75.75 0 1 0-1.06-1.061l-2.652 2.65a.75.75 0 1 0 1.06 1.061zm14.85-16.97l-2.652 2.652a.75.75 0 0 0 1.06 1.06l2.652-2.652a.75.75 0 0 0-1.06-1.06z"></path>
+      </svg>
+      <svg class="bk-icon -iconset-navarrow_down_bold" height="128" style="display:none;" width="128" viewBox="0 0 128 128" role="presentation" aria-hidden="true" focusable="false">
+         <path d="M101.7 42.3a8 8 0 0 0-11.4 0L64 68.7 37.7 42.3a8 8 0 0 0-11.4 11.4L64 91.3l37.7-37.6a8 8 0 0 0 0-11.4z"></path>
+      </svg>
+      <svg class="bk-icon -iconset-loading" height="128" style="display:none;" width="128" viewBox="0 0 128 128" role="presentation" aria-hidden="true" focusable="false">
+         <path d="m64 8a4.67 4.67 0 0 1 4.67 4.67v18.66a4.67 4.67 0 0 1 -4.67 4.67 4.67 4.67 0 0 1 -4.67-4.67v-18.66a4.67 4.67 0 0 1 4.67-4.67z" opacity=".75"></path>
+         <path d="m92 15.48a4.67 4.67 0 0 1 1.71 6.37l-9.34 16.15a4.67 4.67 0 0 1 -6.37 1.72 4.67 4.67 0 0 1 -1.71-6.37l9.33-16.17a4.67 4.67 0 0 1 6.38-1.7z" opacity=".2"></path>
+         <path d="m112.52 36a4.67 4.67 0 0 1 -1.71 6.37l-16.16 9.34a4.67 4.67 0 0 1 -6.37-1.71 4.67 4.67 0 0 1 1.72-6.37l16.17-9.33a4.67 4.67 0 0 1 6.35 1.7z" opacity=".25"></path>
+         <path d="m120 64a4.67 4.67 0 0 1 -4.67 4.67h-18.66a4.67 4.67 0 0 1 -4.67-4.67 4.67 4.67 0 0 1 4.67-4.67h18.67a4.67 4.67 0 0 1 4.66 4.67z" opacity=".3"></path>
+         <path d="m112.52 92a4.67 4.67 0 0 1 -6.37 1.71l-16.15-9.34a4.67 4.67 0 0 1 -1.72-6.37 4.67 4.67 0 0 1 6.37-1.71l16.17 9.33a4.67 4.67 0 0 1 1.7 6.38z" opacity=".35"></path>
+         <path d="m92 112.52a4.67 4.67 0 0 1 -6.37-1.71l-9.34-16.16a4.67 4.67 0 0 1 1.71-6.37 4.67 4.67 0 0 1 6.37 1.72l9.33 16.17a4.67 4.67 0 0 1 -1.7 6.35z" opacity=".4"></path>
+         <path d="m64 120a4.67 4.67 0 0 1 -4.67-4.67v-18.66a4.67 4.67 0 0 1 4.67-4.67 4.67 4.67 0 0 1 4.67 4.67v18.67a4.67 4.67 0 0 1 -4.67 4.66z" opacity=".45"></path>
+         <path d="m36 112.52a4.67 4.67 0 0 1 -1.71-6.37l9.34-16.15a4.67 4.67 0 0 1 6.37-1.72 4.67 4.67 0 0 1 1.71 6.37l-9.33 16.17a4.67 4.67 0 0 1 -6.38 1.7z" opacity=".5"></path>
+         <path d="m15.48 92a4.67 4.67 0 0 1 1.71-6.37l16.17-9.33a4.67 4.67 0 0 1 6.36 1.7 4.67 4.67 0 0 1 -1.72 6.37l-16.15 9.34a4.67 4.67 0 0 1 -6.37-1.71z" opacity=".55"></path>
+         <path d="m8 64a4.67 4.67 0 0 1 4.67-4.67h18.66a4.67 4.67 0 0 1 4.67 4.67 4.67 4.67 0 0 1 -4.67 4.67h-18.66a4.67 4.67 0 0 1 -4.67-4.67z" opacity=".6"></path>
+         <path d="m15.48 36a4.67 4.67 0 0 1 6.37-1.71l16.15 9.34a4.67 4.67 0 0 1 1.72 6.37 4.67 4.67 0 0 1 -6.37 1.71l-16.17-9.34a4.67 4.67 0 0 1 -1.7-6.37z" opacity=".65"></path>
+         <path d="m36 15.48a4.67 4.67 0 0 1 6.37 1.71l9.33 16.17a4.67 4.67 0 0 1 -1.7 6.36 4.67 4.67 0 0 1 -6.37-1.72l-9.34-16.15a4.67 4.67 0 0 1 1.71-6.37z" opacity=".7"></path>
+      </svg>
+      <div id="__CAPLA_APP_ROOT__">
+         <div data-capla-component="b-property-web-property-page/Badges-/ChildrenNotAllowedBanner-/CreditGeniusWallet-/CreditWallet-/CreditWalletRoomTable-/FXDisclaimer/v1/prices-converted/accommodations-/GeniusBenefitsCardHeader-/GeniusPlusProgramModeWelcomeSheet-/GeniusPlusSheetsPP-/GeniusSignInBannerRoomsTable-/GlobalAlerts-/LandingPagesEtTracking-/MapDesktop-/MapEntryPointDesktop-/PriceMatch/ssr/pp-sidebar-/PromotionalRegionOneDesktop-/PromotionalRegionOneDesktopGenius-/PropertyAskQuestionEntryDesktop-/PropertyBrandInfo-/PropertyBreadcrumbs-/PropertyChildPoliciesBlock-/PropertyDescriptionDesktop-/PropertyGallery360Viewer-/PropertyGallerySidebarReviewsDesktop-/PropertyGalleryUnifiedDesktop-/PropertyGeniusVipVoucherSheet-/PropertyHeaderAddressDesktop-/PropertyHeaderDesktop-/PropertyHeaderName-/PropertyHeaderNavDesktop-/PropertyHighlightList-/PropertyHighlights-/PropertyHighlightsWishlistWidget-/PropertyImageGalleryReviews-/PropertyInferredLocationScore-/PropertyMostPopularFacilities-/PropertyPageFAQ-/PropertyPageInterlinking-/PropertyReviewGuidelines-/PropertyReviewScore-/PropertyReviewScoreLeft-/PropertyReviewScoreRight-/PropertyReviewSubscoresPanel-/PropertyReviewsTabDesktop-/PropertySectionsBelowRoomsTable-/PropertyShareDesktop-/PropertyWishlistWidgetDesktop-/PropertyWriteReview-/RewardsBannerAndLandSheet-/RoomPage-/RoomTableBasketIntegrator-/RoomTableDesktop-/RoomTableValueAdds-/RussiaBelarusCrimeaBanner-/SearchBoxDesktop-/SearchBoxDesktopChangeDates-/SimilarPropertiesCarouselNotAvDesktop-/SustainabilityBadge-/SustainabilityBannerDesktop-/TopBeachNearbyOnGalleryDesktop-/TravellerFooter-/TravellerHeader-/UkraineWarningBanner-/ValueAddsBundleInformation-/YouBookedItBanner" data-capla-namespace="b-property-web-property-pagecbWYNAHU"></div>
+      </div>
+      <div class="g-hidden">
+         <div class="js-user-access-menu-lightbox user-access-menu-lightbox--signin user-access-menu-lightbox--no-password-strength">
+            <svg class="bk-icon -logos-booking-logo" height="42" style="display:none;" width="252" viewBox="0 0 252 42" role="presentation" aria-hidden="true" focusable="false">
+               <path d="M15.592 22.92C15.591 20.283 13.924 18.652 11.348 18.652H7.738C6.58 18.815 6.055 19.518 6.055 20.877V26.783L11.348 26.79C13.966 26.79 15.591 25.629 15.592 22.92ZM6.055 13.391H10.819C13.496 13.391 14.449 11.689 14.449 9.911C14.449 7.576 13.057 6.181 10.735 6.181H8.025C6.671 6.268 6.055 6.966 6.055 8.428V13.391ZM21.815 23.351C21.815 28.956 17.536 32.87 10.912 32.87H0V4.87C0.02 3.085 1.872 1.285 3.64 1.218H10.777C16.737 1.218 20.587 4.222 20.587 9.202C20.587 12.462 18.959 14.346 17.988 15.183L17.152 15.9L18.109 16.441C20.432 17.751 21.815 20.333 21.815 23.351V23.351ZM148.135 20.675C148.135 15.58 145.385 14.986 143.325 14.986C139.165 14.986 138.845 19.175 138.845 20.459C138.845 23.376 140.105 26.49 143.665 26.49C145.705 26.49 148.135 25.48 148.135 20.675V20.675ZM154.045 9.738L154.025 30.732C154.025 38.739 148.045 41.584 142.505 41.584C139.815 41.584 136.845 40.858 134.555 39.639L134.105 39.4L134.835 37.53L135.345 36.243C135.905 34.855 136.715 34.509 138.095 34.928C139.155 35.312 140.735 35.739 142.475 35.739C146.045 35.739 148.015 34.05 148.015 30.994V30.356L147.505 30.732C146.215 31.72 144.575 32.205 142.505 32.205C136.445 32.205 132.215 27.445 132.215 20.63C132.215 13.811 136.305 9.228 142.385 9.228C145.445 9.228 147.325 10.309 148.375 11.221L148.675 11.482L148.855 11.132C149.325 10.23 150.275 9.738 151.515 9.738H154.045V9.738ZM67.707 21.184C67.707 17.473 65.411 14.877 62.137 14.877C58.877 14.877 56.608 17.473 56.608 21.184C56.608 24.898 58.878 27.496 62.138 27.496C65.464 27.496 67.708 24.958 67.708 21.184H67.707ZM74.088 21.184C74.088 28.054 69.052 33.04 62.138 33.04C55.234 33.04 50.228 28.054 50.228 21.184C50.228 14.318 55.234 9.331 62.138 9.331C69.052 9.331 74.088 14.318 74.088 21.184ZM105.445 32.677V13.281C105.445 10.941 104.335 9.806 102.025 9.806L99.465 9.796L99.485 27.5H99.465L99.485 32.87H105.445V32.677ZM122.505 9.278C119.175 9.278 117.055 10.765 115.865 12.018L115.465 12.423L115.325 11.873C114.975 10.529 113.795 9.788 112.025 9.788H109.165L109.185 32.683H115.225V22.131C115.225 21.099 115.365 20.205 115.635 19.387C116.355 16.914 117.995 15.378 120.525 15.378C122.555 15.378 123.725 16.453 123.725 19.232V29.203C123.725 31.573 125.195 32.683 127.555 32.683H129.785V18.261C129.785 12.475 127.825 9.278 122.505 9.278V9.278ZM91.436 21.777C91.1964 21.3119 90.8928 20.8827 90.534 20.502L90.326 20.281L90.546 20.069C90.862 19.734 91.186 19.338 91.497 18.878L97.584 9.795H90.195L85.622 16.899C85.363 17.28 84.84 17.472 84.058 17.472H82.48V4.045C82.48 1.36 80.642 0 78.84 0H76.414L76.42 32.691H82.48V23.183H83.63C84.375 23.183 84.883 23.269 85.118 23.675L88.729 30.518C89.736 32.375 90.743 32.691 92.635 32.691H97.651L93.915 26.488L91.436 21.777ZM41.648 21.184C41.648 17.473 39.358 14.877 36.079 14.877C32.819 14.877 30.553 17.473 30.553 21.184C30.553 24.898 32.819 27.496 36.079 27.496C39.405 27.496 41.649 24.958 41.649 21.184H41.648ZM48.028 21.184C48.028 28.054 43.002 33.04 36.079 33.04C29.182 33.04 24.177 28.054 24.177 21.184C24.177 14.318 29.182 9.331 36.079 9.331C43.002 9.331 48.027 14.318 48.027 21.184H48.028ZM98.764 3.81C98.764 1.704 100.464 0 102.544 0C104.634 0 106.334 1.704 106.334 3.81C106.334 5.911 104.634 7.617 102.544 7.617C100.464 7.617 98.764 5.911 98.764 3.81Z" fill="#003580"></path>
+               <path d="M187.08 25.067C187.06 25.088 184.38 27.915 180.87 27.915C177.66 27.915 174.42 25.941 174.42 21.538C174.42 17.73 176.93 15.071 180.53 15.071C181.7 15.071 183.02 15.492 183.23 16.198L183.26 16.318C183.74 17.919 185.19 18.001 185.47 18.001L188.88 18.005V15.021C188.88 11.085 183.89 9.65698 180.53 9.65698C173.35 9.65698 168.14 14.674 168.14 21.584C168.14 28.489 173.29 33.502 180.4 33.502C186.56 33.502 189.91 29.434 189.94 29.391L190.12 29.172L187.43 24.685L187.08 25.067ZM244.43 9.65698C241.73 9.65698 239.25 10.927 237.58 13.05L237.11 13.651L236.74 12.979C235.53 10.776 233.46 9.65698 230.57 9.65698C227.55 9.65698 225.53 11.35 224.58 12.358L223.97 13.024L223.73 12.144C223.39 10.877 222.26 10.178 220.56 10.178H218.06L218.04 32.984H224.01V22.917C224.01 22.036 224.12 21.163 224.34 20.248C224.93 17.816 226.56 15.202 229.3 15.462C230.99 15.626 231.81 16.936 231.81 19.466V32.984H237.44V22.917C237.44 21.813 237.55 20.99 237.79 20.162C238.3 17.842 240.37 15.459 243.02 15.459C244.93 15.459 245.93 16.545 245.93 19.466V29.649C245.93 31.954 247.28 32.984 249.57 32.984H251.99L252 18.424C252 12.607 249.45 9.65698 244.43 9.65698V9.65698ZM203.66 10.043C196.76 10.043 191.35 15.031 191.35 21.898C191.35 28.765 196.76 33.754 203.66 33.754C210.58 33.754 215.61 28.765 215.61 21.898C215.61 15.031 210.58 10.043 203.66 10.043V10.043ZM158.31 29.446C158.31 27.34 160 25.636 162.09 25.636C164.18 25.636 165.88 27.34 165.88 29.446C165.88 31.548 164.18 33.254 162.09 33.254C160 33.254 158.31 31.548 158.31 29.446ZM203.66 28.209C200.4 28.209 198.13 25.611 198.13 21.898C198.13 18.186 200.4 15.59 203.66 15.59C206.93 15.59 209.23 18.186 209.23 21.898C209.23 25.671 206.99 28.209 203.66 28.209Z" fill="#003580"></path>
+            </svg>
+            <div class="iam_account_access">
+               <div class="iam_card iam_login_form">
+                  <div class="iam_login_text iam_login_text--header">
+                     Sign in to continue
+                  </div>
+                  <a href="https://account.booking.com/auth/oauth2?bkng_action=hotel&amp;dt=1763815756&amp;aid=304142&amp;client_id=vO1Kblk7xX9tUn2cpZLS&amp;state=UsAEunhF9K1bSlIJfyHgB0_Iu-Dlgza9P8nwFaEduKQ72APvZAzO587cdFpHzZXndi1Y3EFLnI088xzLWOhU4-zbE8vDczSCcpzGgUIFnc_ofsYBmmEI9yyTUn6kkvfyk7XAPjm98lDFgZw9vbdeBNPCXyvQbESXCDLTrC7DZC4L14e8eTnYzOw1Vf5os7ADvxmSOHa4BQW9lwPOZ0LMMeu89ToDnciYPQWZQHXGlwPxhgAWMZfD5SLepuGuLDWk67WNw9CgQ2JIeNolsEDzPkIZBlQ6gxRNl8P73005SatcFsynfEGuNtRj2v01_85lgy-FXcSUPwSTuAdJjdRe5rQSeEaTtdrGdKwWxYVsWKHGGsJ4qw6-KAHfMP92BAI6V82JmrFrAPmYy_TehCWAzGKV_4eXA5rDx8yPovD-aCLfyJqXE2YQlAO9O2LGV9B52lEc_rgnW2wI5mCBcd74RdPAYqGK20uZpiwi2albXdX44U0sQNt64lLgZk15gQscWKprbsUcVgJ3gvKpfv9lg8P7-fTSNSa-BbilcD05ElWYNiA2FWbo_ZG6-P0SYbWq0PS-PcC7sQNMk0OqUWePmviagJSx-nCL0-T0aWwMJsusVv7MAVB9p_WZSFzNhas_2D2-Hpaj4Wfbwes1kAJI96G64TCojPbyp9J_kIvY5zPJ20KZERzzrZIRsYGuX62DLnbheH_3L29-mWq3pXg3sBe-VKQdAvi-8DVqjyYcTle4iZC7azATPWHVH2nCIAFa_NAz&amp;lang=en-us&amp;response_type=sso&amp;redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return" class="iam_login_btn--email bui-button bui-button--large bui-button--wide bui-spacer" role="button" data-bui-component="Button">
+                  <span class="bui-button__text">
+                  Sign in to your account
+                  </span>
+                  </a>
+                  <div class="iam_login_or">
+                     <div class="iam_login_or_divider"></div>
+                     <span class="iam_login_or_text">or use one of these options</span>
+                  </div>
+                  <div class="access-panel__social-buttons">
+                     <a href="https://account.booking.com/auth/oauth2?bkng_action=hotel&amp;dt=1763815756&amp;aid=304142&amp;client_id=vO1Kblk7xX9tUn2cpZLS&amp;state=UsAEunhF9K1bSlIJfyHgB0_Iu-Dlgza9P8nwFaEduKQ72APvZAzO587cdFpHzZXndi1Y3EFLnI088xzLWOhU4-zbE8vDczSCcpzGgUIFnc_ofsYBmmEI9yyTUn6kkvfyk7XAPjm98lDFgZw9vbdeBNPCXyvQbESXCDLTrC7DZC4L14e8eTnYzOw1Vf5os7ADvxmSOHa4BQW9lwPOZ0LMMeu89ToDnciYPQWZQHXGlwPxhgAWMZfD5SLepuGuLDWk67WNw9CgQ2JIeNolsEDzPkIZBlQ6gxRNl8P73005SatcFsynfEGuNtRj2v01_85lgy-FXcSUPwSTuAdJjdRe5rQSeEaTtdrGdKwWxYVsWKHGGsJ4qw6-KAHfMP92BAI6V82JmrFrAPmYy_TehCWAzGKV_4eXA5rDx8yPovD-aCLfyJqXE2YQlAO9O2LGV9B52lEc_rgnW2wI5mCBcd74RdPAYqGK20uZpiwi2albXdX44U0sQNt64lLgZk15gQscWKprbsUcVgJ3gvKpfv9lg8P7-fTSNSa-BbilcD05ElWYNiA2FWbo_ZG6-P0SYbWq0PS-PcC7sQNMk0OqUWePmviagJSx-nCL0-T0aWwMJsusVv7MAVB9p_WZSFzNhas_2D2-Hpaj4Wfbwes1kAJI96G64TCojPbyp9J_kIvY5zPJ20KZERzzrZIRsYGuX62DLnbheH_3L29-mWq3pXg3sBe-VKQdAvi-8DVqjyYcTle4iZC7azATPWHVH2nCIAFa_NAz&amp;lang=en-us&amp;response_type=sso&amp;redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&amp;prompt=google" data-popup-href="https://account.booking.com/auth/oauth2?redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&amp;response_type=sso&amp;aid=304142&amp;client_id=vO1Kblk7xX9tUn2cpZLS&amp;state=UsADunhF9K1bSlLs5OYN6eKrFu3LJZFcn9dSCmUiU4bJt1JgSS8VWX52MpE5IZ32LM9CQ2Laq0dK7x_gVMF1NmCUHJIfG2GOedGma1L0bOnl_szro4gNgMabSkbN_tWyV7TNtJUY9KXvGvze2Z7SCZiCfMkiO4s-zdymxWEWfyqAzTQiV796F-QeOShndqht2P1ABsN-IQoDfXcCf5SQoF9VtXOsCT4QNZBr0OCXoiiiXUPs2XmtTQad-o95s4SYfy0AvtevKPlWvkYhPCc6a1eTpJtob66EaEoaMM1HZOGT-uP2jbZ06QXF4z8VvCCV-rtiNG6bPEeCCusT7ztR2d3Xno715iljuFeoHR-w2dCgmU3M87fUeDf3G9lcyfb4pyZowiawe-QjIFkVX5NFHZeibDVGG1xgL5tP5I6h6HEBpB2BxCbw3TlpQ0DOKQ9gPdeDGg3srrPb6oR_03yEWUvaUNObDl1Y16ud6tzI5dqh7v_7QmhM3ZesbXv8Pq6lV4gxhInWXggnN_XFT_HLKVVbWxdWhn4w3s4oij2dSdkcwDPVcsDSQHL1DmakMXeM9V6ztQ1sFeBEWceH5BMy5KQ_Xg&amp;lang=en-us&amp;bkng_action=hotel&amp;dt=1763815756&amp;popup=1&amp;prompt=google" class="iam_login_form__social-button iam_login_form__social-button-google bui-button bui-button--secondary " title="Sign in with Google" aria-label="Sign in with Google" data-component="iam/social-button" data-mask="true">
+                        <div class="iam_login_form__social-button-content">
+                           <div class="iam_login_form__social-button-image">
+                              <svg class="bk-icon -social-providers-google" height="24" width="24" viewBox="0 0 262 262" role="presentation" aria-hidden="true" focusable="false">
+                                 <path d="M255.878 133.451c0-10.734-.871-18.567-2.756-26.69H130.55v48.448h71.947c-1.45 12.04-9.283 30.172-26.69 42.356l-.244 1.622 38.755 30.023 2.685.268c24.659-22.774 38.875-56.282 38.875-96.027" fill="#4285F4"></path>
+                                 <path d="M130.55 261.1c35.248 0 64.839-11.605 86.453-31.622l-41.196-31.913c-11.024 7.688-25.82 13.055-45.257 13.055-34.523 0-63.824-22.773-74.269-54.25l-1.531.13-40.298 31.187-.527 1.465C35.393 231.798 79.49 261.1 130.55 261.1" fill="#34A853"></path>
+                                 <path d="M56.281 156.37c-2.756-8.123-4.351-16.827-4.351-25.82 0-8.994 1.595-17.697 4.206-25.82l-.073-1.73L15.26 71.312l-1.335.635C5.077 89.644 0 109.517 0 130.55s5.077 40.905 13.925 58.602l42.356-32.782" fill="#FBBC05"></path>
+                                 <path d="M130.55 50.479c24.514 0 41.05 10.589 50.479 19.438l36.844-35.974C195.245 12.91 165.798 0 130.55 0 79.49 0 35.393 29.301 13.925 71.947l42.211 32.783c10.59-31.477 39.891-54.251 74.414-54.251" fill="#EB4335"></path>
+                              </svg>
+                           </div>
+                        </div>
+                     </a>
+                     <a href="https://account.booking.com/auth/oauth2?bkng_action=hotel&amp;dt=1763815756&amp;aid=304142&amp;client_id=vO1Kblk7xX9tUn2cpZLS&amp;state=UsAEunhF9K1bSlIJfyHgB0_Iu-Dlgza9P8nwFaEduKQ72APvZAzO587cdFpHzZXndi1Y3EFLnI088xzLWOhU4-zbE8vDczSCcpzGgUIFnc_ofsYBmmEI9yyTUn6kkvfyk7XAPjm98lDFgZw9vbdeBNPCXyvQbESXCDLTrC7DZC4L14e8eTnYzOw1Vf5os7ADvxmSOHa4BQW9lwPOZ0LMMeu89ToDnciYPQWZQHXGlwPxhgAWMZfD5SLepuGuLDWk67WNw9CgQ2JIeNolsEDzPkIZBlQ6gxRNl8P73005SatcFsynfEGuNtRj2v01_85lgy-FXcSUPwSTuAdJjdRe5rQSeEaTtdrGdKwWxYVsWKHGGsJ4qw6-KAHfMP92BAI6V82JmrFrAPmYy_TehCWAzGKV_4eXA5rDx8yPovD-aCLfyJqXE2YQlAO9O2LGV9B52lEc_rgnW2wI5mCBcd74RdPAYqGK20uZpiwi2albXdX44U0sQNt64lLgZk15gQscWKprbsUcVgJ3gvKpfv9lg8P7-fTSNSa-BbilcD05ElWYNiA2FWbo_ZG6-P0SYbWq0PS-PcC7sQNMk0OqUWePmviagJSx-nCL0-T0aWwMJsusVv7MAVB9p_WZSFzNhas_2D2-Hpaj4Wfbwes1kAJI96G64TCojPbyp9J_kIvY5zPJ20KZERzzrZIRsYGuX62DLnbheH_3L29-mWq3pXg3sBe-VKQdAvi-8DVqjyYcTle4iZC7azATPWHVH2nCIAFa_NAz&amp;lang=en-us&amp;response_type=sso&amp;redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&amp;prompt=apple" data-popup-href="https://account.booking.com/auth/oauth2?redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&amp;response_type=sso&amp;aid=304142&amp;client_id=vO1Kblk7xX9tUn2cpZLS&amp;state=UsADunhF9K1bSlLs5OYN6eKrFu3LJZFcn9dSCmUiU4bJt1JgSS8VWX52MpE5IZ32LM9CQ2Laq0dK7x_gVMF1NmCUHJIfG2GOedGma1L0bOnl_szro4gNgMabSkbN_tWyV7TNtJUY9KXvGvze2Z7SCZiCfMkiO4s-zdymxWEWfyqAzTQiV796F-QeOShndqht2P1ABsN-IQoDfXcCf5SQoF9VtXOsCT4QNZBr0OCXoiiiXUPs2XmtTQad-o95s4SYfy0AvtevKPlWvkYhPCc6a1eTpJtob66EaEoaMM1HZOGT-uP2jbZ06QXF4z8VvCCV-rtiNG6bPEeCCusT7ztR2d3Xno715iljuFeoHR-w2dCgmU3M87fUeDf3G9lcyfb4pyZowiawe-QjIFkVX5NFHZeibDVGG1xgL5tP5I6h6HEBpB2BxCbw3TlpQ0DOKQ9gPdeDGg3srrPb6oR_03yEWUvaUNObDl1Y16ud6tzI5dqh7v_7QmhM3ZesbXv8Pq6lV4gxhInWXggnN_XFT_HLKVVbWxdWhn4w3s4oij2dSdkcwDPVcsDSQHL1DmakMXeM9V6ztQ1sFeBEWceH5BMy5KQ_Xg&amp;lang=en-us&amp;bkng_action=hotel&amp;dt=1763815756&amp;popup=1&amp;prompt=apple" class="iam_login_form__social-button iam_login_form__social-button-apple bui-button bui-button--secondary " title="Sign in with Apple" aria-label="Sign in with Apple" data-component="iam/social-button" data-mask="true">
+                        <div class="iam_login_form__social-button-content">
+                           <div class="iam_login_form__social-button-image">
+                              <svg class="bk-icon -social-providers-apple" height="24" width="24" viewBox="0 0 170 170" role="presentation" aria-hidden="true" focusable="false">
+                                 <path d="M150.37 130.25c-2.45 5.66-5.35 10.87-8.71 15.66-4.58 6.53-8.33 11.05-11.22 13.56-4.48 4.12-9.28 6.23-14.42 6.35-3.69 0-8.14-1.05-13.32-3.18-5.197-2.12-9.973-3.17-14.34-3.17-4.58 0-9.492 1.05-14.746 3.17-5.262 2.13-9.501 3.24-12.742 3.35-4.929.21-9.842-1.96-14.746-6.52-3.13-2.73-7.045-7.41-11.735-14.04-5.032-7.08-9.169-15.29-12.41-24.65-3.471-10.11-5.211-19.9-5.211-29.378 0-10.857 2.346-20.221 7.045-28.068 3.693-6.303 8.606-11.275 14.755-14.925s12.793-5.51 19.948-5.629c3.915 0 9.049 1.211 15.429 3.591 6.362 2.388 10.447 3.599 12.238 3.599 1.339 0 5.877-1.416 13.57-4.239 7.275-2.618 13.415-3.702 18.445-3.275 13.63 1.1 23.87 6.473 30.68 16.153-12.19 7.386-18.22 17.731-18.1 31.002.11 10.337 3.86 18.939 11.23 25.769 3.34 3.17 7.07 5.62 11.22 7.36-.9 2.61-1.85 5.11-2.86 7.51zM119.11 7.24c0 8.102-2.96 15.667-8.86 22.669-7.12 8.324-15.732 13.134-25.071 12.375a25.222 25.222 0 0 1-.188-3.07c0-7.778 3.386-16.102 9.399-22.908 3.002-3.446 6.82-6.311 11.45-8.597 4.62-2.252 8.99-3.497 13.1-3.71.12 1.083.17 2.166.17 3.24z"></path>
+                              </svg>
+                           </div>
+                        </div>
+                     </a>
+                     <a href="https://account.booking.com/auth/oauth2?bkng_action=hotel&amp;dt=1763815756&amp;aid=304142&amp;client_id=vO1Kblk7xX9tUn2cpZLS&amp;state=UsAEunhF9K1bSlIJfyHgB0_Iu-Dlgza9P8nwFaEduKQ72APvZAzO587cdFpHzZXndi1Y3EFLnI088xzLWOhU4-zbE8vDczSCcpzGgUIFnc_ofsYBmmEI9yyTUn6kkvfyk7XAPjm98lDFgZw9vbdeBNPCXyvQbESXCDLTrC7DZC4L14e8eTnYzOw1Vf5os7ADvxmSOHa4BQW9lwPOZ0LMMeu89ToDnciYPQWZQHXGlwPxhgAWMZfD5SLepuGuLDWk67WNw9CgQ2JIeNolsEDzPkIZBlQ6gxRNl8P73005SatcFsynfEGuNtRj2v01_85lgy-FXcSUPwSTuAdJjdRe5rQSeEaTtdrGdKwWxYVsWKHGGsJ4qw6-KAHfMP92BAI6V82JmrFrAPmYy_TehCWAzGKV_4eXA5rDx8yPovD-aCLfyJqXE2YQlAO9O2LGV9B52lEc_rgnW2wI5mCBcd74RdPAYqGK20uZpiwi2albXdX44U0sQNt64lLgZk15gQscWKprbsUcVgJ3gvKpfv9lg8P7-fTSNSa-BbilcD05ElWYNiA2FWbo_ZG6-P0SYbWq0PS-PcC7sQNMk0OqUWePmviagJSx-nCL0-T0aWwMJsusVv7MAVB9p_WZSFzNhas_2D2-Hpaj4Wfbwes1kAJI96G64TCojPbyp9J_kIvY5zPJ20KZERzzrZIRsYGuX62DLnbheH_3L29-mWq3pXg3sBe-VKQdAvi-8DVqjyYcTle4iZC7azATPWHVH2nCIAFa_NAz&amp;lang=en-us&amp;response_type=sso&amp;redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&amp;prompt=facebook" data-popup-href="https://account.booking.com/auth/oauth2?redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&amp;response_type=sso&amp;aid=304142&amp;client_id=vO1Kblk7xX9tUn2cpZLS&amp;state=UsADunhF9K1bSlLs5OYN6eKrFu3LJZFcn9dSCmUiU4bJt1JgSS8VWX52MpE5IZ32LM9CQ2Laq0dK7x_gVMF1NmCUHJIfG2GOedGma1L0bOnl_szro4gNgMabSkbN_tWyV7TNtJUY9KXvGvze2Z7SCZiCfMkiO4s-zdymxWEWfyqAzTQiV796F-QeOShndqht2P1ABsN-IQoDfXcCf5SQoF9VtXOsCT4QNZBr0OCXoiiiXUPs2XmtTQad-o95s4SYfy0AvtevKPlWvkYhPCc6a1eTpJtob66EaEoaMM1HZOGT-uP2jbZ06QXF4z8VvCCV-rtiNG6bPEeCCusT7ztR2d3Xno715iljuFeoHR-w2dCgmU3M87fUeDf3G9lcyfb4pyZowiawe-QjIFkVX5NFHZeibDVGG1xgL5tP5I6h6HEBpB2BxCbw3TlpQ0DOKQ9gPdeDGg3srrPb6oR_03yEWUvaUNObDl1Y16ud6tzI5dqh7v_7QmhM3ZesbXv8Pq6lV4gxhInWXggnN_XFT_HLKVVbWxdWhn4w3s4oij2dSdkcwDPVcsDSQHL1DmakMXeM9V6ztQ1sFeBEWceH5BMy5KQ_Xg&amp;lang=en-us&amp;bkng_action=hotel&amp;dt=1763815756&amp;popup=1&amp;prompt=facebook" class="iam_login_form__social-button iam_login_form__social-button-facebook bui-button bui-button--secondary " title="Sign in with Facebook" aria-label="Sign in with Facebook" data-component="iam/social-button" data-mask="true">
+                        <div class="iam_login_form__social-button-content">
+                           <div class="iam_login_form__social-button-image">
+                              <svg class="bk-icon -social-providers-facebook" height="24" width="24" viewBox="0 0 24 24" role="presentation" aria-hidden="true" focusable="false">
+                                 <path d="m22.675 0h-21.35c-.732 0-1.325.593-1.325 1.325v21.351c0 .731.593 1.324 1.325 1.324h11.495v-9.294h-3.128v-3.622h3.128v-2.671c0-3.1 1.893-4.788 4.659-4.788 1.325 0 2.463.099 2.795.143v3.24l-1.918.001c-1.504 0-1.795.715-1.795 1.763v2.313h3.587l-.467 3.622h-3.12v9.293h6.116c.73 0 1.323-.593 1.323-1.325v-21.35c0-.732-.593-1.325-1.325-1.325z" fill="#4469b0"></path>
+                              </svg>
+                           </div>
+                        </div>
+                     </a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div style="width: 0px; height: 0px; display: none; visibility: hidden;" id="batBeacon303505238773"><img style="width: 0px; height: 0px; display: none; visibility: hidden;" id="batBeacon269157076201" alt="" src="https://bat.bing.net/action/0?ti=15005356&amp;tm=gtm002&amp;Ver=2&amp;mid=fa7a62ff-749c-4dd9-b4ee-93e45ac8a3ff&amp;bo=3&amp;pi=918639831&amp;lg=en-US&amp;sw=2400&amp;sh=1350&amp;sc=24&amp;tl=Nature%20Lodge,%20Slot%20Gacor%20(updated%20prices%202025)&amp;kw=Nature%20Lodge,%20Slot%20Gacor,%20Indonesia,%20R%3AWebsite,%20Hotel,%20Hotels&amp;p=http%3A%2F%2Flocalhost%2Fsama.php%23blockdisplay4&amp;r=&amp;lt=888&amp;evt=pageLoad&amp;sv=2&amp;asc=D&amp;cdb=AQAS&amp;rn=182962" width="0" height="0"></div>
+      <div id="onetrust-consent-sdk" data-nosnippet="true">
+         <div class="onetrust-pc-dark-filter ot-hide ot-fade-in"></div>
+      </div>
+   </body>
+</html>
